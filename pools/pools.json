@@ -1,0 +1,28 @@
+{
+	"pools": [
+		{
+			"id": 0,
+			"website": "bitcityz.com",
+			"telegram": "https://t.me/BitCityZSocial",
+			"twitter": "https://twitter.com/BitCityZ_social",
+			"shortDescription": "Welcome to the Decentralized SocialFi Network for Crypto Lovers",
+			"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
+			"name": "BitCityZ",
+			"symbol": "BCTZ",
+			"totalSupply": 200000000,
+			"swapAmount": 600000,
+			"decimals": "18",
+			"price": 0.15,
+			"currencyPair": "BUSD",
+			"address": "TBA",
+			"claimPolicy": "Unlock 50% TGE. 1 month cliff",
+			"tags": ["NFT", "IDO"],
+			"startDate": 1660584600,
+			"logo": {
+				"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xE90CABC44faE173881879BFD87A736BA0bE31305.svg",
+				"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xE90CABC44faE173881879BFD87A736BA0bE31305.svg"
+			},
+			"delFlg": false
+		}
+	]
+}
