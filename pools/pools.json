@@ -22,8 +22,8 @@
 			"chain": "BNB chain",
 			"minRank": 3,
 			"logo": {
-				"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/bitcityz.png",
-				"small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/bitcityz.png"
+				"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/bitcityz.svg",
+				"small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/bitcityz.svg"
 			},
 			"delFlg": false
 		},
