@@ -20,6 +20,33 @@
 			"startDate": 1660584600,
 			"contract": "0x90Fa24C3211Cc6511a0cE8DAF5a79cC6aC9Fd8cD",
 			"chain": "BNB chain",
+			"minRank": 3,
+			"logo": {
+				"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/bitcityz.png",
+				"small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/bitcityz.png"
+			},
+			"delFlg": false
+		},
+		{
+			"id": 0,
+			"website": "bitcityz.com",
+			"telegram": "https://t.me/BitCityZSocial",
+			"twitter": "https://twitter.com/BitCityZ_social",
+			"shortDescription": "Welcome to the Decentralized SocialFi Network for Crypto Lovers",
+			"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
+			"name": "MONETRIP",
+			"symbol": "MONE",
+			"totalSupply": 200000000,
+			"swapAmount": 600000,
+			"decimals": "18",
+			"price": 0.15,
+			"currencyPair": "BUSD",
+			"address": "TBA",
+			"claimPolicy": "Unlock 50% TGE. 1 month cliff",
+			"tags": ["NFT", "IDO", "STO"],
+			"startDate": 1660584600,
+			"contract": "0x90Fa24C3211Cc6511a0cE8DAF5a79cC6aC9Fd8cD",
+			"chain": "BNB chain",
 			"minRank": 1,
 			"logo": {
 				"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/souni.png",
