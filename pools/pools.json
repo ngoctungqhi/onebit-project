@@ -20,7 +20,7 @@
 			"startDate": 1660584600,
 			"contract": "0x90Fa24C3211Cc6511a0cE8DAF5a79cC6aC9Fd8cD",
 			"chain": "BNB chain",
-			"minRank": 3,
+			"minRank": 2,
 			"logo": {
 				"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/bitcityz.svg",
 				"small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/bitcityz.svg"
@@ -47,7 +47,7 @@
 			"startDate": 1660584600,
 			"contract": "0x90Fa24C3211Cc6511a0cE8DAF5a79cC6aC9Fd8cD",
 			"chain": "BNB chain",
-			"minRank": 1,
+			"minRank": 3,
 			"logo": {
 				"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/souni.png",
 				"small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/souni.png"
