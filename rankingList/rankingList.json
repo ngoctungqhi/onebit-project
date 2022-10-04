@@ -3,57 +3,51 @@
 		{
 			"level": 1,
 			"image": "IconMetaRank1",
-			"min": 0,
-			"token": "BTCZ",
+			"min": 200,
+			"token": "ONB",
 			"winnerSelection": "Lottery",
-			"maxIndividualAllocation": 0,
-			"withdrawalDelay": "0 Day",
-			"benefit": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis eaque iusto velit? Voluptatum unde omnis aperiam, odit expedita exercitationem earum minus dolor? Praesentium quam error enim dignissimos, sint laboriosam quia.",
-			"mission": "Required quests that you need to complete before you can rank up"
+			"maxIndividualAllocation": 50,
+			"withdrawalDelay": "5 Days"
 		},
 		{
 			"level": 2,
 			"image": "IconMetaRank2",
-			"min": 250,
-			"token": "BTCZ",
+			"min": 1000,
+			"token": "ONB",
 			"winnerSelection": "Lottery",
-			"maxIndividualAllocation": 50,
-			"withdrawalDelay": "3 Days",
-			"benefit": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis eaque iusto velit? Voluptatum unde omnis aperiam, odit expedita exercitationem earum minus dolor? Praesentium quam error enim dignissimos, sint laboriosam quia.",
-			"mission": "Required quests that you need to complete before you can rank up"
+			"maxIndividualAllocation": 250,
+			"withdrawalDelay": "10 Days",
+			"mission": "Mua NFT ICON Silver với $ 20 để thăng cấp"
 		},
 		{
 			"level": 3,
 			"image": "IconMetaRank3",
-			"min": 500,
-			"token": "BTCZ",
+			"min": 3000,
+			"token": "ONB",
 			"winnerSelection": "Lottery",
-			"maxIndividualAllocation": 250,
-			"withdrawalDelay": "7 Days",
-			"benefit": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis eaque iusto velit? Voluptatum unde omnis aperiam, odit expedita exercitationem earum minus dolor? Praesentium quam error enim dignissimos, sint laboriosam quia.",
-			"mission": "Required quests that you need to complete before you can rank up"
+			"maxIndividualAllocation": 700,
+			"withdrawalDelay": "15 Days",
+			"mission": "Mua NFT ICON Silver với $ 20 để thăng cấp"
 		},
 		{
 			"level": 4,
 			"image": "IconMetaRank4",
-			"min": 1000,
-			"token": "BTCZ",
+			"min": 5000,
+			"token": "ONB",
 			"winnerSelection": "Lottery",
-			"maxIndividualAllocation": 600,
-			"withdrawalDelay": "12 Days",
-			"benefit": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis eaque iusto velit? Voluptatum unde omnis aperiam, odit expedita exercitationem earum minus dolor? Praesentium quam error enim dignissimos, sint laboriosam quia.",
-			"mission": "Required quests that you need to complete before you can rank up"
+			"maxIndividualAllocation": 1000,
+			"withdrawalDelay": "30 Days",
+			"mission": "Mua NFT ICON Silver với $ 20 để thăng cấp"
 		},
 		{
 			"level": 5,
 			"image": "IconMetaRank1",
-			"min": 2500,
-			"token": "BTCZ",
+			"min": 10000,
+			"token": "ONB",
 			"winnerSelection": "Lottery",
-			"maxIndividualAllocation": 3000,
-			"withdrawalDelay": "30 Days",
-			"benefit": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis eaque iusto velit? Voluptatum unde omnis aperiam, odit expedita exercitationem earum minus dolor? Praesentium quam error enim dignissimos, sint laboriosam quia.",
-			"mission": "Required quests that you need to complete before you can rank up"
+			"maxIndividualAllocation": 2000,
+			"withdrawalDelay": "60 Days",
+			"mission": "Mua NFT ICON Silver với $ 20 để thăng cấp"
 		}
 	]
 }
