@@ -65,33 +65,23 @@
 						]
 					}
 				],
-				"information": [
-					{
-						"name": "TOKEN INFO",
-						"title": {},
-						"detail": {
-							"symbol": "SHOD",
-							"tokenPrice": "0.04 BUSD",
-							"totalRaise": "$4M",
-							"swapAmount": "4,925,000 SHOD",
-							"tokenNetwork": "ONB",
-							"acceptedCurrency": "ONB",
-							"vestingSchedule": "20% TGE then linear monthly (10 months)"
-						}
+				"information": {
+					"tokenInfo": {
+						"symbol": "SHOD",
+						"tokenPrice": "0.04 BUSD",
+						"totalRaise": "$4M",
+						"swapAmount": "4,925,000 SHOD",
+						"tokenNetwork": "ONB",
+						"acceptedCurrency": "ONB",
+						"vestingSchedule": "20% TGE then linear monthly (10 months)"
 					},
-					{
-						"name": "POOL TIMELINE",
-						"title": {
-							"milestone": "TIMELINE"
-						},
-						"detail": {
-							"applyWhitelist": "17h00 13/10/2022 UTC+7",
-							"winnerAnnouncement": "16/10/2022 UTC+7",
-							"buyingPhaseGuarantee": "17h 20/10/2022 UTC+7",
-							"claim": "21h 25/10/2022 UTC+7"
-						}
+					"poolTimeline": {
+						"applyWhitelist": "17h00 13/10/2022 UTC+7",
+						"winnerAnnouncement": "16/10/2022 UTC+7",
+						"buyingPhaseGuarantee": "17h 20/10/2022 UTC+7",
+						"claim": "21h 25/10/2022 UTC+7"
 					}
-				],
+				},
 				"team": [
 					{
 						"title": "Team",
@@ -253,33 +243,23 @@
 						]
 					}
 				],
-				"information": [
-					{
-						"name": "TOKEN INFO",
-						"title": {},
-						"detail": {
-							"symbol": "SHOD",
-							"tokenPrice": "0.04 BUSD",
-							"totalRaise": "$4M",
-							"swapAmount": "4,925,000 SHOD",
-							"tokenNetwork": "ONB",
-							"acceptedCurrency": "ONB",
-							"vestingSchedule": "20% TGE then linear monthly (10 months)"
-						}
+				"information": {
+					"tokenInfo": {
+						"symbol": "SHOD",
+						"tokenPrice": "0.04 BUSD",
+						"totalRaise": "$4M",
+						"swapAmount": "4,925,000 SHOD",
+						"tokenNetwork": "ONB",
+						"acceptedCurrency": "ONB",
+						"vestingSchedule": "20% TGE then linear monthly (10 months)"
 					},
-					{
-						"name": "POOL TIMELINE",
-						"title": {
-							"milestone": "TIMELINE"
-						},
-						"detail": {
-							"applyWhitelist": "17h00 13/10/2022 UTC+7",
-							"winnerAnnouncement": "16/10/2022 UTC+7",
-							"buyingPhaseGuarantee": "17h 20/10/2022 UTC+7",
-							"claim": "21h 25/10/2022 UTC+7"
-						}
+					"poolTimeline": {
+						"applyWhitelist": "17h00 13/10/2022 UTC+7",
+						"winnerAnnouncement": "16/10/2022 UTC+7",
+						"buyingPhaseGuarantee": "17h 20/10/2022 UTC+7",
+						"claim": "21h 25/10/2022 UTC+7"
 					}
-				],
+				},
 				"team": [
 					{
 						"title": "Team",
