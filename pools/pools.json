@@ -1,5 +1,6 @@
 {
-	"pools": [{
+	"pools": [
+		{
 			"id": 0,
 			"social": {
 				"website": "shopdi.io",
@@ -16,10 +17,7 @@
 			"currencyPair": "BUSD",
 			"address": "TBA",
 			"claimPolicy": "Unlock 50% TGE. 1 month cliff",
-			"tags": [
-				"NFT",
-				"IDO"
-			],
+			"tags": ["NFT", "IDO"],
 			"startDate": 1660584600,
 			"contract": "0x90Fa24C3211Cc6511a0cE8DAF5a79cC6aC9Fd8cD",
 			"chain": "BNB chain",
@@ -31,7 +29,8 @@
 			"projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/bitcityz.png",
 			"delFlg": false,
 			"tabs": {
-				"overview": [{
+				"overview": [
+					{
 						"title": "",
 						"description": [
 							"Shopdi specializes in authentic, trendy, high-quality and limited-edition products. Shopdi enables members to shop on a transparent, reputable and dependable e-commerce platform while also allowing customers to choose their own prices for products without interfering with the seller's profits or brand positioning. Our business is designed to maximize value for our stakeholders.",
@@ -66,33 +65,35 @@
 						]
 					}
 				],
-				"information": [{
+				"information": [
+					{
 						"name": "TOKEN INFO",
 						"title": {},
 						"detail": {
-							"Symbol": "SHOD",
-							"Token Price": "0.04 BUSD",
-							"Total Raise": "$4M",
-							"Swap Amount": "4,925,000 SHOD",
-							"Token Network": "ONB",
-							"Accepted Currency": "ONB",
-							"Vesting Schedule": "20% TGE then linear monthly (10 months)"
+							"symbol": "SHOD",
+							"tokenPrice": "0.04 BUSD",
+							"totalRaise": "$4M",
+							"swapAmount": "4,925,000 SHOD",
+							"tokenNetwork": "ONB",
+							"acceptedCurrency": "ONB",
+							"vestingSchedule": "20% TGE then linear monthly (10 months)"
 						}
 					},
 					{
 						"name": "POOL TIMELINE",
 						"title": {
-							"MILESTONE": "TIMELINE"
+							"milestone": "TIMELINE"
 						},
 						"detail": {
-							"Apply Whitelist": "17h00 13/10/2022 UTC+7",
-							"Winner Announcement": "16/10/2022 UTC+7",
-							"Buying Phase Guarantee": "17h 20/10/2022 UTC+7",
-							"Claim": "21h 25/10/2022 UTC+7"
+							"applyWhitelist": "17h00 13/10/2022 UTC+7",
+							"winnerAnnouncement": "16/10/2022 UTC+7",
+							"buyingPhaseGuarantee": "17h 20/10/2022 UTC+7",
+							"claim": "21h 25/10/2022 UTC+7"
 						}
 					}
 				],
-				"team": [{
+				"team": [
+					{
 						"title": "Team",
 						"description": []
 					},
@@ -204,11 +205,7 @@
 			"currencyPair": "BUSD",
 			"address": "TBA",
 			"claimPolicy": "Unlock 50% TGE. 1 month cliff",
-			"tags": [
-				"NFT",
-				"IDO",
-				"STO"
-			],
+			"tags": ["NFT", "IDO", "STO"],
 			"startDate": 1660584600,
 			"contract": "0x90Fa24C3211Cc6511a0cE8DAF5a79cC6aC9Fd8cD",
 			"chain": "BNB chain",
@@ -220,7 +217,8 @@
 			"projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/monetrip.jpg",
 			"delFlg": false,
 			"tabs": {
-				"overview": [{
+				"overview": [
+					{
 						"title": "",
 						"description": [
 							"Shopdi specializes in authentic, trendy, high-quality and limited-edition products. Shopdi enables members to shop on a transparent, reputable and dependable e-commerce platform while also allowing customers to choose their own prices for products without interfering with the seller's profits or brand positioning. Our business is designed to maximize value for our stakeholders.",
@@ -255,33 +253,35 @@
 						]
 					}
 				],
-				"information": [{
+				"information": [
+					{
 						"name": "TOKEN INFO",
 						"title": {},
 						"detail": {
-							"Symbol": "SHOD",
-							"Token Price": "0.04 BUSD",
-							"Total Raise": "$4M",
-							"Swap Amount": "4,925,000 SHOD",
-							"Token Network": "ONB",
-							"Accepted Currency": "ONB",
-							"Vesting Schedule": "20% TGE then linear monthly (10 months)"
+							"symbol": "SHOD",
+							"tokenPrice": "0.04 BUSD",
+							"totalRaise": "$4M",
+							"swapAmount": "4,925,000 SHOD",
+							"tokenNetwork": "ONB",
+							"acceptedCurrency": "ONB",
+							"vestingSchedule": "20% TGE then linear monthly (10 months)"
 						}
 					},
 					{
 						"name": "POOL TIMELINE",
 						"title": {
-							"MILESTONE": "TIMELINE"
+							"milestone": "TIMELINE"
 						},
 						"detail": {
-							"Apply Whitelist": "17h00 13/10/2022 UTC+7",
-							"Winner Announcement": "16/10/2022 UTC+7",
-							"Buying Phase Guarantee": "17h 20/10/2022 UTC+7",
-							"Claim": "21h 25/10/2022 UTC+7"
+							"applyWhitelist": "17h00 13/10/2022 UTC+7",
+							"winnerAnnouncement": "16/10/2022 UTC+7",
+							"buyingPhaseGuarantee": "17h 20/10/2022 UTC+7",
+							"claim": "21h 25/10/2022 UTC+7"
 						}
 					}
 				],
-				"team": [{
+				"team": [
+					{
 						"title": "Team",
 						"description": []
 					},
