@@ -2,294 +2,588 @@
 	"pools": [
 		{
 			"id": 0,
-			"social": {
-				"website": "shopdi.io",
-				"telegram": "https://t.me/BitCityZSocial",
-				"twitter": "https://twitter.com/BitCityZ_social"
-			},
-			"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
-			"name": "BitCityZ",
-			"symbol": "BCTZ",
-			"totalSupply": 200000000,
-			"swapAmount": 600000,
-			"decimals": "18",
-			"price": 0.15,
-			"currencyPair": "BUSD",
-			"address": "TBA",
-			"claimPolicy": "Unlock 50% TGE. 1 month cliff",
-			"tags": ["NFT", "IDO"],
-			"startDate": 1660584600,
-			"contract": "0x90Fa24C3211Cc6511a0cE8DAF5a79cC6aC9Fd8cD",
-			"chain": "BNB chain",
-			"minRank": 2,
-			"logo": {
-				"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/bitcityz.svg",
-				"small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/bitcityz.svg"
-			},
-			"projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/bitcityz.png",
-			"delFlg": false,
-			"tabs": {
-				"overview": [
-					{
-						"title": "",
-						"description": [
-							"Shopdi specializes in authentic, trendy, high-quality and limited-edition products. Shopdi enables members to shop on a transparent, reputable and dependable e-commerce platform while also allowing customers to choose their own prices for products without interfering with the seller's profits or brand positioning. Our business is designed to maximize value for our stakeholders.",
-							"Shopdi is a next-generation e-commerce platform applying blockchain technology, where the selling price is determined by the number of interested people using the Hidden Price and Unlimited Discount mechanism. Shopdi is proud to be the first platform to integrate the blockchain technology and NFT to make transaction and product information transparent, and prioritize user experience and investors interests. It's created to buil a secure community of intermediaries for buyers and sellers to conduct transactions and trade items."
-						]
+			"language": {
+				"vi" : {
+					"social": {
+						"website": "shopdi.io",
+						"telegram": "https://t.me/BitCityZSocial",
+						"twitter": "https://twitter.com/BitCityZ_social"
 					},
-					{
-						"title": "1. Platform & High Security",
-						"description": [
-							"The Shopdi e-commerce platform is fully adaptable to a wide range of consumer groups and merchants with many variations in behavior, features, currency and legal regulations of different countries.",
-							"Making full use of Big Data through data analysis from the \"Private  Price\" mechanism and user behavior, Shopdi easily categorizes consumer groups based on many different criteria such as interests, behaviors, age, location, income. Thereby setting the appropriateness for the ad campaign to help the seller optimize costs, reach the right target audience and increase the conversion rate."
-						]
+					"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
+					"name": "BitCityZ",
+					"symbol": "BCTZ",
+					"totalSupply": 200000000,
+					"swapAmount": 600000,
+					"decimals": "18",
+					"price": 0.15,
+					"currencyPair": "BUSD",
+					"address": "TBA",
+					"claimPolicy": "Unlock 50% TGE. 1 month cliff",
+					"tags": ["NFT", "IDO"],
+					"startDate": 1660584600,
+					"contract": "0x90Fa24C3211Cc6511a0cE8DAF5a79cC6aC9Fd8cD",
+					"chain": "BNB chain",
+					"minRank": 2,
+					"logo": {
+						"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/bitcityz.svg",
+						"small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/bitcityz.svg"
 					},
-					{
-						"title": "2. Product Price & Origin",
-						"description": [
-							"Adopt the \"Hidden Price\" and \"Unlimited Discount\" mechanism so that users can decide the price they want to buy for a product they want. Clear and transparent product origin"
-						]
-					},
-					{
-						"title": "3. Payment method",
-						"description": [
-							"Multichannel payments: from integrated payments to electronic payments with a highly secure system that creates a high-secured payment space, therefore, securing the rights and benefits of users."
-						]
-					},
-					{
-						"title": "4. Opportunity & Commitment",
-						"description": [
-							"- For customers: Opportunity to buy quality products at the best prices in the market.",
-							"- For agents: Investment and earning opportunities for affiliate agents.",
-							"- For supply partners: Opportunities for cross-border development in the future"
-						]
-					}
-				],
-				"information": {
-					"tokenInfo": {
-						"symbol": "SHOD",
-						"tokenPrice": "0.04 BUSD",
-						"totalRaise": "$4M",
-						"swapAmount": "4,925,000 SHOD",
-						"tokenNetwork": "ONB",
-						"acceptedCurrency": "ONB",
-						"vestingSchedule": "20% TGE then linear monthly (10 months)"
-					},
-					"poolTimeline": {
-						"applyWhitelist": "17h00 13/10/2022 UTC+7",
-						"winnerAnnouncement": "16/10/2022 UTC+7",
-						"buyingPhaseGuarantee": "17h 20/10/2022 UTC+7",
-						"claim": "21h 25/10/2022 UTC+7"
-					}
-				},
-				"teamAndPartner": {
-					"teams": [
-						{
-							"title": "Do Bich Diep (Co-Founder & CEO)",
-							"description": "With more than 12 years of experience accumulated in the process of working at large corporations such as Trung Nguyen Group, SPC Group of Korea, with the ability to negotiate, solve problems, understand Vietnamese business law, combine with solid knowledge of accounting, finance and marketing etc. Ms. Diep currently holds the position of Managing Director of Shopdi."
+					"projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/bitcityz.png",
+					"delFlg": false,
+					"tabs": {
+						"overview": [
+							{
+								"title": "",
+								"description": [
+									"Shopdi specializes in authentic, trendy, high-quality and limited-edition products. Shopdi enables members to shop on a transparent, reputable and dependable e-commerce platform while also allowing customers to choose their own prices for products without interfering with the seller's profits or brand positioning. Our business is designed to maximize value for our stakeholders.",
+									"Shopdi is a next-generation e-commerce platform applying blockchain technology, where the selling price is determined by the number of interested people using the Hidden Price and Unlimited Discount mechanism. Shopdi is proud to be the first platform to integrate the blockchain technology and NFT to make transaction and product information transparent, and prioritize user experience and investors interests. It's created to buil a secure community of intermediaries for buyers and sellers to conduct transactions and trade items."
+								]
+							},
+							{
+								"title": "1. Platform & High Security",
+								"description": [
+									"The Shopdi e-commerce platform is fully adaptable to a wide range of consumer groups and merchants with many variations in behavior, features, currency and legal regulations of different countries.",
+									"Making full use of Big Data through data analysis from the \"Private  Price\" mechanism and user behavior, Shopdi easily categorizes consumer groups based on many different criteria such as interests, behaviors, age, location, income. Thereby setting the appropriateness for the ad campaign to help the seller optimize costs, reach the right target audience and increase the conversion rate."
+								]
+							},
+							{
+								"title": "2. Product Price & Origin",
+								"description": [
+									"Adopt the \"Hidden Price\" and \"Unlimited Discount\" mechanism so that users can decide the price they want to buy for a product they want. Clear and transparent product origin"
+								]
+							},
+							{
+								"title": "3. Payment method",
+								"description": [
+									"Multichannel payments: from integrated payments to electronic payments with a highly secure system that creates a high-secured payment space, therefore, securing the rights and benefits of users."
+								]
+							},
+							{
+								"title": "4. Opportunity & Commitment",
+								"description": [
+									"- For customers: Opportunity to buy quality products at the best prices in the market.",
+									"- For agents: Investment and earning opportunities for affiliate agents.",
+									"- For supply partners: Opportunities for cross-border development in the future"
+								]
+							}
+						],
+						"information": {
+							"tokenInfo": {
+								"symbol": "SHOD",
+								"tokenPrice": "0.04 BUSD",
+								"totalRaise": "$4M",
+								"swapAmount": "4,925,000 SHOD",
+								"tokenNetwork": "ONB",
+								"acceptedCurrency": "ONB",
+								"vestingSchedule": "20% TGE then linear monthly (10 months)"
+							},
+							"poolTimeline": {
+								"applyWhitelist": "17h00 13/10/2022 UTC+7",
+								"winnerAnnouncement": "16/10/2022 UTC+7",
+								"buyingPhaseGuarantee": "17h 20/10/2022 UTC+7",
+								"claim": "21h 25/10/2022 UTC+7"
+							}
 						},
-						{
-							"title": "Nguyen Hai Linh (CoFounder & Chief Technology Officer)",
-							"description": "With more than 20 years of experience in technology development. Mr. Linh was once the Asia Pacific Robocon Champion in 2004, Top 2 Vietnamese Talents in 2006 and many other scientific awards. He has worked in the US and Singapore for companies listed in the Forbes 500 list, and held the position of CTO of many companies such as: GoTrust, AI Dynamix… and now he is working at Shopdi as a Chief Technology Officer."
-						},
-						{
-							"title": "Bui Linh Chi (CMO)",
-							"description": "Ms Chi Bui has many years of experience in the digital marketing world. She has held supporting roles such as Director of Thang Loi Investment and Advertising Co., Ltd., Marketing Supervisor of Best Express Vietnam and Head of Marketing Department of Tiki Joint Stock Company. Ms. Chi Bui is currently the Marketing Manager of Shopdi."
-						},
-						{
-							"title": "Dang Vu Quynh Giao (CFO)",
-							"description": "With nearly 20 years of experience in accounting & finance for FDI corporations as well as US medical equipment corporations, Ms. Giao has worked for Johnson & Johnson, Estee Lauder, etc. and currently she is working at Shopdi as CFO."
-						},
-						{
-							"title": "Dang Tri Thanh (Product Manager)",
-							"description": "Mr. Thanh is a programmer, used to work in software in many fields such as software outsourcing, banking, education, FMCG and also held the position of IT Director at Huong Nghiep Asia, Bibica Group. With 16 years of experience in technology development, Mr. Thanh works at Shopdi as a Product School."
-						},
-						{
-							"title": "Nguyen Tuong Vi (Marketing Manager)",
-							"description": "As an honorary speaker at Digital Summit SEA and a Marketing lecturer in the field of F&B, with more than 10 years of experience working in the field of marketing consulting and implementing promotional campaigns for big brands such as Hennessy, Thaco , Oppo, etc. Ms. Vi currently holds the position of Marketing Manager of Shopdi."
-						},
-						{
-							"title": "Huynh Le Nhat Quang (Marketing Manager)",
-							"description": "With more than 6 years of experience in Sales and 5 years in Marketing, with extensive expertise in psychology and customer insight analysis, optimization of advertising costs, data analytics. Mr. Quang has held positions related to Marketing, consulting on business strategy and handling crisis communication. Mr. Quang knows how to train, optimize human resources and spread positive energy when working with employees. In addition, he has extensive knowledge in human resource management, Sales, legal, spa, F&B and cryptocurrency. Quang Huynh currently holds the position of Marketing Manager at Shopdi."
-						},
-						{
-							"title": "Quach Mai Tram (Legal Manager)",
-							"description": "Lawyer Quach Mai Tram is a member of Dai Viet Law and she used to work at Dai Viet Law, PGT Group, Freight Transport Association, now lawyer Tram works at Shopdi as Head of Legal Department."
-						},
-						{
-							"title": "Pham Cao Sang (Technical Leader)",
-							"description": "Mr. Sang has been devoted to data analytics and technology industry for more than 10 years. As the \"brain\"of every project he participates in, Mr. Sang has excellent programming skills and solid specialized knowledge related to user interface technology and platforms. Having held the position of PHP Developer (Recess Lazada Vietnam), Project Manager (Rivercrane Vietnam) and Head of Magento Backend Department (Bluebolt Software Company), we believe that Mr. Pham Cao Sang will help the project develop. Develop the best features for apps and websites with Shopdi Technical Lead."
-						},
-						{
-							"title": "Nguyen Thi My Trang (Ecommerce Manager)",
-							"description": "With more than 20 years of working in the retail sector, Ms. Trang is familiar with business management roles. She has held important positions related to supply chain management such as Fashion Merchandiser of Emart Vietnam, Senior Merchandiser of AEON Vietnam and E-commerce Product Manager of Shark Market. Shopdi is proud to have Ms. Nguyen Thi My Trang as its Head of E-Commerce Department with the goal of improving customer satisfaction related to products and shopping experience."
+						"teamAndPartner": {
+							"teams": [
+								{
+									"title": "Do Bich Diep (Co-Founder & CEO)",
+									"description": "With more than 12 years of experience accumulated in the process of working at large corporations such as Trung Nguyen Group, SPC Group of Korea, with the ability to negotiate, solve problems, understand Vietnamese business law, combine with solid knowledge of accounting, finance and marketing etc. Ms. Diep currently holds the position of Managing Director of Shopdi."
+								},
+								{
+									"title": "Nguyen Hai Linh (CoFounder & Chief Technology Officer)",
+									"description": "With more than 20 years of experience in technology development. Mr. Linh was once the Asia Pacific Robocon Champion in 2004, Top 2 Vietnamese Talents in 2006 and many other scientific awards. He has worked in the US and Singapore for companies listed in the Forbes 500 list, and held the position of CTO of many companies such as: GoTrust, AI Dynamix… and now he is working at Shopdi as a Chief Technology Officer."
+								},
+								{
+									"title": "Bui Linh Chi (CMO)",
+									"description": "Ms Chi Bui has many years of experience in the digital marketing world. She has held supporting roles such as Director of Thang Loi Investment and Advertising Co., Ltd., Marketing Supervisor of Best Express Vietnam and Head of Marketing Department of Tiki Joint Stock Company. Ms. Chi Bui is currently the Marketing Manager of Shopdi."
+								},
+								{
+									"title": "Dang Vu Quynh Giao (CFO)",
+									"description": "With nearly 20 years of experience in accounting & finance for FDI corporations as well as US medical equipment corporations, Ms. Giao has worked for Johnson & Johnson, Estee Lauder, etc. and currently she is working at Shopdi as CFO."
+								},
+								{
+									"title": "Dang Tri Thanh (Product Manager)",
+									"description": "Mr. Thanh is a programmer, used to work in software in many fields such as software outsourcing, banking, education, FMCG and also held the position of IT Director at Huong Nghiep Asia, Bibica Group. With 16 years of experience in technology development, Mr. Thanh works at Shopdi as a Product School."
+								},
+								{
+									"title": "Nguyen Tuong Vi (Marketing Manager)",
+									"description": "As an honorary speaker at Digital Summit SEA and a Marketing lecturer in the field of F&B, with more than 10 years of experience working in the field of marketing consulting and implementing promotional campaigns for big brands such as Hennessy, Thaco , Oppo, etc. Ms. Vi currently holds the position of Marketing Manager of Shopdi."
+								},
+								{
+									"title": "Huynh Le Nhat Quang (Marketing Manager)",
+									"description": "With more than 6 years of experience in Sales and 5 years in Marketing, with extensive expertise in psychology and customer insight analysis, optimization of advertising costs, data analytics. Mr. Quang has held positions related to Marketing, consulting on business strategy and handling crisis communication. Mr. Quang knows how to train, optimize human resources and spread positive energy when working with employees. In addition, he has extensive knowledge in human resource management, Sales, legal, spa, F&B and cryptocurrency. Quang Huynh currently holds the position of Marketing Manager at Shopdi."
+								},
+								{
+									"title": "Quach Mai Tram (Legal Manager)",
+									"description": "Lawyer Quach Mai Tram is a member of Dai Viet Law and she used to work at Dai Viet Law, PGT Group, Freight Transport Association, now lawyer Tram works at Shopdi as Head of Legal Department."
+								},
+								{
+									"title": "Pham Cao Sang (Technical Leader)",
+									"description": "Mr. Sang has been devoted to data analytics and technology industry for more than 10 years. As the \"brain\"of every project he participates in, Mr. Sang has excellent programming skills and solid specialized knowledge related to user interface technology and platforms. Having held the position of PHP Developer (Recess Lazada Vietnam), Project Manager (Rivercrane Vietnam) and Head of Magento Backend Department (Bluebolt Software Company), we believe that Mr. Pham Cao Sang will help the project develop. Develop the best features for apps and websites with Shopdi Technical Lead."
+								},
+								{
+									"title": "Nguyen Thi My Trang (Ecommerce Manager)",
+									"description": "With more than 20 years of working in the retail sector, Ms. Trang is familiar with business management roles. She has held important positions related to supply chain management such as Fashion Merchandiser of Emart Vietnam, Senior Merchandiser of AEON Vietnam and E-commerce Product Manager of Shark Market. Shopdi is proud to have Ms. Nguyen Thi My Trang as its Head of E-Commerce Department with the goal of improving customer satisfaction related to products and shopping experience."
+								}
+							],
+							"partners": [
+								{
+									"title": "Mr. Tran Bang Viet",
+									"description": "As a leading consultant on corporate strategy and organizational restructuring in Vietnam, he is the Founder and Chairman of Dong A Solutions, former General Director Mai Linh Taxi, Deputy General Director of Le & Associates and Le & Associates. Senior Director of TMA Solutions. He is also involved in leading many business associations and leadership development programs. Mr Viet is curently a Sales & Operations advisor for Shopdi."
+								},
+								{
+									"title": "Mr. Duong Vi Khoa",
+									"description": "Mr. Duong Vi Khoa is a famous figure in the information technology world of Vietnam. He holds an MCSE (Microsoft Systems Engineer) degree at the age of 19 and is the founder of the Vietnam Informatics Forum (ddth.com), which once gathered 60,000 members. With more than 20 years of management experience in the computer industry and skills in strategic planning, business development, crisis management, and social media, Mr. Khoa has held many consulting positions. and associates of many famous projects and investment funds such as KV Ventures, Bhodus, BHO, DHF, etc. Currently, Mr. Duong Vi Khoa is holding the position of Vice President of VIRESA term III (2020-2024) and is co-founder of the social network GAPO. Shopdi is very pleased to have his advice on the project's community development journey."
+								},
+								{
+									"title": "Mr. Ngo Hoang Dong",
+									"description": "Mr. Ngo Hoang Dong, also known as Tony Ngo, is the founder of Onebit Ventures and Network Media, and was also the founder of 25 Second Trading Joint Stock Company. He is the character that inspired the birth of Shopdi. With 20 years of working in the field of media consulting and many years of experience in the field of cryptocurrency. Mr. Ngo Hoang Dong is currently the Marketing and Communication Advisor for the Shopdi project."
+								},
+								{
+									"title": "Mr. Luong Tuan Anh",
+									"description": "Founder and CEO of BSC Station - a decentralized IDO platform on BSC, investor of more than 100 domestic and foreign Game development projects. With a wealth of experience in the blockchain field, NFT auction on Binance Smart Chain and development of the cryptocurrency community. Mr. Luong Tuan Anh is the community development consultant of the Shopdi project."
+								}
+							]
 						}
-					],
-					"partners": [
-						{
-							"title": "Mr. Tran Bang Viet",
-							"description": "As a leading consultant on corporate strategy and organizational restructuring in Vietnam, he is the Founder and Chairman of Dong A Solutions, former General Director Mai Linh Taxi, Deputy General Director of Le & Associates and Le & Associates. Senior Director of TMA Solutions. He is also involved in leading many business associations and leadership development programs. Mr Viet is curently a Sales & Operations advisor for Shopdi."
+				}},
+				"en" : {
+					"social": {
+						"website": "shopdi.io",
+						"telegram": "https://t.me/BitCityZSocial",
+						"twitter": "https://twitter.com/BitCityZ_social"
+					},
+					"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
+					"name": "BitCityZ",
+					"symbol": "BCTZ",
+					"totalSupply": 200000000,
+					"swapAmount": 600000,
+					"decimals": "18",
+					"price": 0.15,
+					"currencyPair": "BUSD",
+					"address": "TBA",
+					"claimPolicy": "Unlock 50% TGE. 1 month cliff",
+					"tags": ["NFT", "IDO"],
+					"startDate": 1660584600,
+					"contract": "0x90Fa24C3211Cc6511a0cE8DAF5a79cC6aC9Fd8cD",
+					"chain": "BNB chain",
+					"minRank": 2,
+					"logo": {
+						"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/bitcityz.svg",
+						"small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/bitcityz.svg"
+					},
+					"projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/bitcityz.png",
+					"delFlg": false,
+					"tabs": {
+						"overview": [
+							{
+								"title": "",
+								"description": [
+									"Shopdi specializes in authentic, trendy, high-quality and limited-edition products. Shopdi enables members to shop on a transparent, reputable and dependable e-commerce platform while also allowing customers to choose their own prices for products without interfering with the seller's profits or brand positioning. Our business is designed to maximize value for our stakeholders.",
+									"Shopdi is a next-generation e-commerce platform applying blockchain technology, where the selling price is determined by the number of interested people using the Hidden Price and Unlimited Discount mechanism. Shopdi is proud to be the first platform to integrate the blockchain technology and NFT to make transaction and product information transparent, and prioritize user experience and investors interests. It's created to buil a secure community of intermediaries for buyers and sellers to conduct transactions and trade items."
+								]
+							},
+							{
+								"title": "1. Platform & High Security",
+								"description": [
+									"The Shopdi e-commerce platform is fully adaptable to a wide range of consumer groups and merchants with many variations in behavior, features, currency and legal regulations of different countries.",
+									"Making full use of Big Data through data analysis from the \"Private  Price\" mechanism and user behavior, Shopdi easily categorizes consumer groups based on many different criteria such as interests, behaviors, age, location, income. Thereby setting the appropriateness for the ad campaign to help the seller optimize costs, reach the right target audience and increase the conversion rate."
+								]
+							},
+							{
+								"title": "2. Product Price & Origin",
+								"description": [
+									"Adopt the \"Hidden Price\" and \"Unlimited Discount\" mechanism so that users can decide the price they want to buy for a product they want. Clear and transparent product origin"
+								]
+							},
+							{
+								"title": "3. Payment method",
+								"description": [
+									"Multichannel payments: from integrated payments to electronic payments with a highly secure system that creates a high-secured payment space, therefore, securing the rights and benefits of users."
+								]
+							},
+							{
+								"title": "4. Opportunity & Commitment",
+								"description": [
+									"- For customers: Opportunity to buy quality products at the best prices in the market.",
+									"- For agents: Investment and earning opportunities for affiliate agents.",
+									"- For supply partners: Opportunities for cross-border development in the future"
+								]
+							}
+						],
+						"information": {
+							"tokenInfo": {
+								"symbol": "SHOD",
+								"tokenPrice": "0.04 BUSD",
+								"totalRaise": "$4M",
+								"swapAmount": "4,925,000 SHOD",
+								"tokenNetwork": "ONB",
+								"acceptedCurrency": "ONB",
+								"vestingSchedule": "20% TGE then linear monthly (10 months)"
+							},
+							"poolTimeline": {
+								"applyWhitelist": "17h00 13/10/2022 UTC+7",
+								"winnerAnnouncement": "16/10/2022 UTC+7",
+								"buyingPhaseGuarantee": "17h 20/10/2022 UTC+7",
+								"claim": "21h 25/10/2022 UTC+7"
+							}
 						},
-						{
-							"title": "Mr. Duong Vi Khoa",
-							"description": "Mr. Duong Vi Khoa is a famous figure in the information technology world of Vietnam. He holds an MCSE (Microsoft Systems Engineer) degree at the age of 19 and is the founder of the Vietnam Informatics Forum (ddth.com), which once gathered 60,000 members. With more than 20 years of management experience in the computer industry and skills in strategic planning, business development, crisis management, and social media, Mr. Khoa has held many consulting positions. and associates of many famous projects and investment funds such as KV Ventures, Bhodus, BHO, DHF, etc. Currently, Mr. Duong Vi Khoa is holding the position of Vice President of VIRESA term III (2020-2024) and is co-founder of the social network GAPO. Shopdi is very pleased to have his advice on the project's community development journey."
-						},
-						{
-							"title": "Mr. Ngo Hoang Dong",
-							"description": "Mr. Ngo Hoang Dong, also known as Tony Ngo, is the founder of Onebit Ventures and Network Media, and was also the founder of 25 Second Trading Joint Stock Company. He is the character that inspired the birth of Shopdi. With 20 years of working in the field of media consulting and many years of experience in the field of cryptocurrency. Mr. Ngo Hoang Dong is currently the Marketing and Communication Advisor for the Shopdi project."
-						},
-						{
-							"title": "Mr. Luong Tuan Anh",
-							"description": "Founder and CEO of BSC Station - a decentralized IDO platform on BSC, investor of more than 100 domestic and foreign Game development projects. With a wealth of experience in the blockchain field, NFT auction on Binance Smart Chain and development of the cryptocurrency community. Mr. Luong Tuan Anh is the community development consultant of the Shopdi project."
+						"teamAndPartner": {
+							"teams": [
+								{
+									"title": "Do Bich Diep (Co-Founder & CEO)",
+									"description": "With more than 12 years of experience accumulated in the process of working at large corporations such as Trung Nguyen Group, SPC Group of Korea, with the ability to negotiate, solve problems, understand Vietnamese business law, combine with solid knowledge of accounting, finance and marketing etc. Ms. Diep currently holds the position of Managing Director of Shopdi."
+								},
+								{
+									"title": "Nguyen Hai Linh (CoFounder & Chief Technology Officer)",
+									"description": "With more than 20 years of experience in technology development. Mr. Linh was once the Asia Pacific Robocon Champion in 2004, Top 2 Vietnamese Talents in 2006 and many other scientific awards. He has worked in the US and Singapore for companies listed in the Forbes 500 list, and held the position of CTO of many companies such as: GoTrust, AI Dynamix… and now he is working at Shopdi as a Chief Technology Officer."
+								},
+								{
+									"title": "Bui Linh Chi (CMO)",
+									"description": "Ms Chi Bui has many years of experience in the digital marketing world. She has held supporting roles such as Director of Thang Loi Investment and Advertising Co., Ltd., Marketing Supervisor of Best Express Vietnam and Head of Marketing Department of Tiki Joint Stock Company. Ms. Chi Bui is currently the Marketing Manager of Shopdi."
+								},
+								{
+									"title": "Dang Vu Quynh Giao (CFO)",
+									"description": "With nearly 20 years of experience in accounting & finance for FDI corporations as well as US medical equipment corporations, Ms. Giao has worked for Johnson & Johnson, Estee Lauder, etc. and currently she is working at Shopdi as CFO."
+								},
+								{
+									"title": "Dang Tri Thanh (Product Manager)",
+									"description": "Mr. Thanh is a programmer, used to work in software in many fields such as software outsourcing, banking, education, FMCG and also held the position of IT Director at Huong Nghiep Asia, Bibica Group. With 16 years of experience in technology development, Mr. Thanh works at Shopdi as a Product School."
+								},
+								{
+									"title": "Nguyen Tuong Vi (Marketing Manager)",
+									"description": "As an honorary speaker at Digital Summit SEA and a Marketing lecturer in the field of F&B, with more than 10 years of experience working in the field of marketing consulting and implementing promotional campaigns for big brands such as Hennessy, Thaco , Oppo, etc. Ms. Vi currently holds the position of Marketing Manager of Shopdi."
+								},
+								{
+									"title": "Huynh Le Nhat Quang (Marketing Manager)",
+									"description": "With more than 6 years of experience in Sales and 5 years in Marketing, with extensive expertise in psychology and customer insight analysis, optimization of advertising costs, data analytics. Mr. Quang has held positions related to Marketing, consulting on business strategy and handling crisis communication. Mr. Quang knows how to train, optimize human resources and spread positive energy when working with employees. In addition, he has extensive knowledge in human resource management, Sales, legal, spa, F&B and cryptocurrency. Quang Huynh currently holds the position of Marketing Manager at Shopdi."
+								},
+								{
+									"title": "Quach Mai Tram (Legal Manager)",
+									"description": "Lawyer Quach Mai Tram is a member of Dai Viet Law and she used to work at Dai Viet Law, PGT Group, Freight Transport Association, now lawyer Tram works at Shopdi as Head of Legal Department."
+								},
+								{
+									"title": "Pham Cao Sang (Technical Leader)",
+									"description": "Mr. Sang has been devoted to data analytics and technology industry for more than 10 years. As the \"brain\"of every project he participates in, Mr. Sang has excellent programming skills and solid specialized knowledge related to user interface technology and platforms. Having held the position of PHP Developer (Recess Lazada Vietnam), Project Manager (Rivercrane Vietnam) and Head of Magento Backend Department (Bluebolt Software Company), we believe that Mr. Pham Cao Sang will help the project develop. Develop the best features for apps and websites with Shopdi Technical Lead."
+								},
+								{
+									"title": "Nguyen Thi My Trang (Ecommerce Manager)",
+									"description": "With more than 20 years of working in the retail sector, Ms. Trang is familiar with business management roles. She has held important positions related to supply chain management such as Fashion Merchandiser of Emart Vietnam, Senior Merchandiser of AEON Vietnam and E-commerce Product Manager of Shark Market. Shopdi is proud to have Ms. Nguyen Thi My Trang as its Head of E-Commerce Department with the goal of improving customer satisfaction related to products and shopping experience."
+								}
+							],
+							"partners": [
+								{
+									"title": "Mr. Tran Bang Viet",
+									"description": "As a leading consultant on corporate strategy and organizational restructuring in Vietnam, he is the Founder and Chairman of Dong A Solutions, former General Director Mai Linh Taxi, Deputy General Director of Le & Associates and Le & Associates. Senior Director of TMA Solutions. He is also involved in leading many business associations and leadership development programs. Mr Viet is curently a Sales & Operations advisor for Shopdi."
+								},
+								{
+									"title": "Mr. Duong Vi Khoa",
+									"description": "Mr. Duong Vi Khoa is a famous figure in the information technology world of Vietnam. He holds an MCSE (Microsoft Systems Engineer) degree at the age of 19 and is the founder of the Vietnam Informatics Forum (ddth.com), which once gathered 60,000 members. With more than 20 years of management experience in the computer industry and skills in strategic planning, business development, crisis management, and social media, Mr. Khoa has held many consulting positions. and associates of many famous projects and investment funds such as KV Ventures, Bhodus, BHO, DHF, etc. Currently, Mr. Duong Vi Khoa is holding the position of Vice President of VIRESA term III (2020-2024) and is co-founder of the social network GAPO. Shopdi is very pleased to have his advice on the project's community development journey."
+								},
+								{
+									"title": "Mr. Ngo Hoang Dong",
+									"description": "Mr. Ngo Hoang Dong, also known as Tony Ngo, is the founder of Onebit Ventures and Network Media, and was also the founder of 25 Second Trading Joint Stock Company. He is the character that inspired the birth of Shopdi. With 20 years of working in the field of media consulting and many years of experience in the field of cryptocurrency. Mr. Ngo Hoang Dong is currently the Marketing and Communication Advisor for the Shopdi project."
+								},
+								{
+									"title": "Mr. Luong Tuan Anh",
+									"description": "Founder and CEO of BSC Station - a decentralized IDO platform on BSC, investor of more than 100 domestic and foreign Game development projects. With a wealth of experience in the blockchain field, NFT auction on Binance Smart Chain and development of the cryptocurrency community. Mr. Luong Tuan Anh is the community development consultant of the Shopdi project."
+								}
+							]
 						}
-					]
-				}
+				}}
 			}
 		},
 		{
 			"id": 1,
-			"social": {
-				"website": "shopdi.io",
-				"telegram": "https://t.me/BitCityZSocial",
-				"twitter": "https://twitter.com/BitCityZ_social"
-			},
-			"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
-			"name": "MONETRIP",
-			"symbol": "MONE",
-			"totalSupply": 200000000,
-			"swapAmount": 600000,
-			"decimals": "18",
-			"price": 0.15,
-			"currencyPair": "BUSD",
-			"address": "TBA",
-			"claimPolicy": "Unlock 50% TGE. 1 month cliff",
-			"tags": ["NFT", "IDO", "STO"],
-			"startDate": 1660584600,
-			"contract": "0x90Fa24C3211Cc6511a0cE8DAF5a79cC6aC9Fd8cD",
-			"chain": "BNB chain",
-			"minRank": 3,
-			"logo": {
-				"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/souni.png",
-				"small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/souni.png"
-			},
-			"projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/monetrip.jpg",
-			"delFlg": false,
-			"tabs": {
-				"overview": [
-					{
-						"title": "",
-						"description": [
-							"Shopdi specializes in authentic, trendy, high-quality and limited-edition products. Shopdi enables members to shop on a transparent, reputable and dependable e-commerce platform while also allowing customers to choose their own prices for products without interfering with the seller's profits or brand positioning. Our business is designed to maximize value for our stakeholders.",
-							"Shopdi is a next-generation e-commerce platform applying blockchain technology, where the selling price is determined by the number of interested people using the Hidden Price and Unlimited Discount mechanism. Shopdi is proud to be the first platform to integrate the blockchain technology and NFT to make transaction and product information transparent, and prioritize user experience and investors interests. It's created to buil a secure community of intermediaries for buyers and sellers to conduct transactions and trade items."
-						]
+			"language": {
+				"vi" : {
+					"social": {
+						"website": "shopdi.io",
+						"telegram": "https://t.me/BitCityZSocial",
+						"twitter": "https://twitter.com/BitCityZ_social"
 					},
-					{
-						"title": "1. Platform & High Security",
-						"description": [
-							"The Shopdi e-commerce platform is fully adaptable to a wide range of consumer groups and merchants with many variations in behavior, features, currency and legal regulations of different countries.",
-							"Making full use of Big Data through data analysis from the \"Private  Price\" mechanism and user behavior, Shopdi easily categorizes consumer groups based on many different criteria such as interests, behaviors, age, location, income. Thereby setting the appropriateness for the ad campaign to help the seller optimize costs, reach the right target audience and increase the conversion rate."
-						]
+					"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
+					"name": "BitCityZ",
+					"symbol": "BCTZ",
+					"totalSupply": 200000000,
+					"swapAmount": 600000,
+					"decimals": "18",
+					"price": 0.15,
+					"currencyPair": "BUSD",
+					"address": "TBA",
+					"claimPolicy": "Unlock 50% TGE. 1 month cliff",
+					"tags": ["NFT", "IDO"],
+					"startDate": 1660584600,
+					"contract": "0x90Fa24C3211Cc6511a0cE8DAF5a79cC6aC9Fd8cD",
+					"chain": "BNB chain",
+					"minRank": 2,
+					"logo": {
+						"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/bitcityz.svg",
+						"small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/bitcityz.svg"
 					},
-					{
-						"title": "2. Product Price & Origin",
-						"description": [
-							"Adopt the \"Hidden Price\" and \"Unlimited Discount\" mechanism so that users can decide the price they want to buy for a product they want. Clear and transparent product origin"
-						]
-					},
-					{
-						"title": "3. Payment method",
-						"description": [
-							"Multichannel payments: from integrated payments to electronic payments with a highly secure system that creates a high-secured payment space, therefore, securing the rights and benefits of users."
-						]
-					},
-					{
-						"title": "4. Opportunity & Commitment",
-						"description": [
-							"- For customers: Opportunity to buy quality products at the best prices in the market.",
-							"- For agents: Investment and earning opportunities for affiliate agents.",
-							"- For supply partners: Opportunities for cross-border development in the future"
-						]
-					}
-				],
-				"information": {
-					"tokenInfo": {
-						"symbol": "SHOD",
-						"tokenPrice": "0.04 BUSD",
-						"totalRaise": "$4M",
-						"swapAmount": "4,925,000 SHOD",
-						"tokenNetwork": "ONB",
-						"acceptedCurrency": "ONB",
-						"vestingSchedule": "20% TGE then linear monthly (10 months)"
-					},
-					"poolTimeline": {
-						"applyWhitelist": "17h00 13/10/2022 UTC+7",
-						"winnerAnnouncement": "16/10/2022 UTC+7",
-						"buyingPhaseGuarantee": "17h 20/10/2022 UTC+7",
-						"claim": "21h 25/10/2022 UTC+7"
-					}
-				},
-				"teamAndPartner": {
-					"teams": [
-						{
-							"title": "Do Bich Diep (Co-Founder & CEO)",
-							"description": "With more than 12 years of experience accumulated in the process of working at large corporations such as Trung Nguyen Group, SPC Group of Korea, with the ability to negotiate, solve problems, understand Vietnamese business law, combine with solid knowledge of accounting, finance and marketing etc. Ms. Diep currently holds the position of Managing Director of Shopdi."
+					"projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/bitcityz.png",
+					"delFlg": false,
+					"tabs": {
+						"overview": [
+							{
+								"title": "",
+								"description": [
+									"Shopdi specializes in authentic, trendy, high-quality and limited-edition products. Shopdi enables members to shop on a transparent, reputable and dependable e-commerce platform while also allowing customers to choose their own prices for products without interfering with the seller's profits or brand positioning. Our business is designed to maximize value for our stakeholders.",
+									"Shopdi is a next-generation e-commerce platform applying blockchain technology, where the selling price is determined by the number of interested people using the Hidden Price and Unlimited Discount mechanism. Shopdi is proud to be the first platform to integrate the blockchain technology and NFT to make transaction and product information transparent, and prioritize user experience and investors interests. It's created to buil a secure community of intermediaries for buyers and sellers to conduct transactions and trade items."
+								]
+							},
+							{
+								"title": "1. Platform & High Security",
+								"description": [
+									"The Shopdi e-commerce platform is fully adaptable to a wide range of consumer groups and merchants with many variations in behavior, features, currency and legal regulations of different countries.",
+									"Making full use of Big Data through data analysis from the \"Private  Price\" mechanism and user behavior, Shopdi easily categorizes consumer groups based on many different criteria such as interests, behaviors, age, location, income. Thereby setting the appropriateness for the ad campaign to help the seller optimize costs, reach the right target audience and increase the conversion rate."
+								]
+							},
+							{
+								"title": "2. Product Price & Origin",
+								"description": [
+									"Adopt the \"Hidden Price\" and \"Unlimited Discount\" mechanism so that users can decide the price they want to buy for a product they want. Clear and transparent product origin"
+								]
+							},
+							{
+								"title": "3. Payment method",
+								"description": [
+									"Multichannel payments: from integrated payments to electronic payments with a highly secure system that creates a high-secured payment space, therefore, securing the rights and benefits of users."
+								]
+							},
+							{
+								"title": "4. Opportunity & Commitment",
+								"description": [
+									"- For customers: Opportunity to buy quality products at the best prices in the market.",
+									"- For agents: Investment and earning opportunities for affiliate agents.",
+									"- For supply partners: Opportunities for cross-border development in the future"
+								]
+							}
+						],
+						"information": {
+							"tokenInfo": {
+								"symbol": "SHOD",
+								"tokenPrice": "0.04 BUSD",
+								"totalRaise": "$4M",
+								"swapAmount": "4,925,000 SHOD",
+								"tokenNetwork": "ONB",
+								"acceptedCurrency": "ONB",
+								"vestingSchedule": "20% TGE then linear monthly (10 months)"
+							},
+							"poolTimeline": {
+								"applyWhitelist": "17h00 13/10/2022 UTC+7",
+								"winnerAnnouncement": "16/10/2022 UTC+7",
+								"buyingPhaseGuarantee": "17h 20/10/2022 UTC+7",
+								"claim": "21h 25/10/2022 UTC+7"
+							}
 						},
-						{
-							"title": "Nguyen Hai Linh (CoFounder & Chief Technology Officer)",
-							"description": "With more than 20 years of experience in technology development. Mr. Linh was once the Asia Pacific Robocon Champion in 2004, Top 2 Vietnamese Talents in 2006 and many other scientific awards. He has worked in the US and Singapore for companies listed in the Forbes 500 list, and held the position of CTO of many companies such as: GoTrust, AI Dynamix… and now he is working at Shopdi as a Chief Technology Officer."
-						},
-						{
-							"title": "Bui Linh Chi (CMO)",
-							"description": "Ms Chi Bui has many years of experience in the digital marketing world. She has held supporting roles such as Director of Thang Loi Investment and Advertising Co., Ltd., Marketing Supervisor of Best Express Vietnam and Head of Marketing Department of Tiki Joint Stock Company. Ms. Chi Bui is currently the Marketing Manager of Shopdi."
-						},
-						{
-							"title": "Dang Vu Quynh Giao (CFO)",
-							"description": "With nearly 20 years of experience in accounting & finance for FDI corporations as well as US medical equipment corporations, Ms. Giao has worked for Johnson & Johnson, Estee Lauder, etc. and currently she is working at Shopdi as CFO."
-						},
-						{
-							"title": "Dang Tri Thanh (Product Manager)",
-							"description": "Mr. Thanh is a programmer, used to work in software in many fields such as software outsourcing, banking, education, FMCG and also held the position of IT Director at Huong Nghiep Asia, Bibica Group. With 16 years of experience in technology development, Mr. Thanh works at Shopdi as a Product School."
-						},
-						{
-							"title": "Nguyen Tuong Vi (Marketing Manager)",
-							"description": "As an honorary speaker at Digital Summit SEA and a Marketing lecturer in the field of F&B, with more than 10 years of experience working in the field of marketing consulting and implementing promotional campaigns for big brands such as Hennessy, Thaco , Oppo, etc. Ms. Vi currently holds the position of Marketing Manager of Shopdi."
-						},
-						{
-							"title": "Huynh Le Nhat Quang (Marketing Manager)",
-							"description": "With more than 6 years of experience in Sales and 5 years in Marketing, with extensive expertise in psychology and customer insight analysis, optimization of advertising costs, data analytics. Mr. Quang has held positions related to Marketing, consulting on business strategy and handling crisis communication. Mr. Quang knows how to train, optimize human resources and spread positive energy when working with employees. In addition, he has extensive knowledge in human resource management, Sales, legal, spa, F&B and cryptocurrency. Quang Huynh currently holds the position of Marketing Manager at Shopdi."
-						},
-						{
-							"title": "Quach Mai Tram (Legal Manager)",
-							"description": "Lawyer Quach Mai Tram is a member of Dai Viet Law and she used to work at Dai Viet Law, PGT Group, Freight Transport Association, now lawyer Tram works at Shopdi as Head of Legal Department."
-						},
-						{
-							"title": "Pham Cao Sang (Technical Leader)",
-							"description": "Mr. Sang has been devoted to data analytics and technology industry for more than 10 years. As the \"brain\"of every project he participates in, Mr. Sang has excellent programming skills and solid specialized knowledge related to user interface technology and platforms. Having held the position of PHP Developer (Recess Lazada Vietnam), Project Manager (Rivercrane Vietnam) and Head of Magento Backend Department (Bluebolt Software Company), we believe that Mr. Pham Cao Sang will help the project develop. Develop the best features for apps and websites with Shopdi Technical Lead."
-						},
-						{
-							"title": "Nguyen Thi My Trang (Ecommerce Manager)",
-							"description": "With more than 20 years of working in the retail sector, Ms. Trang is familiar with business management roles. She has held important positions related to supply chain management such as Fashion Merchandiser of Emart Vietnam, Senior Merchandiser of AEON Vietnam and E-commerce Product Manager of Shark Market. Shopdi is proud to have Ms. Nguyen Thi My Trang as its Head of E-Commerce Department with the goal of improving customer satisfaction related to products and shopping experience."
+						"teamAndPartner": {
+							"teams": [
+								{
+									"title": "Do Bich Diep (Co-Founder & CEO)",
+									"description": "With more than 12 years of experience accumulated in the process of working at large corporations such as Trung Nguyen Group, SPC Group of Korea, with the ability to negotiate, solve problems, understand Vietnamese business law, combine with solid knowledge of accounting, finance and marketing etc. Ms. Diep currently holds the position of Managing Director of Shopdi."
+								},
+								{
+									"title": "Nguyen Hai Linh (CoFounder & Chief Technology Officer)",
+									"description": "With more than 20 years of experience in technology development. Mr. Linh was once the Asia Pacific Robocon Champion in 2004, Top 2 Vietnamese Talents in 2006 and many other scientific awards. He has worked in the US and Singapore for companies listed in the Forbes 500 list, and held the position of CTO of many companies such as: GoTrust, AI Dynamix… and now he is working at Shopdi as a Chief Technology Officer."
+								},
+								{
+									"title": "Bui Linh Chi (CMO)",
+									"description": "Ms Chi Bui has many years of experience in the digital marketing world. She has held supporting roles such as Director of Thang Loi Investment and Advertising Co., Ltd., Marketing Supervisor of Best Express Vietnam and Head of Marketing Department of Tiki Joint Stock Company. Ms. Chi Bui is currently the Marketing Manager of Shopdi."
+								},
+								{
+									"title": "Dang Vu Quynh Giao (CFO)",
+									"description": "With nearly 20 years of experience in accounting & finance for FDI corporations as well as US medical equipment corporations, Ms. Giao has worked for Johnson & Johnson, Estee Lauder, etc. and currently she is working at Shopdi as CFO."
+								},
+								{
+									"title": "Dang Tri Thanh (Product Manager)",
+									"description": "Mr. Thanh is a programmer, used to work in software in many fields such as software outsourcing, banking, education, FMCG and also held the position of IT Director at Huong Nghiep Asia, Bibica Group. With 16 years of experience in technology development, Mr. Thanh works at Shopdi as a Product School."
+								},
+								{
+									"title": "Nguyen Tuong Vi (Marketing Manager)",
+									"description": "As an honorary speaker at Digital Summit SEA and a Marketing lecturer in the field of F&B, with more than 10 years of experience working in the field of marketing consulting and implementing promotional campaigns for big brands such as Hennessy, Thaco , Oppo, etc. Ms. Vi currently holds the position of Marketing Manager of Shopdi."
+								},
+								{
+									"title": "Huynh Le Nhat Quang (Marketing Manager)",
+									"description": "With more than 6 years of experience in Sales and 5 years in Marketing, with extensive expertise in psychology and customer insight analysis, optimization of advertising costs, data analytics. Mr. Quang has held positions related to Marketing, consulting on business strategy and handling crisis communication. Mr. Quang knows how to train, optimize human resources and spread positive energy when working with employees. In addition, he has extensive knowledge in human resource management, Sales, legal, spa, F&B and cryptocurrency. Quang Huynh currently holds the position of Marketing Manager at Shopdi."
+								},
+								{
+									"title": "Quach Mai Tram (Legal Manager)",
+									"description": "Lawyer Quach Mai Tram is a member of Dai Viet Law and she used to work at Dai Viet Law, PGT Group, Freight Transport Association, now lawyer Tram works at Shopdi as Head of Legal Department."
+								},
+								{
+									"title": "Pham Cao Sang (Technical Leader)",
+									"description": "Mr. Sang has been devoted to data analytics and technology industry for more than 10 years. As the \"brain\"of every project he participates in, Mr. Sang has excellent programming skills and solid specialized knowledge related to user interface technology and platforms. Having held the position of PHP Developer (Recess Lazada Vietnam), Project Manager (Rivercrane Vietnam) and Head of Magento Backend Department (Bluebolt Software Company), we believe that Mr. Pham Cao Sang will help the project develop. Develop the best features for apps and websites with Shopdi Technical Lead."
+								},
+								{
+									"title": "Nguyen Thi My Trang (Ecommerce Manager)",
+									"description": "With more than 20 years of working in the retail sector, Ms. Trang is familiar with business management roles. She has held important positions related to supply chain management such as Fashion Merchandiser of Emart Vietnam, Senior Merchandiser of AEON Vietnam and E-commerce Product Manager of Shark Market. Shopdi is proud to have Ms. Nguyen Thi My Trang as its Head of E-Commerce Department with the goal of improving customer satisfaction related to products and shopping experience."
+								}
+							],
+							"partners": [
+								{
+									"title": "Mr. Tran Bang Viet",
+									"description": "As a leading consultant on corporate strategy and organizational restructuring in Vietnam, he is the Founder and Chairman of Dong A Solutions, former General Director Mai Linh Taxi, Deputy General Director of Le & Associates and Le & Associates. Senior Director of TMA Solutions. He is also involved in leading many business associations and leadership development programs. Mr Viet is curently a Sales & Operations advisor for Shopdi."
+								},
+								{
+									"title": "Mr. Duong Vi Khoa",
+									"description": "Mr. Duong Vi Khoa is a famous figure in the information technology world of Vietnam. He holds an MCSE (Microsoft Systems Engineer) degree at the age of 19 and is the founder of the Vietnam Informatics Forum (ddth.com), which once gathered 60,000 members. With more than 20 years of management experience in the computer industry and skills in strategic planning, business development, crisis management, and social media, Mr. Khoa has held many consulting positions. and associates of many famous projects and investment funds such as KV Ventures, Bhodus, BHO, DHF, etc. Currently, Mr. Duong Vi Khoa is holding the position of Vice President of VIRESA term III (2020-2024) and is co-founder of the social network GAPO. Shopdi is very pleased to have his advice on the project's community development journey."
+								},
+								{
+									"title": "Mr. Ngo Hoang Dong",
+									"description": "Mr. Ngo Hoang Dong, also known as Tony Ngo, is the founder of Onebit Ventures and Network Media, and was also the founder of 25 Second Trading Joint Stock Company. He is the character that inspired the birth of Shopdi. With 20 years of working in the field of media consulting and many years of experience in the field of cryptocurrency. Mr. Ngo Hoang Dong is currently the Marketing and Communication Advisor for the Shopdi project."
+								},
+								{
+									"title": "Mr. Luong Tuan Anh",
+									"description": "Founder and CEO of BSC Station - a decentralized IDO platform on BSC, investor of more than 100 domestic and foreign Game development projects. With a wealth of experience in the blockchain field, NFT auction on Binance Smart Chain and development of the cryptocurrency community. Mr. Luong Tuan Anh is the community development consultant of the Shopdi project."
+								}
+							]
 						}
-					],
-					"partners": [
-						{
-							"title": "Mr. Tran Bang Viet",
-							"description": "As a leading consultant on corporate strategy and organizational restructuring in Vietnam, he is the Founder and Chairman of Dong A Solutions, former General Director Mai Linh Taxi, Deputy General Director of Le & Associates and Le & Associates. Senior Director of TMA Solutions. He is also involved in leading many business associations and leadership development programs. Mr Viet is curently a Sales & Operations advisor for Shopdi."
+				}},
+				"en" : {
+					"social": {
+						"website": "shopdi.io",
+						"telegram": "https://t.me/BitCityZSocial",
+						"twitter": "https://twitter.com/BitCityZ_social"
+					},
+					"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
+					"name": "BitCityZ",
+					"symbol": "BCTZ",
+					"totalSupply": 200000000,
+					"swapAmount": 600000,
+					"decimals": "18",
+					"price": 0.15,
+					"currencyPair": "BUSD",
+					"address": "TBA",
+					"claimPolicy": "Unlock 50% TGE. 1 month cliff",
+					"tags": ["NFT", "IDO"],
+					"startDate": 1660584600,
+					"contract": "0x90Fa24C3211Cc6511a0cE8DAF5a79cC6aC9Fd8cD",
+					"chain": "BNB chain",
+					"minRank": 2,
+					"logo": {
+						"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/bitcityz.svg",
+						"small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/bitcityz.svg"
+					},
+					"projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/bitcityz.png",
+					"delFlg": false,
+					"tabs": {
+						"overview": [
+							{
+								"title": "",
+								"description": [
+									"Shopdi specializes in authentic, trendy, high-quality and limited-edition products. Shopdi enables members to shop on a transparent, reputable and dependable e-commerce platform while also allowing customers to choose their own prices for products without interfering with the seller's profits or brand positioning. Our business is designed to maximize value for our stakeholders.",
+									"Shopdi is a next-generation e-commerce platform applying blockchain technology, where the selling price is determined by the number of interested people using the Hidden Price and Unlimited Discount mechanism. Shopdi is proud to be the first platform to integrate the blockchain technology and NFT to make transaction and product information transparent, and prioritize user experience and investors interests. It's created to buil a secure community of intermediaries for buyers and sellers to conduct transactions and trade items."
+								]
+							},
+							{
+								"title": "1. Platform & High Security",
+								"description": [
+									"The Shopdi e-commerce platform is fully adaptable to a wide range of consumer groups and merchants with many variations in behavior, features, currency and legal regulations of different countries.",
+									"Making full use of Big Data through data analysis from the \"Private  Price\" mechanism and user behavior, Shopdi easily categorizes consumer groups based on many different criteria such as interests, behaviors, age, location, income. Thereby setting the appropriateness for the ad campaign to help the seller optimize costs, reach the right target audience and increase the conversion rate."
+								]
+							},
+							{
+								"title": "2. Product Price & Origin",
+								"description": [
+									"Adopt the \"Hidden Price\" and \"Unlimited Discount\" mechanism so that users can decide the price they want to buy for a product they want. Clear and transparent product origin"
+								]
+							},
+							{
+								"title": "3. Payment method",
+								"description": [
+									"Multichannel payments: from integrated payments to electronic payments with a highly secure system that creates a high-secured payment space, therefore, securing the rights and benefits of users."
+								]
+							},
+							{
+								"title": "4. Opportunity & Commitment",
+								"description": [
+									"- For customers: Opportunity to buy quality products at the best prices in the market.",
+									"- For agents: Investment and earning opportunities for affiliate agents.",
+									"- For supply partners: Opportunities for cross-border development in the future"
+								]
+							}
+						],
+						"information": {
+							"tokenInfo": {
+								"symbol": "SHOD",
+								"tokenPrice": "0.04 BUSD",
+								"totalRaise": "$4M",
+								"swapAmount": "4,925,000 SHOD",
+								"tokenNetwork": "ONB",
+								"acceptedCurrency": "ONB",
+								"vestingSchedule": "20% TGE then linear monthly (10 months)"
+							},
+							"poolTimeline": {
+								"applyWhitelist": "17h00 13/10/2022 UTC+7",
+								"winnerAnnouncement": "16/10/2022 UTC+7",
+								"buyingPhaseGuarantee": "17h 20/10/2022 UTC+7",
+								"claim": "21h 25/10/2022 UTC+7"
+							}
 						},
-						{
-							"title": "Mr. Duong Vi Khoa",
-							"description": "Mr. Duong Vi Khoa is a famous figure in the information technology world of Vietnam. He holds an MCSE (Microsoft Systems Engineer) degree at the age of 19 and is the founder of the Vietnam Informatics Forum (ddth.com), which once gathered 60,000 members. With more than 20 years of management experience in the computer industry and skills in strategic planning, business development, crisis management, and social media, Mr. Khoa has held many consulting positions. and associates of many famous projects and investment funds such as KV Ventures, Bhodus, BHO, DHF, etc. Currently, Mr. Duong Vi Khoa is holding the position of Vice President of VIRESA term III (2020-2024) and is co-founder of the social network GAPO. Shopdi is very pleased to have his advice on the project's community development journey."
-						},
-						{
-							"title": "Mr. Ngo Hoang Dong",
-							"description": "Mr. Ngo Hoang Dong, also known as Tony Ngo, is the founder of Onebit Ventures and Network Media, and was also the founder of 25 Second Trading Joint Stock Company. He is the character that inspired the birth of Shopdi. With 20 years of working in the field of media consulting and many years of experience in the field of cryptocurrency. Mr. Ngo Hoang Dong is currently the Marketing and Communication Advisor for the Shopdi project."
-						},
-						{
-							"title": "Mr. Luong Tuan Anh",
-							"description": "Founder and CEO of BSC Station - a decentralized IDO platform on BSC, investor of more than 100 domestic and foreign Game development projects. With a wealth of experience in the blockchain field, NFT auction on Binance Smart Chain and development of the cryptocurrency community. Mr. Luong Tuan Anh is the community development consultant of the Shopdi project."
+						"teamAndPartner": {
+							"teams": [
+								{
+									"title": "Do Bich Diep (Co-Founder & CEO)",
+									"description": "With more than 12 years of experience accumulated in the process of working at large corporations such as Trung Nguyen Group, SPC Group of Korea, with the ability to negotiate, solve problems, understand Vietnamese business law, combine with solid knowledge of accounting, finance and marketing etc. Ms. Diep currently holds the position of Managing Director of Shopdi."
+								},
+								{
+									"title": "Nguyen Hai Linh (CoFounder & Chief Technology Officer)",
+									"description": "With more than 20 years of experience in technology development. Mr. Linh was once the Asia Pacific Robocon Champion in 2004, Top 2 Vietnamese Talents in 2006 and many other scientific awards. He has worked in the US and Singapore for companies listed in the Forbes 500 list, and held the position of CTO of many companies such as: GoTrust, AI Dynamix… and now he is working at Shopdi as a Chief Technology Officer."
+								},
+								{
+									"title": "Bui Linh Chi (CMO)",
+									"description": "Ms Chi Bui has many years of experience in the digital marketing world. She has held supporting roles such as Director of Thang Loi Investment and Advertising Co., Ltd., Marketing Supervisor of Best Express Vietnam and Head of Marketing Department of Tiki Joint Stock Company. Ms. Chi Bui is currently the Marketing Manager of Shopdi."
+								},
+								{
+									"title": "Dang Vu Quynh Giao (CFO)",
+									"description": "With nearly 20 years of experience in accounting & finance for FDI corporations as well as US medical equipment corporations, Ms. Giao has worked for Johnson & Johnson, Estee Lauder, etc. and currently she is working at Shopdi as CFO."
+								},
+								{
+									"title": "Dang Tri Thanh (Product Manager)",
+									"description": "Mr. Thanh is a programmer, used to work in software in many fields such as software outsourcing, banking, education, FMCG and also held the position of IT Director at Huong Nghiep Asia, Bibica Group. With 16 years of experience in technology development, Mr. Thanh works at Shopdi as a Product School."
+								},
+								{
+									"title": "Nguyen Tuong Vi (Marketing Manager)",
+									"description": "As an honorary speaker at Digital Summit SEA and a Marketing lecturer in the field of F&B, with more than 10 years of experience working in the field of marketing consulting and implementing promotional campaigns for big brands such as Hennessy, Thaco , Oppo, etc. Ms. Vi currently holds the position of Marketing Manager of Shopdi."
+								},
+								{
+									"title": "Huynh Le Nhat Quang (Marketing Manager)",
+									"description": "With more than 6 years of experience in Sales and 5 years in Marketing, with extensive expertise in psychology and customer insight analysis, optimization of advertising costs, data analytics. Mr. Quang has held positions related to Marketing, consulting on business strategy and handling crisis communication. Mr. Quang knows how to train, optimize human resources and spread positive energy when working with employees. In addition, he has extensive knowledge in human resource management, Sales, legal, spa, F&B and cryptocurrency. Quang Huynh currently holds the position of Marketing Manager at Shopdi."
+								},
+								{
+									"title": "Quach Mai Tram (Legal Manager)",
+									"description": "Lawyer Quach Mai Tram is a member of Dai Viet Law and she used to work at Dai Viet Law, PGT Group, Freight Transport Association, now lawyer Tram works at Shopdi as Head of Legal Department."
+								},
+								{
+									"title": "Pham Cao Sang (Technical Leader)",
+									"description": "Mr. Sang has been devoted to data analytics and technology industry for more than 10 years. As the \"brain\"of every project he participates in, Mr. Sang has excellent programming skills and solid specialized knowledge related to user interface technology and platforms. Having held the position of PHP Developer (Recess Lazada Vietnam), Project Manager (Rivercrane Vietnam) and Head of Magento Backend Department (Bluebolt Software Company), we believe that Mr. Pham Cao Sang will help the project develop. Develop the best features for apps and websites with Shopdi Technical Lead."
+								},
+								{
+									"title": "Nguyen Thi My Trang (Ecommerce Manager)",
+									"description": "With more than 20 years of working in the retail sector, Ms. Trang is familiar with business management roles. She has held important positions related to supply chain management such as Fashion Merchandiser of Emart Vietnam, Senior Merchandiser of AEON Vietnam and E-commerce Product Manager of Shark Market. Shopdi is proud to have Ms. Nguyen Thi My Trang as its Head of E-Commerce Department with the goal of improving customer satisfaction related to products and shopping experience."
+								}
+							],
+							"partners": [
+								{
+									"title": "Mr. Tran Bang Viet",
+									"description": "As a leading consultant on corporate strategy and organizational restructuring in Vietnam, he is the Founder and Chairman of Dong A Solutions, former General Director Mai Linh Taxi, Deputy General Director of Le & Associates and Le & Associates. Senior Director of TMA Solutions. He is also involved in leading many business associations and leadership development programs. Mr Viet is curently a Sales & Operations advisor for Shopdi."
+								},
+								{
+									"title": "Mr. Duong Vi Khoa",
+									"description": "Mr. Duong Vi Khoa is a famous figure in the information technology world of Vietnam. He holds an MCSE (Microsoft Systems Engineer) degree at the age of 19 and is the founder of the Vietnam Informatics Forum (ddth.com), which once gathered 60,000 members. With more than 20 years of management experience in the computer industry and skills in strategic planning, business development, crisis management, and social media, Mr. Khoa has held many consulting positions. and associates of many famous projects and investment funds such as KV Ventures, Bhodus, BHO, DHF, etc. Currently, Mr. Duong Vi Khoa is holding the position of Vice President of VIRESA term III (2020-2024) and is co-founder of the social network GAPO. Shopdi is very pleased to have his advice on the project's community development journey."
+								},
+								{
+									"title": "Mr. Ngo Hoang Dong",
+									"description": "Mr. Ngo Hoang Dong, also known as Tony Ngo, is the founder of Onebit Ventures and Network Media, and was also the founder of 25 Second Trading Joint Stock Company. He is the character that inspired the birth of Shopdi. With 20 years of working in the field of media consulting and many years of experience in the field of cryptocurrency. Mr. Ngo Hoang Dong is currently the Marketing and Communication Advisor for the Shopdi project."
+								},
+								{
+									"title": "Mr. Luong Tuan Anh",
+									"description": "Founder and CEO of BSC Station - a decentralized IDO platform on BSC, investor of more than 100 domestic and foreign Game development projects. With a wealth of experience in the blockchain field, NFT auction on Binance Smart Chain and development of the cryptocurrency community. Mr. Luong Tuan Anh is the community development consultant of the Shopdi project."
+								}
+							]
 						}
-					]
-				}
+				}}
 			}
 		}
 	]
