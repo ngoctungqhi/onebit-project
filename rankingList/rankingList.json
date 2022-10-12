@@ -3,7 +3,7 @@
 		{
 			"level": 1,
 			"image": "IconMetaRank1",
-			"min": 200,
+			"min": 4000,
 			"token": "ONB",
 			"winnerSelection": "Lottery",
 			"maxIndividualAllocation": 50,
@@ -12,42 +12,38 @@
 		{
 			"level": 2,
 			"image": "IconMetaRank2",
-			"min": 1000,
+			"min": 20000,
 			"token": "ONB",
 			"winnerSelection": "Lottery",
 			"maxIndividualAllocation": 250,
-			"withdrawalDelay": "10 Days",
-			"mission": "Mua NFT ICON Silver với $ 20 để thăng cấp"
+			"withdrawalDelay": "15 Days"
 		},
 		{
 			"level": 3,
 			"image": "IconMetaRank3",
-			"min": 3000,
+			"min": 60000,
 			"token": "ONB",
 			"winnerSelection": "Lottery",
 			"maxIndividualAllocation": 700,
-			"withdrawalDelay": "15 Days",
-			"mission": "Mua NFT ICON Silver với $ 20 để thăng cấp"
+			"withdrawalDelay": "30 Days"
 		},
 		{
 			"level": 4,
 			"image": "IconMetaRank4",
-			"min": 5000,
+			"min": 100000,
 			"token": "ONB",
 			"winnerSelection": "Lottery",
 			"maxIndividualAllocation": 1000,
-			"withdrawalDelay": "30 Days",
-			"mission": "Mua NFT ICON Silver với $ 20 để thăng cấp"
+			"withdrawalDelay": "45 Days"
 		},
 		{
 			"level": 5,
 			"image": "IconMetaRank1",
-			"min": 10000,
+			"min": 200000,
 			"token": "ONB",
 			"winnerSelection": "Lottery",
 			"maxIndividualAllocation": 2000,
-			"withdrawalDelay": "60 Days",
-			"mission": "Mua NFT ICON Silver với $ 20 để thăng cấp"
+			"withdrawalDelay": "60 Days"
 		}
 	]
 }
