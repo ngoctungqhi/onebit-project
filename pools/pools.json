@@ -26,10 +26,10 @@
 			"chain": "Kaidex",
 			"minRank": 1,
 			"logo": {
-				"large": "https://shopdi.com.vn/logo-with-icon.svg",
-				"small": "https://shopdi.com.vn/logo-with-icon.svg"
+				"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/shopdi.jpg",
+				"small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/shopdi.jpg"
 			},
-			"projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/bitcityz.png",
+			"projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/shopdi.jpg",
 			"delFlg": false,
 			"language": {
 				"vi": {
