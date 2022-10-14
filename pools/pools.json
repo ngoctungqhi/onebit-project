@@ -2,16 +2,40 @@
 	"pools": [
 		{
 			"id": 0,
-			"social": {
-				"website": "shopdi.io",
-				"facebook": "https://www.facebook.com/shopdi.official",
-				"telegram": "https://t.me/ShopdiOfficial?fbclid=IwAR2ode0eyLwOLpdvNC8juGqDixhgSlVH9R45WZMr_7DYvvZqVNd4mcac2ZM",
-				"twitter": "https://twitter.com/shopdi_official?fbclid=IwAR1h3L1pAdHwi39jLItkpGWUTsT2zK40x6mYMLKl04DzNWU93ibqzFm1WZo",
-				"instagram": "https://www.instagram.com/shopdi.official/?igshid=YmMyMTA2M2Y%3D/",
-				"youtube": "https://youtube.com/channel/UCUEJ-fUE4-ONf-LVdizZSTg",
-				"tiktok": "https://www.tiktok.com/@shopdi.official",
-				"telegram-group": "https://t.me/ShopdiVietnamOfficalGroup"
-			},
+			"social": [
+				{
+					"type": "website",
+					"link": "https://www.shopdi.io"
+				},
+				{
+					"type": "facebook",
+					"link": "https://www.facebook.com/shopdi.official"
+				},
+				{
+					"type": "telegram",
+					"link": "https://t.me/ShopdiOfficial?fbclid=IwAR2ode0eyLwOLpdvNC8juGqDixhgSlVH9R45WZMr_7DYvvZqVNd4mcac2ZM"
+				},
+				{
+					"type": "twitter",
+					"link": "https://twitter.com/shopdi_official?fbclid=IwAR1h3L1pAdHwi39jLItkpGWUTsT2zK40x6mYMLKl04DzNWU93ibqzFm1WZo"
+				},
+				{
+					"type": "instagram",
+					"link": "https://www.instagram.com/shopdi.official/?igshid=YmMyMTA2M2Y%3D/"
+				},
+				{
+					"type": "youtube",
+					"link": "https://youtube.com/channel/UCUEJ-fUE4-ONf-LVdizZSTg"
+				},
+				{
+					"type": "tiktok",
+					"link": "https://www.tiktok.com/@shopdi.official"
+				},
+				{
+					"type": "telegramGroup",
+					"link": "https://t.me/ShopdiVietnamOfficalGroup"
+				}
+			],
 			"name": "Shopdi",
 			"symbol": "SHOD",
 			"totalSupply": 500000000,
@@ -280,16 +304,40 @@
 		},
 		{
 			"id": 1,
-			"social": {
-				"website": "shopdi.io",
-				"facebook": "https://www.facebook.com/shopdi.official",
-				"telegram": "https://t.me/ShopdiOfficial?fbclid=IwAR2ode0eyLwOLpdvNC8juGqDixhgSlVH9R45WZMr_7DYvvZqVNd4mcac2ZM",
-				"twitter": "https://twitter.com/shopdi_official?fbclid=IwAR1h3L1pAdHwi39jLItkpGWUTsT2zK40x6mYMLKl04DzNWU93ibqzFm1WZo",
-				"instagram": "https://www.instagram.com/shopdi.official/?igshid=YmMyMTA2M2Y%3D/",
-				"youtube": "https://youtube.com/channel/UCUEJ-fUE4-ONf-LVdizZSTg",
-				"tiktok": "https://www.tiktok.com/@shopdi.official",
-				"telegram-group": "https://t.me/ShopdiVietnamOfficalGroup"
-			},
+			"social": [
+				{
+					"type": "website",
+					"link": "https://www.shopdi.io"
+				},
+				{
+					"type": "facebook",
+					"link": "https://www.facebook.com/shopdi.official"
+				},
+				{
+					"type": "telegram",
+					"link": "https://t.me/ShopdiOfficial?fbclid=IwAR2ode0eyLwOLpdvNC8juGqDixhgSlVH9R45WZMr_7DYvvZqVNd4mcac2ZM"
+				},
+				{
+					"type": "twitter",
+					"link": "https://twitter.com/shopdi_official?fbclid=IwAR1h3L1pAdHwi39jLItkpGWUTsT2zK40x6mYMLKl04DzNWU93ibqzFm1WZo"
+				},
+				{
+					"type": "instagram",
+					"link": "https://www.instagram.com/shopdi.official/?igshid=YmMyMTA2M2Y%3D/"
+				},
+				{
+					"type": "youtube",
+					"link": "https://youtube.com/channel/UCUEJ-fUE4-ONf-LVdizZSTg"
+				},
+				{
+					"type": "tiktok",
+					"link": "https://www.tiktok.com/@shopdi.official"
+				},
+				{
+					"type": "telegramGroup",
+					"link": "https://t.me/ShopdiVietnamOfficalGroup"
+				}
+			],
 			"name": "Shopdi",
 			"symbol": "SHOD",
 			"totalSupply": 500000000,
@@ -558,16 +606,40 @@
 		},
 		{
 			"id": 2,
-			"social": {
-				"website": "shopdi.io",
-				"facebook": "https://www.facebook.com/shopdi.official",
-				"telegram": "https://t.me/ShopdiOfficial?fbclid=IwAR2ode0eyLwOLpdvNC8juGqDixhgSlVH9R45WZMr_7DYvvZqVNd4mcac2ZM",
-				"twitter": "https://twitter.com/shopdi_official?fbclid=IwAR1h3L1pAdHwi39jLItkpGWUTsT2zK40x6mYMLKl04DzNWU93ibqzFm1WZo",
-				"instagram": "https://www.instagram.com/shopdi.official/?igshid=YmMyMTA2M2Y%3D/",
-				"youtube": "https://youtube.com/channel/UCUEJ-fUE4-ONf-LVdizZSTg",
-				"tiktok": "https://www.tiktok.com/@shopdi.official",
-				"telegram-group": "https://t.me/ShopdiVietnamOfficalGroup"
-			},
+			"social": [
+				{
+					"type": "website",
+					"link": "https://www.shopdi.io"
+				},
+				{
+					"type": "facebook",
+					"link": "https://www.facebook.com/shopdi.official"
+				},
+				{
+					"type": "telegram",
+					"link": "https://t.me/ShopdiOfficial?fbclid=IwAR2ode0eyLwOLpdvNC8juGqDixhgSlVH9R45WZMr_7DYvvZqVNd4mcac2ZM"
+				},
+				{
+					"type": "twitter",
+					"link": "https://twitter.com/shopdi_official?fbclid=IwAR1h3L1pAdHwi39jLItkpGWUTsT2zK40x6mYMLKl04DzNWU93ibqzFm1WZo"
+				},
+				{
+					"type": "instagram",
+					"link": "https://www.instagram.com/shopdi.official/?igshid=YmMyMTA2M2Y%3D/"
+				},
+				{
+					"type": "youtube",
+					"link": "https://youtube.com/channel/UCUEJ-fUE4-ONf-LVdizZSTg"
+				},
+				{
+					"type": "tiktok",
+					"link": "https://www.tiktok.com/@shopdi.official"
+				},
+				{
+					"type": "telegramGroup",
+					"link": "https://t.me/ShopdiVietnamOfficalGroup"
+				}
+			],
 			"name": "Shopdi",
 			"symbol": "SHOD",
 			"totalSupply": 500000000,
