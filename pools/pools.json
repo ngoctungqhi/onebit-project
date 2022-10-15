@@ -45,11 +45,11 @@
 			"currencyPair": "BUSD",
 			"address": "TBA",
 			"tags": ["NFT", "IDO", "ECOMMERCE"],
-			"startDate": "3:00 - 15/10/2022",
-			"endDate": "15:00 - 15/10/2022",
-			"claimDate": "15:00 - 17/10/2022",
+			"startDate": "21:00 - 17/10/2022",
+			"endDate": "22:00 - 17/10/2022",
+			"claimDate": "17:00 - 18/10/2022",
 			"contract": "0x7a3876445A53bdb7B2BAC8773BADc23E19cd4387",
-			"chain": "Kaidex",
+			"chain": "BSC",
 			"minRank": 1,
 			"logo": {
 				"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/shopdi.jpg",
@@ -60,7 +60,7 @@
 			"language": {
 				"vi": {
 					"description": "Shopdi là sàn thương mại điện tử thế hệ mới ứng dụng công nghệ blockchain, nơi giá bán được quyết định bởi số lượng người quan tâm với cơ chế Giá bí mật và Giá giảm không giới hạn. Tự hào là nền tảng đầu tiên sử dụng công nghệ blockchain và NFT để minh bạch hóa thông tin giao dịch và sản phẩm, đặt trải nghiệm người dùng lên hàng đầu và lợi ích của nhà đầu tư. Xây dựng cộng đồng trung gian an toàn cho người mua và người bán để thực hiện các giao dịch và trao đổi hàng hóa.",
-					"claimPolicy": "Mở khoá 50% sau mỗi tháng",
+					"claimPolicy": "Mở khoá 100%",
 					"tabs": {
 						"overview": [
 							{
@@ -181,7 +181,7 @@
 				},
 				"en": {
 					"description": "Shopdi is a next-generation e-commerce platform applying blockchain technology, where the selling price is determined by the number of interested people using the Hidden Price and Unlimited Discount mechanism. Shopdi is proud to be the first platform to integrate the blockchain technology and NFT to make transaction and product information transparent, and prioritize user experience and investors interests. It's created to buil a secure community of intermediaries for buyers and sellers to conduct transactions and trade items.",
-					"claimPolicy": "Unlock 50% TGE. 1 month cliff",
+					"claimPolicy": "TGE unlock 100%",
 					"tabs": {
 						"overview": [
 							{
@@ -347,11 +347,11 @@
 			"currencyPair": "BUSD",
 			"address": "TBA",
 			"tags": ["NFT", "IDO", "ECOMMERCE"],
-			"startDate": "3:00 - 15/10/2022",
-			"endDate": "15:00 - 15/10/2022",
-			"claimDate": "15:00 - 17/10/2022",
+			"startDate": "21:00 - 17/10/2022",
+			"endDate": "22:00 - 17/10/2022",
+			"claimDate": "17:00 - 18/10/2022",
 			"contract": "0x7a3876445A53bdb7B2BAC8773BADc23E19cd4387",
-			"chain": "Kaidex",
+			"chain": "BSC",
 			"minRank": 1,
 			"logo": {
 				"large": "https://shopdi.com.vn/logo-with-icon.svg",
@@ -362,7 +362,7 @@
 			"language": {
 				"vi": {
 					"description": "Shopdi là sàn thương mại điện tử thế hệ mới ứng dụng công nghệ blockchain, nơi giá bán được quyết định bởi số lượng người quan tâm với cơ chế Giá bí mật và Giá giảm không giới hạn. Tự hào là nền tảng đầu tiên sử dụng công nghệ blockchain và NFT để minh bạch hóa thông tin giao dịch và sản phẩm, đặt trải nghiệm người dùng lên hàng đầu và lợi ích của nhà đầu tư. Xây dựng cộng đồng trung gian an toàn cho người mua và người bán để thực hiện các giao dịch và trao đổi hàng hóa.",
-					"claimPolicy": "Mở khoá 50% sau mỗi tháng",
+					"claimPolicy": "Mở khoá 100%",
 					"tabs": {
 						"overview": [
 							{
@@ -483,7 +483,7 @@
 				},
 				"en": {
 					"description": "Shopdi is a next-generation e-commerce platform applying blockchain technology, where the selling price is determined by the number of interested people using the Hidden Price and Unlimited Discount mechanism. Shopdi is proud to be the first platform to integrate the blockchain technology and NFT to make transaction and product information transparent, and prioritize user experience and investors interests. It's created to buil a secure community of intermediaries for buyers and sellers to conduct transactions and trade items.",
-					"claimPolicy": "Unlock 50% TGE. 1 month cliff",
+					"claimPolicy": "TGE unlock 100% ",
 					"tabs": {
 						"overview": [
 							{
@@ -649,11 +649,11 @@
 			"currencyPair": "BUSD",
 			"address": "TBA",
 			"tags": ["NFT", "IDO", "ECOMMERCE"],
-			"startDate": "3:00 - 15/10/2022",
-			"endDate": "15:00 - 15/10/2022",
-			"claimDate": "15:00 - 17/10/2022",
+			"startDate": "21:00 - 17/10/2022",
+			"endDate": "22:00 - 17/10/2022",
+			"claimDate": "17:00 - 18/10/2022",
 			"contract": "0x7a3876445A53bdb7B2BAC8773BADc23E19cd4387",
-			"chain": "Kaidex",
+			"chain": "BSC",
 			"minRank": 1,
 			"logo": {
 				"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/shopdi.jpg",
@@ -664,7 +664,7 @@
 			"language": {
 				"vi": {
 					"description": "Shopdi là sàn thương mại điện tử thế hệ mới ứng dụng công nghệ blockchain, nơi giá bán được quyết định bởi số lượng người quan tâm với cơ chế Giá bí mật và Giá giảm không giới hạn. Tự hào là nền tảng đầu tiên sử dụng công nghệ blockchain và NFT để minh bạch hóa thông tin giao dịch và sản phẩm, đặt trải nghiệm người dùng lên hàng đầu và lợi ích của nhà đầu tư. Xây dựng cộng đồng trung gian an toàn cho người mua và người bán để thực hiện các giao dịch và trao đổi hàng hóa.",
-					"claimPolicy": "Mở khoá 50% sau mỗi tháng",
+					"claimPolicy": "Mở khoá 100%",
 					"tabs": {
 						"overview": [
 							{
@@ -785,7 +785,7 @@
 				},
 				"en": {
 					"description": "Shopdi is a next-generation e-commerce platform applying blockchain technology, where the selling price is determined by the number of interested people using the Hidden Price and Unlimited Discount mechanism. Shopdi is proud to be the first platform to integrate the blockchain technology and NFT to make transaction and product information transparent, and prioritize user experience and investors interests. It's created to buil a secure community of intermediaries for buyers and sellers to conduct transactions and trade items.",
-					"claimPolicy": "Unlock 50% TGE. 1 month cliff",
+					"claimPolicy": "TGE unlock 100% ",
 					"tabs": {
 						"overview": [
 							{
@@ -951,11 +951,11 @@
 			"currencyPair": "BUSD",
 			"address": "TBA",
 			"tags": ["NFT", "IDO", "ECOMMERCE"],
-			"startDate": "3:00 - 15/10/2022",
-			"endDate": "15:00 - 15/10/2022",
-			"claimDate": "15:00 - 17/10/2022",
+			"startDate": "21:00 - 17/10/2022",
+			"endDate": "22:00 - 17/10/2022",
+			"claimDate": "17:00 - 18/10/2022",
 			"contract": "0x7a3876445A53bdb7B2BAC8773BADc23E19cd4387",
-			"chain": "Kaidex",
+			"chain": "BSC",
 			"minRank": 1,
 			"logo": {
 				"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/shopdi.jpg",
@@ -966,7 +966,7 @@
 			"language": {
 				"vi": {
 					"description": "Shopdi là sàn thương mại điện tử thế hệ mới ứng dụng công nghệ blockchain, nơi giá bán được quyết định bởi số lượng người quan tâm với cơ chế Giá bí mật và Giá giảm không giới hạn. Tự hào là nền tảng đầu tiên sử dụng công nghệ blockchain và NFT để minh bạch hóa thông tin giao dịch và sản phẩm, đặt trải nghiệm người dùng lên hàng đầu và lợi ích của nhà đầu tư. Xây dựng cộng đồng trung gian an toàn cho người mua và người bán để thực hiện các giao dịch và trao đổi hàng hóa.",
-					"claimPolicy": "Mở khoá 50% sau mỗi tháng",
+					"claimPolicy": "Mở khoá 100%",
 					"tabs": {
 						"overview": [
 							{
@@ -1087,7 +1087,7 @@
 				},
 				"en": {
 					"description": "Shopdi is a next-generation e-commerce platform applying blockchain technology, where the selling price is determined by the number of interested people using the Hidden Price and Unlimited Discount mechanism. Shopdi is proud to be the first platform to integrate the blockchain technology and NFT to make transaction and product information transparent, and prioritize user experience and investors interests. It's created to buil a secure community of intermediaries for buyers and sellers to conduct transactions and trade items.",
-					"claimPolicy": "Unlock 50% TGE. 1 month cliff",
+					"claimPolicy": "TGE unlock 100% ",
 					"tabs": {
 						"overview": [
 							{
