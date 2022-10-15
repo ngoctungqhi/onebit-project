@@ -101,18 +101,17 @@
 						"information": {
 							"tokenInfo": {
 								"symbol": "SHOD",
-								"tokenPrice": "0.04 BUSD",
-								"totalRaise": "$4M",
-								"swapAmount": "4,925,000 SHOD",
-								"tokenNetwork": "ONB",
-								"acceptedCurrency": "ONB",
-								"vestingSchedule": "20% TGE then linear monthly (10 months)"
+								"tokenPrice": "0.075 BUSD",
+								"totalRaise": "$16,250.00",
+								"swapAmount": "216,666.666 SHOD",
+								"tokenNetwork": "BSC",
+								"acceptedCurrency": "BUSD",
+								"vestingSchedule": "Mở khoá 100%"
 							},
 							"poolTimeline": {
-								"applyWhitelist": "17h00 13/10/2022 UTC+7",
-								"winnerAnnouncement": "16/10/2022 UTC+7",
-								"buyingPhaseGuarantee": "17h 20/10/2022 UTC+7",
-								"claim": "21h 25/10/2022 UTC+7"
+								"idoStart": "21h00 17/10/2022 UTC+7",
+								"idoEnd": "22h00 17/10/2022 UTC+7",
+								"claim": "17h00 18/10/2022 UTC+7"
 							}
 						},
 						"teamAndPartner": {
@@ -222,18 +221,17 @@
 						"information": {
 							"tokenInfo": {
 								"symbol": "SHOD",
-								"tokenPrice": "0.04 BUSD",
-								"totalRaise": "$4M",
-								"swapAmount": "4,925,000 SHOD",
-								"tokenNetwork": "ONB",
-								"acceptedCurrency": "ONB",
-								"vestingSchedule": "20% TGE then linear monthly (10 months)"
+								"tokenPrice": "0.075 BUSD",
+								"totalRaise": "$16,250.00",
+								"swapAmount": "216,666.666 SHOD",
+								"tokenNetwork": "BSC",
+								"acceptedCurrency": "BUSD",
+								"vestingSchedule": "TGE unlock 100%"
 							},
 							"poolTimeline": {
-								"applyWhitelist": "17h00 13/10/2022 UTC+7",
-								"winnerAnnouncement": "16/10/2022 UTC+7",
-								"buyingPhaseGuarantee": "17h 20/10/2022 UTC+7",
-								"claim": "21h 25/10/2022 UTC+7"
+								"idoStart": "21h00 17/10/2022 UTC+7",
+								"idoEnd": "22h00 17/10/2022 UTC+7",
+								"claim": "17h00 18/10/2022 UTC+7"
 							}
 						},
 						"teamAndPartner": {
