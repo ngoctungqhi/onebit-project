@@ -45,9 +45,9 @@
 			"currencyPair": "BUSD",
 			"address": "TBA",
 			"tags": ["NFT", "IDO", "ECOMMERCE"],
-			"startDate": "21:00 - 17/10/2022",
-			"endDate": "22:00 - 17/10/2022",
-			"claimDate": "17:00 - 18/10/2022",
+			"startDate": "21h00 17/10/2022 UTC+7",
+			"endDate": "23h00 17/10/2022 UTC+7",
+			"claimDate": "17h00 18/10/2022 UTC+7",
 			"contract": "0x7a3876445A53bdb7B2BAC8773BADc23E19cd4387",
 			"chain": "BSC",
 			"minRank": 1,
@@ -231,7 +231,7 @@
 							},
 							"poolTimeline": {
 								"idoStart": "21h00 17/10/2022 UTC+7",
-								"idoEnd": "22h00 17/10/2022 UTC+7",
+								"idoEnd": "23h00 17/10/2022 UTC+7",
 								"listingOn": "16h00 18/10/2022 UTC+7",
 								"claim": "17h00 18/10/2022 UTC+7"
 							}
