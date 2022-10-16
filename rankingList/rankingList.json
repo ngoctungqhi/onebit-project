@@ -24,7 +24,7 @@
 			"min": 60000,
 			"token": "ONB",
 			"winnerSelection": "Lottery",
-			"maxIndividualAllocation": 700,
+			"maxIndividualAllocation": 800,
 			"withdrawalDelay": "30 Days"
 		},
 		{
@@ -33,7 +33,7 @@
 			"min": 100000,
 			"token": "ONB",
 			"winnerSelection": "Lottery",
-			"maxIndividualAllocation": 1000,
+			"maxIndividualAllocation": 1500,
 			"withdrawalDelay": "45 Days"
 		},
 		{
@@ -42,7 +42,7 @@
 			"min": 200000,
 			"token": "ONB",
 			"winnerSelection": "Lottery",
-			"maxIndividualAllocation": 2000,
+			"maxIndividualAllocation": 4000,
 			"withdrawalDelay": "60 Days"
 		}
 	]
