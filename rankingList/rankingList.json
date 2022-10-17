@@ -5,7 +5,7 @@
 			"image": "IconMetaRank1",
 			"min": 4000,
 			"token": "ONB",
-			"winnerSelection": "Lottery",
+			"winnerSelection": "FCFS",
 			"maxIndividualAllocation": 50,
 			"withdrawalDelay": "5 Days"
 		},
@@ -14,7 +14,7 @@
 			"image": "IconMetaRank2",
 			"min": 20000,
 			"token": "ONB",
-			"winnerSelection": "Lottery",
+			"winnerSelection": "FCFS",
 			"maxIndividualAllocation": 250,
 			"withdrawalDelay": "15 Days"
 		},
@@ -23,7 +23,7 @@
 			"image": "IconMetaRank3",
 			"min": 60000,
 			"token": "ONB",
-			"winnerSelection": "Lottery",
+			"winnerSelection": "FCFS",
 			"maxIndividualAllocation": 800,
 			"withdrawalDelay": "30 Days"
 		},
@@ -32,7 +32,7 @@
 			"image": "IconMetaRank4",
 			"min": 100000,
 			"token": "ONB",
-			"winnerSelection": "Lottery",
+			"winnerSelection": "FCFS",
 			"maxIndividualAllocation": 1500,
 			"withdrawalDelay": "45 Days"
 		},
@@ -41,7 +41,7 @@
 			"image": "IconMetaRank1",
 			"min": 200000,
 			"token": "ONB",
-			"winnerSelection": "Lottery",
+			"winnerSelection": "FCFS",
 			"maxIndividualAllocation": 4000,
 			"withdrawalDelay": "60 Days"
 		}
