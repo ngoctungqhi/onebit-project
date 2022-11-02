@@ -47,8 +47,6 @@
 			},
 			"name": "Shopdi",
 			"symbol": "SHOD",
-			"totalSupply": 500000000,
-			"swapAmount": 600000,
 			"decimals": "18",
 			"price": 0.15,
 			"currencyPair": "BUSD",
