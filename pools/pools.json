@@ -36,6 +36,15 @@
 					"link": "https://t.me/ShopdiVietnamOfficalGroup"
 				}
 			],
+			"tagProject": {
+				"audit": true,
+				"kyc": true
+			},
+			"certificate": {
+				"incubate": true,
+				"potential": false,
+				"experiment": false
+			},
 			"name": "Shopdi",
 			"symbol": "SHOD",
 			"totalSupply": 500000000,
