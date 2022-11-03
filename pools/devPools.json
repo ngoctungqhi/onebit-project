@@ -50,7 +50,7 @@
             "decimals": "18",
             "price": 0.15,
             "currencyPair": "BUSD",
-            "address": "TBA",
+            "address": "0xd6cbe61236efCF3ca70D5Efc73853cd72eb95661",
             "tags": [
                 "NFT",
                 "IDO",
@@ -356,7 +356,7 @@
             "decimals": "18",
             "price": 0.0025,
             "currencyPair": "BUSD",
-            "address": "0x525B6dC1A1965200754054D4BF548E31E26e9503",
+            "address": "0xd6cbe61236efCF3ca70D5Efc73853cd72eb95661",
             "tags": [
                 "Football",
                 "IDO"
