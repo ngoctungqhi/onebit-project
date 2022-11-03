@@ -50,12 +50,12 @@
 			"decimals": "18",
 			"price": 0.15,
 			"currencyPair": "BUSD",
-			"address": "TBA",
+			"address": "0xA6D662dDB759F2A3C4240bca2e1cc86D383F9E71",
 			"tags": ["NFT", "IDO", "ECOMMERCE"],
 			"startDate": "21h00 17/10/2022 UTC+7",
 			"endDate": "23h00 17/10/2022 UTC+7",
 			"claimDate": "17h00 18/10/2022 UTC+7",
-			"contract": "0x7a3876445A53bdb7B2BAC8773BADc23E19cd4387",
+			"idoContract": "0x6347E1D9EdCbF20a59c9Df1C6010f0AB4eb45d2A",
 			"chain": "BSC",
 			"minRank": 1,
 			"logo": {
@@ -307,7 +307,166 @@
 						}
 					}
 				}
-			}
+			},
+			"status": 4,
+			"startTimeUnix": 1666015200,
+			"endTimeUnix": 1666022400
+		},
+		{
+			"id": 0,
+			"social": [
+				{
+					"type": "website",
+					"link": "https://athena.football"
+				},
+				{
+					"type": "facebook",
+					"link": "https://www.facebook.com/FootballAthena"
+				},
+				{
+					"type": "telegram",
+					"link": "https://t.me/athenafootballchannel"
+				},
+				{
+					"type": "twitter",
+					"link": "https://twitter.com/footballathena"
+				},
+				{
+					"type": "youtube",
+					"link": "https://youtube.com/user/vinik55"
+				},
+				{
+					"type": "tiktok",
+					"link": "https://www.tiktok.com/@athena.football?_t=8WiRE5Yje9S&_r=1"
+				}
+			],
+			"tagProject": {
+				"audit": true,
+				"kyc": true
+			},
+			"certificate": {
+				"incubate": false,
+				"potential": true,
+				"experiment": false
+			},
+			"name": "Athena Football",
+			"symbol": "ATH",
+			"decimals": "18",
+			"price": 0.0025,
+			"currencyPair": "BUSD",
+			"address": "0x525B6dC1A1965200754054D4BF548E31E26e9503",
+			"tags": ["Football", "IDO"],
+			"startDate": "1:00 PM UTC 03/11/2022",
+			"endDate": "10:00 AM UTC 05/11/2022",
+			"claimDate": "14PM UTC 5/12/2022",
+			"idoContract": "0x575Bd6BDac91b18Aca76aAFcab7F6f0Bc7573a56",
+			"chain": "BSC",
+			"minRank": 1,
+			"logo": {
+				"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/athenafootball.jpg",
+				"small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/athenafootball.jpg"
+			},
+			"projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/athenafootball.jpg",
+			"delFlg": false,
+			"language": {
+				"vi": {
+					"description": "Một nền tảng bóng đá Web3 ngay trong mùa World Cup. Theo như chúng tôi biết, không có dự án nào đồng hành cùng các sự kiện thể thao lớn và đưa người hâm mộ đến với một cộng đồng gốc khổng lồ. Có những nền tảng cá cược thể thao tiền điện tử tuy nhiên không quá tin tưởng và quá tập trung vào cá cược.",
+					"claimPolicy": "Mở khoá 20%",
+					"tabs": {
+						"overview": [
+							{
+								"title": "Athena Football",
+								"description": [
+									"Hệ sinh thái bóng đá phi tập trung có tên Athena Football được phát triển để hỗ trợ các dịp thể thao như World Cup tiếp theo vào năm 2022. Nó được tạo ra để mang đến cho người dùng trải nghiệm thú vị hơn khi xem các sự kiện thể thao. Chúng tôi đã chọn xây dựng một nền tảng nơi tất cả người hâm mộ có thể ủng hộ đội tuyển quốc gia yêu thích của họ bằng cách đầu tư vào Fan Token của đội đó và có tiềm năng giành được những phần thưởng tiền điện tử tuyệt vời."
+								]
+							},
+							{
+								"title": "Sự độc đáo",
+								"description": [
+									"Một nền tảng bóng đá Web3 ngay trong mùa World Cup. Theo như chúng tôi biết, không có dự án nào đồng hành cùng các sự kiện thể thao lớn và đưa người hâm mộ đến với một cộng đồng gốc khổng lồ. Có những nền tảng cá cược thể thao tiền điện tử tuy nhiên không quá tin tưởng và quá tập trung vào cá cược."
+								]
+							}
+						],
+						"information": {
+							"tokenInfo": {
+								"symbol": "ATH",
+								"tokenPrice": "0.0025 BUSD",
+								"tokenNetwork": "BSC",
+								"acceptedCurrency": "BUSD",
+								"vestingSchedule": "20% tại TGE và trả dần trong 4 tháng, 20% mỗi tháng"
+							},
+							"poolTimeline": {
+								"idoStart": "1:00 PM UTC 03/11 ",
+								"idoEnd": "10:00 AM UTC 05/11",
+								"listingOn": "13:00 UTC on 5/11 PancakeSwap",
+								"claim": "14PM UTC 5/12/2022"
+							}
+						},
+						"teamAndPartner": {
+							"teams": [
+								{
+									"title": "G.B Ethan (CEO)",
+									"description": "Một người có tầm nhìn xa, hiểu biết về tiền điện tử và hiện là cố vấn đáng tin cậy cho các doanh nghiệp có ảnh hưởng nhất trên thế giới. 6 năm kinh nghiệm về blockchain."
+								},
+								{
+									"title": "Jonathan Damien (CMO)",
+									"description": "Chuyên gia Marketing với 4 năm kinh nghiệm. Chịu trách nhiệm về các chiến lược tiếp thị và quan hệ đối tác."
+								}
+							]
+						}
+					}
+				},
+				"en": {
+					"description": "Shopdi is a next-generation e-commerce platform applying blockchain technology, where the selling price is determined by the number of interested people using the Hidden Price and Unlimited Discount mechanism. Shopdi is proud to be the first platform to integrate the blockchain technology and NFT to make transaction and product information transparent, and prioritize user experience and investors interests. It's created to buil a secure community of intermediaries for buyers and sellers to conduct transactions and trade items.",
+					"claimPolicy": "TGE unlock 100%",
+					"tabs": {
+						"overview": [
+							{
+								"title": "Athena Football",
+								"description": [
+									"A decentralized football ecosystem called Athena Football was developed to support sporting occasions like the next World Cup in 2022. It is made to give users a more thrilling experience when watching sporting events. We chose to build a platform where all fans can support their favorite national team by investing in that team's Fan Token and having the potential to win amazing crypto rewards."
+								]
+							},
+							{
+								"title": "Unique",
+								"description": [
+									"A Web3 Football Platform right in World Cup Season. As far as we know there are no projects accompanying major sports events and bringing the fans together to a huge rooting community. There are crypto sport betting platforms however not very soffisticated and too focused on betting."
+								]
+							}
+						],
+						"information": {
+							"tokenInfo": {
+								"symbol": "ATH",
+								"tokenPrice": "0.0025 BUSD",
+								"tokenNetwork": "BSC",
+								"acceptedCurrency": "BUSD",
+								"vestingSchedule": "20% at TGE, and linear vesting in 4 months; 20% a month"
+							},
+							"poolTimeline": {
+								"idoStart": "1:00 PM UTC 03/11 ",
+								"idoEnd": "10:00 AM UTC 05/11",
+								"listingOn": "13:00 UTC on 5/11 PancakeSwap",
+								"claim": "14PM UTC 5/12/2022"
+							}
+						},
+						"teamAndPartner": {
+							"teams": [
+								{
+									"title": "G.B Ethan (CEO)",
+									"description": "A crypto-savvy visionary and currently a trusted advisor to the most influential businesses in the world. 6 years of blockchain experience."
+								},
+								{
+									"title": "Jonathan Damien (CMO)",
+									"description": "Marketing Professional with 4 years experience. Responsible for marketing strategies and partnerships."
+								}
+							]
+						}
+					}
+				}
+			},
+			"status": 0,
+			"startTimeUnix": 1667534400,
+			"endTimeUnix": 1667620800
 		}
 	]
 }
