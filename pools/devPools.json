@@ -312,7 +312,9 @@
                     }
                 }
             },
-            "status": 4
+            "status": 4,
+            "startTimeUnix": 1667534400,
+            "endTimeUnix": 1667620800
         },
         {
             "id": 0,
@@ -469,7 +471,9 @@
                     }
                 }
             },
-            "status": 0
+            "status": 0,
+            "startTimeUnix": 1667534400,
+            "endTimeUnix": 1667620800
         }
     ]
 }
