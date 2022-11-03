@@ -356,9 +356,9 @@
 			"currencyPair": "BUSD",
 			"address": "0x525B6dC1A1965200754054D4BF548E31E26e9503",
 			"tags": ["Football", "IDO"],
-			"startDate": "1:00 PM UTC 03/11/2022",
-			"endDate": "10:00 AM UTC 05/11/2022",
-			"claimDate": "14PM UTC 5/12/2022",
+			"startDate": "11:00 UTC+7 04/11 ",
+			"endDate": "11:00 UTC+7 05/11",
+			"claimDate": "21:00 UTC+7 05/11",
 			"idoContract": "0xc8bb48490c5EB32fB3C412C3B51c9cC34ACA676C",
 			"chain": "BSC",
 			"minRank": 1,
@@ -396,10 +396,10 @@
 								"vestingSchedule": "20% tại TGE và trả dần trong 4 tháng, 20% mỗi tháng"
 							},
 							"poolTimeline": {
-								"idoStart": "1:00 PM UTC 03/11 ",
-								"idoEnd": "10:00 AM UTC 05/11",
-								"listingOn": "13:00 UTC on 5/11 PancakeSwap",
-								"claim": "14PM UTC 5/12/2022"
+								"idoStart": "11:00 UTC+7 04/11",
+								"idoEnd": "11:00 UTC+7 05/11",
+								"listingOn": "20:00 UTC+7 on 5/11 PancakeSwap",
+								"claim": "21:00 UTC+7 05/11"
 							}
 						},
 						"teamAndPartner": {
@@ -417,8 +417,8 @@
 					}
 				},
 				"en": {
-					"description": "Shopdi is a next-generation e-commerce platform applying blockchain technology, where the selling price is determined by the number of interested people using the Hidden Price and Unlimited Discount mechanism. Shopdi is proud to be the first platform to integrate the blockchain technology and NFT to make transaction and product information transparent, and prioritize user experience and investors interests. It's created to buil a secure community of intermediaries for buyers and sellers to conduct transactions and trade items.",
-					"claimPolicy": "TGE unlock 100%",
+					"description": "A Web3 Football Platform right in World Cup Season. As far as we know there are no projects accompanying major sports events and bringing the fans together to a huge rooting community. There are crypto sport betting platforms however not very soffisticated and too focused on betting.",
+					"claimPolicy": "TGE unlock 20%",
 					"tabs": {
 						"overview": [
 							{
@@ -443,10 +443,10 @@
 								"vestingSchedule": "20% at TGE, and linear vesting in 4 months; 20% a month"
 							},
 							"poolTimeline": {
-								"idoStart": "1:00 PM UTC 03/11 ",
-								"idoEnd": "10:00 AM UTC 05/11",
-								"listingOn": "13:00 UTC on 5/11 PancakeSwap",
-								"claim": "14PM UTC 5/12/2022"
+								"idoStart": "11:00 UTC+7 04/11",
+								"idoEnd": "11:00 UTC+7 05/11",
+								"listingOn": "20:00 UTC+7 on 5/11 PancakeSwap",
+								"claim": "21:00 UTC+7 05/11"
 							}
 						},
 						"teamAndPartner": {
