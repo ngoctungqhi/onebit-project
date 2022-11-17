@@ -308,7 +308,7 @@
 					}
 				}
 			},
-			"status": 1,
+			"status": 2,
 			"startTimeUnix": 1666015200,
 			"endTimeUnix": 1666022400
 		},
@@ -464,7 +464,7 @@
 					}
 				}
 			},
-			"status": 0,
+			"status": 2,
 			"startTimeUnix": 1667534400,
 			"endTimeUnix": 1667620800
 		}
