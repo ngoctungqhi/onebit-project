@@ -48,7 +48,7 @@
 			"name": "Shopdi",
 			"symbol": "SHOD",
 			"decimals": "18",
-			"price": 0.15,
+			"price": 0.075,
 			"currencyPair": "BUSD",
 			"address": "0xA6D662dDB759F2A3C4240bca2e1cc86D383F9E71",
 			"tags": ["NFT", "IDO", "ECOMMERCE"],
