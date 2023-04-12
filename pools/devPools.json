@@ -500,13 +500,13 @@
 			"name": "LS Coin",
 			"symbol": "LSC",
 			"decimals": "18",
-			"price": 0.0025,
+			"price": 1,
 			"currencyPair": "BUSD",
 			"address": "0x85B479028a68605adAcf26e45ab6acCA064c294E",
 			"tags": ["LSC", "IDO"],
-			"startDate": "11:00 UTC+7 13/04/2023",
-			"endDate": "11:00 UTC+7 14/04/2023",
-			"claimDate": "21:00 UTC+7 15/04/2023",
+			"startDate": "9 PM, 18th April 2023 (UTC+8)",
+			"endDate": "9 PM, 19th April 2023 (UTC+8)",
+			"claimDate": "12 PM, 19th April 2023 (UTC+8)",
 			"idoContract": "0x53CFe8f3402aD777Fa2E81cFA19A171F2Fa70879",
 			"chain": "BSC",
 			"minRank": 1,
@@ -557,7 +557,7 @@
 							},
 							"poolTimeline": {
 								"idoStart": "9 PM, 18th April 2023 (UTC+8)",
-								"idoEnd": "9 PM, 18th April 2023 (UTC+8)",
+								"idoEnd": "9 PM, 19th April 2023 (UTC+8)",
 								"listingOn": "TBA",
 								"claim": "After 2 hours listing"
 							}
@@ -624,7 +624,7 @@
 							},
 							"poolTimeline": {
 								"idoStart": "9 PM, 18th April 2023 (UTC+8)",
-								"idoEnd": "9 PM, 18th April 2023 (UTC+8)",
+								"idoEnd": "9 PM, 19th April 2023 (UTC+8)",
 								"listingOn": "TBA",
 								"claim": "After 2 hours listing"
 							}
@@ -653,8 +653,8 @@
 				}
 			},
 			"status": 0,
-			"startTimeUnix": 1667534400,
-			"endTimeUnix": 1667620800
+			"startTimeUnix": 1681851600,
+			"endTimeUnix": 1681938000
 		}
 	]
 }
