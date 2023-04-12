@@ -552,7 +552,8 @@
 								"tokenPrice": "1 BUSD",
 								"tokenNetwork": "BSC",
 								"acceptedCurrency": "BUSD",
-								"vestingSchedule": "75% tại TGE và trả dần trong 5 tháng, 5% mỗi tháng"
+								"vestingSchedule": "75% tại TGE và trả dần trong 5 tháng, 5% mỗi tháng",
+								"swapAmount": "50,000 LSC"
 							},
 							"poolTimeline": {
 								"idoStart": "9 PM, 18th April 2023 (UTC+8)",
@@ -618,7 +619,8 @@
 								"tokenPrice": "1 BUSD",
 								"tokenNetwork": "BSC",
 								"acceptedCurrency": "BUSD",
-								"vestingSchedule": "75% TGE, then linear monthly vesting in 05 months"
+								"vestingSchedule": "75% TGE, then linear monthly vesting in 05 months",
+								"swapAmount": "50,000 LSC"
 							},
 							"poolTimeline": {
 								"idoStart": "9 PM, 18th April 2023 (UTC+8)",
