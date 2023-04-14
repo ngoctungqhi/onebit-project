@@ -507,7 +507,7 @@
 			"startDate": "9 PM, 18th April 2023 (UTC+8)",
 			"endDate": "9 PM, 19th April 2023 (UTC+8)",
 			"claimDate": "12 PM, 19th April 2023 (UTC+8)",
-			"idoContract": "0x9Bc3A2d049c8F71f3cfa79C1751342A26d185781",
+			"idoContract": "0xEf6490a43fFf356b3841a930f41095763DFb8794",
 			"chain": "BSC",
 			"minRank": 1,
 			"logo": {
@@ -653,8 +653,198 @@
 				}
 			},
 			"status": 0,
-			"startTimeUnix": 1681407430,
-			"endTimeUnix": 1681407610
+			"startTimeUnix": 1681445260,
+			"endTimeUnix": 1684012057,
+			"isWL": false
+		},
+		{
+			"id": 1,
+			"social": [
+				{
+					"type": "website",
+					"link": "https://lstrade.io/"
+				},
+				{
+					"type": "facebook",
+					"link": "https://fb.com/lstrade.p2e"
+				},
+				{
+					"type": "telegram",
+					"link": "https://t.me/LSTRADE_channel"
+				},
+				{
+					"type": "twitter",
+					"link": "https://twitter.com/lstradeofficial"
+				}
+			],
+			"tagProject": {
+				"audit": true,
+				"kyc": true
+			},
+			"certificate": {
+				"incubate": false,
+				"potential": true,
+				"experiment": false
+			},
+			"name": "LS Coin",
+			"symbol": "LSC",
+			"decimals": "18",
+			"price": 1,
+			"currencyPair": "BUSD",
+			"address": "0x85B479028a68605adAcf26e45ab6acCA064c294E",
+			"tags": ["LSC", "IDO"],
+			"startDate": "9 PM, 18th April 2023 (UTC+8)",
+			"endDate": "9 PM, 19th April 2023 (UTC+8)",
+			"claimDate": "12 PM, 19th April 2023 (UTC+8)",
+			"idoContract": "0xEf6490a43fFf356b3841a930f41095763DFb8794",
+			"chain": "BSC",
+			"minRank": 1,
+			"logo": {
+				"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/athenafootball.jpg",
+				"small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/lstrade.jpg"
+			},
+			"projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/lstradebanner.jpg",
+			"delFlg": false,
+			"language": {
+				"vi": {
+					"description": "LS TRADE, một nền tảng giao dịch tùy chọn nhị phân phi tập trung thế hệ tiếp theo, là một sản phẩm đa tính năng kết hợp nhiều yếu tố như Predict-to-Earn (P2E), Mine-to-Earn (M2E) và Burn-to-Earn (B2E). Nền tảng LS TRADE nhằm mục đích thu hút nhiều user khác nhau, bao gồm Traders, Miners & Holders, tham gia và tận dụng nhiều cơ hội lợi nhuận hấp dẫn từ hệ sinh thái LS TRADE.",
+					"tabs": {
+						"overview": [
+							{
+								"title": "LS TRADE",
+								"description": [
+									"LS TRADE, một nền tảng giao dịch tùy chọn nhị phân phi tập trung thế hệ tiếp theo, là một sản phẩm đa tính năng kết hợp nhiều yếu tố như Predict-to-Earn (P2E), Mine-to-Earn (M2E) và Burn-to-Earn (B2E). Nền tảng LS TRADE nhằm mục đích thu hút nhiều user khác nhau, bao gồm Traders, Miners & Holders, tham gia và tận dụng nhiều cơ hội lợi nhuận hấp dẫn từ hệ sinh thái LS TRADE."
+								]
+							},
+							{
+								"title": "Trải nghiệm dễ dàng",
+								"description": [
+									"Cơ chế nhập lệnh được thiết kế để được rút gọn, dễ dàng truy cập và quen thuộc với tất cả người dùng."
+								]
+							},
+							{
+								"title": "Sự minh bạch",
+								"description": [
+									"Dữ liệu giá được cung cấp bởi ChainLink Oracle, và tất cả thông tin và dữ liệu như các lệnh, phiên giao dịch, giá đóng cửa, v.v. được ghi lại và quản lý bởi các hợp đồng thông minh, có thể được kiểm tra trực tiếp trên chuỗi."
+								]
+							},
+							{
+								"title": "Phi tập trung",
+								"description": [
+									"Nền tảng không giữ bất kỳ tài sản người dùng nào. Người dùng có hoàn toàn quyền kiểm soát tài sản của họ thông qua ví Defi của mình."
+								]
+							}
+						],
+						"information": {
+							"tokenInfo": {
+								"symbol": "LSC",
+								"tokenPrice": "1 BUSD",
+								"tokenNetwork": "BSC",
+								"acceptedCurrency": "BUSD",
+								"vestingSchedule": "75% tại TGE và trả dần trong 5 tháng, 5% mỗi tháng",
+								"swapAmount": "50,000 LSC"
+							},
+							"poolTimeline": {
+								"idoStart": "9 PM, 18th April 2023 (UTC+8)",
+								"idoEnd": "9 PM, 19th April 2023 (UTC+8)",
+								"listingOn": "TBA",
+								"claim": "After 2 hours listing"
+							}
+						},
+						"teamAndPartner": {
+							"teams": [
+								{
+									"title": "3S Wallet",
+									"description": "Tự hào là công cụ tài chính vượt trội khi là nơi lưu trữ, chi tiêu và giao dịch đáng an toàn cho các cá nhân và tổ chức với hơn 3000 đồng tiền mã hóa khác nhau. Trang bị 2 lớp bảo mật đảm bảo an toàn tuyệt đối, giao diện thân thiện với mọi người dùng."
+								},
+								{
+									"title": "BHO Network",
+									"description": "BHO Network là Layer 1, cho phép xây dựng nhiều loại ứng dụng khác nhau."
+								},
+								{
+									"title": "OneBit Venture",
+									"description": "Onebit Ventures is an investment fund that obtains a massive community ecosystem, allowing users to gain access to the DeFi platform in the easiest, safest and most cost-effective way possible. As a licensed fund management company of innovative start-ups, we strive to obtain the fund in a transparent, reasonable and efficient manner, providing safety to our investors."
+								},
+								{
+									"title": "Verichains",
+									"description": "Since 2017, Verichains has been a pioneer and leading blockchain security firm in APAC, with extensive expertise in security, cryptography and core blockchain technology. More than 200 clients trust us with $50 billion assets under protection, including several high-profile clients such as BNB Chain, Klaytn, Wemix, Line Corp, Axie Infinity, Ronin Network, and Kyber Network."
+								}
+							]
+						}
+					}
+				},
+				"en": {
+					"description": " LS TRADE, a next-gen decentralized Binary Options trading platform Is a multi-featured product and a combination of many factors such as Predict-to-Earn (P2E), Mine-to-Earn (M2E), and Burn-to-Earn (B2E), the LS TRADE platform aims to attract a variety of users, including Traders, Miners & Holders, to join and take advantage of many attractive profit opportunities from the LS TRADE ecosystem.",
+					"tabs": {
+						"overview": [
+							{
+								"title": "LS TRADE",
+								"description": [
+									"LS TRADE, a next-gen decentralized Binary Options trading platform Is a multi-featured product and a combination of many factors such as Predict-to-Earn (P2E), Mine-to-Earn (M2E), and Burn-to-Earn (B2E), the LS TRADE platform aims to attract a variety of users, including Traders, Miners & Holders, to join and take advantage of many attractive profit opportunities from the LS TRADE ecosystem."
+								]
+							},
+							{
+								"title": "Easy experience",
+								"description": [
+									"Cơ chế nhập lệnh được thiết kế để được rút gọn, dễ dàng truy cập và quen thuộc với tất cả người dùng."
+								]
+							},
+							{
+								"title": "Transparency",
+								"description": [
+									"Price data provided by ChainLink Oracle, and all information and data such as orders, trading sessions, closing prices, etc. are recorded and managed by smart contracts, directly auditable on-chain."
+								]
+							},
+							{
+								"title": "Decentralization",
+								"description": [
+									"The platform holds absolutely no user assets. Users take full control of their assets via their Defi wallet."
+								]
+							}
+						],
+						"information": {
+							"tokenInfo": {
+								"symbol": "LSC",
+								"tokenPrice": "1 BUSD",
+								"tokenNetwork": "BSC",
+								"acceptedCurrency": "BUSD",
+								"vestingSchedule": "75% TGE, then linear monthly vesting in 05 months",
+								"swapAmount": "50,000 LSC"
+							},
+							"poolTimeline": {
+								"idoStart": "9 PM, 18th April 2023 (UTC+8)",
+								"idoEnd": "9 PM, 19th April 2023 (UTC+8)",
+								"listingOn": "TBA",
+								"claim": "After 2 hours listing"
+							}
+						},
+						"teamAndPartner": {
+							"teams": [
+								{
+									"title": "3S Wallet",
+									"description": "3S Wallet is an easy-to-use platform with trusted storage, spending, and transaction features for you and your company. With over 3000+ cryptocurrencies and 2 layers of security to make it a safe and simple user-friendly interface."
+								},
+								{
+									"title": "BHO Network",
+									"description": "BHO Network is Layer 1 that allows many different types of applications built on."
+								},
+								{
+									"title": "OneBit Venture",
+									"description": "Onebit Ventures is an investment fund that obtains a massive community ecosystem, allowing users to gain access to the DeFi platform in the easiest, safest and most cost-effective way possible. As a licensed fund management company of innovative start-ups, we strive to obtain the fund in a transparent, reasonable and efficient manner, providing safety to our investors."
+								},
+								{
+									"title": "Verichains",
+									"description": "Since 2017, Verichains has been a pioneer and leading blockchain security firm in APAC, with extensive expertise in security, cryptography and core blockchain technology. More than 200 clients trust us with $50 billion assets under protection, including several high-profile clients such as BNB Chain, Klaytn, Wemix, Line Corp, Axie Infinity, Ronin Network, and Kyber Network."
+								}
+							]
+						}
+					}
+				}
+			},
+			"status": 0,
+			"startTimeUnix": 1681445260,
+			"endTimeUnix": 1684012057,
+			"isWL": true
 		}
 	]
 }
