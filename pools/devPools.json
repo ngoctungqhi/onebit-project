@@ -507,7 +507,7 @@
 			"startDate": "9PM, 18th April 2023 (UTC+8)",
 			"endDate": "9PM, 19th April 2023 (UTC+8)",
 			"claimDate": "12PM, 19th April 2023 (UTC+8)",
-			"idoContract": "0xEf6490a43fFf356b3841a930f41095763DFb8794",
+			"idoContract": "0xd0FFf5D8d8d560cf982b32537EDB6CFad6e72226",
 			"chain": "BSC",
 			"minRank": 1,
 			"logo": {
@@ -653,8 +653,8 @@
 				}
 			},
 			"status": 0,
-			"startTimeUnix": 1681445260,
-			"endTimeUnix": 1684012057,
+			"startTimeUnix": 1681559970,
+			"endTimeUnix": 1681595970,
 			"isWL": false
 		},
 		{
@@ -696,7 +696,7 @@
 			"startDate": "9PM, 18th April 2023 (UTC+8)",
 			"endDate": "9PM, 19th April 2023 (UTC+8)",
 			"claimDate": "12PM, 19th April 2023 (UTC+8)",
-			"idoContract": "0xEf6490a43fFf356b3841a930f41095763DFb8794",
+			"idoContract": "0xd0FFf5D8d8d560cf982b32537EDB6CFad6e72226",
 			"chain": "BSC",
 			"minRank": 1,
 			"logo": {
@@ -842,8 +842,8 @@
 				}
 			},
 			"status": 0,
-			"startTimeUnix": 1681445260,
-			"endTimeUnix": 1684012057,
+			"startTimeUnix": 1681559970,
+			"endTimeUnix": 1681595970,
 			"isWL": true
 		}
 	]
