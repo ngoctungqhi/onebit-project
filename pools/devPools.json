@@ -548,12 +548,12 @@
 						],
 						"information": {
 							"tokenInfo": {
-								"symbol": "LSC",
+								"symbol": "LS",
 								"tokenPrice": "1 BUSD",
 								"tokenNetwork": "BSC",
 								"acceptedCurrency": "BUSD",
 								"vestingSchedule": "75% tại TGE và trả dần trong 5 tháng, 5% mỗi tháng",
-								"swapAmount": "50,000 LSC"
+								"swapAmount": "50,000 LS"
 							},
 							"poolTimeline": {
 								"idoStart": "9PM, 18th April 2023 (UTC+8)",
@@ -615,12 +615,12 @@
 						],
 						"information": {
 							"tokenInfo": {
-								"symbol": "LSC",
+								"symbol": "LS",
 								"tokenPrice": "1 BUSD",
 								"tokenNetwork": "BSC",
 								"acceptedCurrency": "BUSD",
 								"vestingSchedule": "75% TGE, then linear monthly vesting in 05 months",
-								"swapAmount": "50,000 LSC"
+								"swapAmount": "50,000 LS"
 							},
 							"poolTimeline": {
 								"idoStart": "9PM, 18th April 2023 (UTC+8)",
@@ -687,12 +687,12 @@
 				"experiment": false
 			},
 			"name": "LS Coin",
-			"symbol": "LSC",
+			"symbol": "LS",
 			"decimals": "18",
 			"price": 1,
 			"currencyPair": "BUSD",
 			"address": "0x85B479028a68605adAcf26e45ab6acCA064c294E",
-			"tags": ["LSC", "IDO"],
+			"tags": ["LS", "IDO"],
 			"startDate": "9PM, 18th April 2023 (UTC+8)",
 			"endDate": "9PM, 19th April 2023 (UTC+8)",
 			"claimDate": "12PM, 19th April 2023 (UTC+8)",
@@ -737,12 +737,12 @@
 						],
 						"information": {
 							"tokenInfo": {
-								"symbol": "LSC",
+								"symbol": "LS",
 								"tokenPrice": "1 BUSD",
 								"tokenNetwork": "BSC",
 								"acceptedCurrency": "BUSD",
 								"vestingSchedule": "75% tại TGE và trả dần trong 5 tháng, 5% mỗi tháng",
-								"swapAmount": "50,000 LSC"
+								"swapAmount": "50,000 LS"
 							},
 							"poolTimeline": {
 								"idoStart": "9PM, 18th April 2023 (UTC+8)",
@@ -774,19 +774,19 @@
 					}
 				},
 				"en": {
-					"description": " LS TRADE, a next-gen decentralized Binary Options trading platform Is a multi-featured product and a combination of many factors such as Predict-to-Earn (P2E), Mine-to-Earn (M2E), and Burn-to-Earn (B2E), the LS TRADE platform aims to attract a variety of users, including Traders, Miners & Holders, to join and take advantage of many attractive profit opportunities from the LS TRADE ecosystem.",
+					"description": "LS TRADE is a decentralized Futures Battle (Predict Price Move) trading platform that uses blockchain and smart contracts as the technological foundation of the application. It provides real-time Bitcoin price fluctuations based on ChainLink Oracle data. As a multi-featured product and a combination of many factors such as: Predict-to-Earn (P2E), Mine-to-Earn (M2E) and Burn-to-Earn (B2E), the LS TRADE platform aims to attract a variety of users, including: Traders, Miners & Holders, to join and take advantage of many attractive profit opportunities from the LS TRADE ecosystem.",
 					"tabs": {
 						"overview": [
 							{
 								"title": "LS TRADE",
 								"description": [
-									"LS TRADE, a next-gen decentralized Binary Options trading platform Is a multi-featured product and a combination of many factors such as Predict-to-Earn (P2E), Mine-to-Earn (M2E), and Burn-to-Earn (B2E), the LS TRADE platform aims to attract a variety of users, including Traders, Miners & Holders, to join and take advantage of many attractive profit opportunities from the LS TRADE ecosystem."
+									"LS TRADE is a decentralized Futures Battle (Predict Price Move) trading platform that uses blockchain and smart contracts as the technological foundation of the application. It provides real-time Bitcoin price fluctuations based on ChainLink Oracle data. As a multi-featured product and a combination of many factors such as: Predict-to-Earn (P2E), Mine-to-Earn (M2E) and Burn-to-Earn (B2E), the LS TRADE platform aims to attract a variety of users, including: Traders, Miners & Holders, to join and take advantage of many attractive profit opportunities from the LS TRADE ecosystem."
 								]
 							},
 							{
 								"title": "Easy experience",
 								"description": [
-									"Cơ chế nhập lệnh được thiết kế để được rút gọn, dễ dàng truy cập và quen thuộc với tất cả người dùng."
+									"The order entry mechanism is designed to be streamlined, easily accessible, and familiar to all users."
 								]
 							},
 							{
@@ -804,12 +804,12 @@
 						],
 						"information": {
 							"tokenInfo": {
-								"symbol": "LSC",
+								"symbol": "LS",
 								"tokenPrice": "1 BUSD",
 								"tokenNetwork": "BSC",
 								"acceptedCurrency": "BUSD",
 								"vestingSchedule": "75% TGE, then linear monthly vesting in 05 months",
-								"swapAmount": "50,000 LSC"
+								"swapAmount": "50,000 LS"
 							},
 							"poolTimeline": {
 								"idoStart": "9PM, 18th April 2023 (UTC+8)",
