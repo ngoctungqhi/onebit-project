@@ -595,13 +595,13 @@
                     }
                 },
                 "en": {
-                    "description": " LS TRADE, a next-gen decentralized Binary Options trading platform Is a multi-featured product and a combination of many factors such as Predict-to-Earn (P2E), Mine-to-Earn (M2E), and Burn-to-Earn (B2E), the LS TRADE platform aims to attract a variety of users, including Traders, Miners & Holders, to join and take advantage of many attractive profit opportunities from the LS TRADE ecosystem.",
+                    "description": "LS TRADE is a decentralized Futures Battle (Predict Price Move) trading platform that uses blockchain and smart contracts as the technological foundation of the application. It provides real-time Bitcoin price fluctuations based on ChainLink Oracle data. As a multi-featured product and a combination of many factors such as: Predict-to-Earn (P2E), Mine-to-Earn (M2E) and Burn-to-Earn (B2E), the LS TRADE platform aims to attract a variety of users, including: Traders, Miners & Holders, to join and take advantage of many attractive profit opportunities from the LS TRADE ecosystem.",
                     "tabs": {
                         "overview": [
                             {
                                 "title": "LS TRADE",
                                 "description": [
-                                    "LS TRADE, a next-gen decentralized Binary Options trading platform Is a multi-featured product and a combination of many factors such as Predict-to-Earn (P2E), Mine-to-Earn (M2E), and Burn-to-Earn (B2E), the LS TRADE platform aims to attract a variety of users, including Traders, Miners & Holders, to join and take advantage of many attractive profit opportunities from the LS TRADE ecosystem."
+                                    "LS TRADE is a decentralized Futures Battle (Predict Price Move) trading platform that uses blockchain and smart contracts as the technological foundation of the application. It provides real-time Bitcoin price fluctuations based on ChainLink Oracle data. As a multi-featured product and a combination of many factors such as: Predict-to-Earn (P2E), Mine-to-Earn (M2E) and Burn-to-Earn (B2E), the LS TRADE platform aims to attract a variety of users, including: Traders, Miners & Holders, to join and take advantage of many attractive profit opportunities from the LS TRADE ecosystem."
                                 ]
                             },
                             {
@@ -825,8 +825,8 @@
                                 "swapAmount": "50,000 LSC"
                             },
                             "poolTimeline": {
-                                "idoStart": "8PM, 18th April 2023 (UTC+7)",
-                                "idoEnd": "8PM, 19th April 2023 (UTC+7)",
+                                "idoStart": "9PM, 18th April 2023 (UTC+8)",
+                                "idoEnd": "9PM, 19th April 2023 (UTC+8)",
                                 "listingOn": "TBA",
                                 "claim": "After 2 hours listing"
                             }
