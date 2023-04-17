@@ -706,9 +706,9 @@
                 "LS",
                 "IDO"
             ],
-            "startDate": "9PM, 18th April 2023 (UTC+8)",
-            "endDate": "9PM, 19th April 2023 (UTC+8)",
-            "claimDate": "12PM, 19th April 2023 (UTC+8)",
+            "startDate": "8PM, 18th April 2023 (UTC+7)",
+            "endDate": "8PM, 19th April 2023 (UTC+7)",
+            "claimDate": "10PM, 19th April 2023 (UTC+7)",
             "idoContract": "0x2789DD0910306A83f1DC831830eC0254CabDf0a2",
             "chain": "BSC",
             "minRank": 1,
@@ -758,8 +758,8 @@
                                 "swapAmount": "50,000 LS"
                             },
                             "poolTimeline": {
-                                "idoStart": "9PM, 18th April 2023 (UTC+8)",
-                                "idoEnd": "9PM, 19th April 2023 (UTC+8)",
+                                "idoStart": "8PM, 18th April 2023 (UTC+7)",
+                                "idoEnd": "8PM, 19th April 2023 (UTC+7)",
                                 "listingOn": "TBA",
                                 "claim": "After 2 hours listing"
                             }
@@ -825,8 +825,8 @@
                                 "swapAmount": "50,000 LS"
                             },
                             "poolTimeline": {
-                                "idoStart": "9PM, 18th April 2023 (UTC+8)",
-                                "idoEnd": "9PM, 19th April 2023 (UTC+8)",
+                                "idoStart": "8PM, 18th April 2023 (UTC+7)",
+                                "idoEnd": "8PM, 19th April 2023 (UTC+7)",
                                 "listingOn": "TBA",
                                 "claim": "After 2 hours listing"
                             }
