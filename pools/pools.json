@@ -505,13 +505,13 @@
                 "experiment": false
             },
             "name": "LS Coin",
-            "symbol": "LS",
+            "symbol": "LSC",
             "decimals": "18",
             "price": 1,
             "currencyPair": "BUSD",
             "address": "0x293Faca2e5d6aC7A0e704eAfEda628528b3b3f0a",
             "tags": [
-                "LS",
+                "LSC",
                 "IDO"
             ],
             "startDate": "9PM, 18th April 2023 (UTC+8)",
@@ -558,12 +558,12 @@
                         ],
                         "information": {
                             "tokenInfo": {
-                                "symbol": "LS",
+                                "symbol": "LSC",
                                 "tokenPrice": "1 BUSD",
                                 "tokenNetwork": "BSC",
                                 "acceptedCurrency": "BUSD",
                                 "vestingSchedule": "75% tại TGE và trả dần trong 5 tháng, 5% mỗi tháng",
-                                "swapAmount": "50,000 LS"
+                                "swapAmount": "50,000 LSC"
                             },
                             "poolTimeline": {
                                 "idoStart": "9PM, 18th April 2023 (UTC+8)",
@@ -625,12 +625,12 @@
                         ],
                         "information": {
                             "tokenInfo": {
-                                "symbol": "LS",
+                                "symbol": "LSC",
                                 "tokenPrice": "1 BUSD",
                                 "tokenNetwork": "BSC",
                                 "acceptedCurrency": "BUSD",
                                 "vestingSchedule": "75% TGE, then linear monthly vesting in 05 months",
-                                "swapAmount": "50,000 LS"
+                                "swapAmount": "50,000 LSC"
                             },
                             "poolTimeline": {
                                 "idoStart": "9PM, 18th April 2023 (UTC+8)",
@@ -697,13 +697,13 @@
                 "experiment": false
             },
             "name": "LS Coin",
-            "symbol": "LS",
+            "symbol": "LSC",
             "decimals": "18",
             "price": 1,
             "currencyPair": "BUSD",
             "address": "0x293Faca2e5d6aC7A0e704eAfEda628528b3b3f0a",
             "tags": [
-                "LS",
+                "LSC",
                 "IDO"
             ],
             "startDate": "8PM, 18th April 2023 (UTC+7)",
@@ -750,12 +750,12 @@
                         ],
                         "information": {
                             "tokenInfo": {
-                                "symbol": "LS",
+                                "symbol": "LSC",
                                 "tokenPrice": "1 BUSD",
                                 "tokenNetwork": "BSC",
                                 "acceptedCurrency": "BUSD",
                                 "vestingSchedule": "75% tại TGE và trả dần trong 5 tháng, 5% mỗi tháng",
-                                "swapAmount": "50,000 LS"
+                                "swapAmount": "50,000 LSC"
                             },
                             "poolTimeline": {
                                 "idoStart": "8PM, 18th April 2023 (UTC+7)",
@@ -817,12 +817,12 @@
                         ],
                         "information": {
                             "tokenInfo": {
-                                "symbol": "LS",
+                                "symbol": "LSC",
                                 "tokenPrice": "1 BUSD",
                                 "tokenNetwork": "BSC",
                                 "acceptedCurrency": "BUSD",
                                 "vestingSchedule": "75% TGE, then linear monthly vesting in 05 months",
-                                "swapAmount": "50,000 LS"
+                                "swapAmount": "50,000 LSC"
                             },
                             "poolTimeline": {
                                 "idoStart": "8PM, 18th April 2023 (UTC+7)",
