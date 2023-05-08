@@ -1,863 +1,850 @@
 {
-    "pools": [
-        {
-            "id": 0,
-            "social": [
-                {
-                    "type": "website",
-                    "link": "https://www.shopdi.io"
-                },
-                {
-                    "type": "facebook",
-                    "link": "https://www.facebook.com/shopdi.official"
-                },
-                {
-                    "type": "telegram",
-                    "link": "https://t.me/ShopdiOfficial?fbclid=IwAR2ode0eyLwOLpdvNC8juGqDixhgSlVH9R45WZMr_7DYvvZqVNd4mcac2ZM"
-                },
-                {
-                    "type": "twitter",
-                    "link": "https://twitter.com/shopdi_official?fbclid=IwAR1h3L1pAdHwi39jLItkpGWUTsT2zK40x6mYMLKl04DzNWU93ibqzFm1WZo"
-                },
-                {
-                    "type": "instagram",
-                    "link": "https://www.instagram.com/shopdi.official/?igshid=YmMyMTA2M2Y%3D/"
-                },
-                {
-                    "type": "youtube",
-                    "link": "https://youtube.com/channel/UCUEJ-fUE4-ONf-LVdizZSTg"
-                },
-                {
-                    "type": "tiktok",
-                    "link": "https://www.tiktok.com/@shopdi.official"
-                },
-                {
-                    "type": "telegramGroup",
-                    "link": "https://t.me/ShopdiVietnamOfficalGroup"
-                }
-            ],
-            "tagProject": {
-                "audit": true,
-                "kyc": true
-            },
-            "certificate": {
-                "incubate": true,
-                "potential": false,
-                "experiment": false
-            },
-            "name": "Shopdi",
-            "symbol": "SHOD",
-            "decimals": "18",
-            "price": 0.075,
-            "currencyPair": "BUSD",
-            "address": "0xA6D662dDB759F2A3C4240bca2e1cc86D383F9E71",
-            "tags": [
-                "NFT",
-                "IDO",
-                "ECOMMERCE"
-            ],
-            "startDate": "21h00 17/10/2022 UTC+7",
-            "endDate": "23h00 17/10/2022 UTC+7",
-            "claimDate": "17h00 18/10/2022 UTC+7",
-            "idoContract": "0x6347E1D9EdCbF20a59c9Df1C6010f0AB4eb45d2A",
-            "chain": "BSC",
-            "minRank": 1,
-            "logo": {
-                "large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/shopdi.jpg",
-                "small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/shopdi.jpg"
-            },
-            "projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/shopdi.jpg",
-            "delFlg": false,
-            "language": {
-                "vi": {
-                    "description": "Shopdi là sàn thương mại điện tử thế hệ mới ứng dụng công nghệ blockchain, nơi giá bán được quyết định bởi số lượng người quan tâm với cơ chế Giá bí mật và Giá giảm không giới hạn. Tự hào là nền tảng đầu tiên sử dụng công nghệ blockchain và NFT để minh bạch hóa thông tin giao dịch và sản phẩm, đặt trải nghiệm người dùng lên hàng đầu và lợi ích của nhà đầu tư. Xây dựng cộng đồng trung gian an toàn cho người mua và người bán để thực hiện các giao dịch và trao đổi hàng hóa.",
-                    "claimPolicy": "Mở khoá 100%",
-                    "tabs": {
-                        "overview": [
-                            {
-                                "title": "",
-                                "description": [
-                                    "Shopdi là sàn thương mại điện tử thế hệ mới ứng dụng công nghệ blockchain, nơi giá bán được quyết định bởi số lượng người quan tâm với cơ chế Giá bí mật và Giá giảm không giới hạn. Tự hào là nền tảng đầu tiên sử dụng công nghệ blockchain và NFT để minh bạch hóa thông tin giao dịch và sản phẩm, đặt trải nghiệm người dùng lên hàng đầu và lợi ích của nhà đầu tư. Xây dựng cộng đồng trung gian an toàn cho người mua và người bán để thực hiện các giao dịch và trao đổi hàng hóa.",
-                                    "Shopdi chuyên về các mặt hàng chính hãng, thời thượng, chất lượng và phiên bản giới hạn. Shopdi giúp các thành viên mua sắm trên hệ thống thương mại điện tử minh bạch, uy tín, đáng tin cậy.Cho phép người mua quyết định giá sản phẩm mà họ muốn mua nhưng không can thiệp vào lợi nhuận và định vị thương hiệu của người bán. Hoạt động kinh doanh của chúng tôi hướng tới việc tối ưu hóa giá trị cho các bên liên quan."
-                                ]
-                            },
-                            {
-                                "title": "1. Nền tảng & Bảo Mật Cao",
-                                "description": [
-                                    "Nền tảng thương mại điện tử Shopdi hoàn toàn có thể thích ứng với nhiều nhóm người tiêu dùng và người bán với nhiều biến thể về hành vi, đặc điểm, tiền tệ và quy định pháp lý của từng quốc gia khác nhau.",
-                                    "Tận dụng triệt để Big Data thông qua phân tích dữ liệu từ cơ chế “Giá bí mật” và hành vi của người dùng, Shopdi dễ dàng phân loại tệp khách hàng dựa trên nhiều tiêu chí khác nhau như: sở thích, hành vi, độ tuổi, vị trí, thu nhập… từ đó thiết lập tính phù hợp cho chiến dịch quảng cáo giúp người bán tối ưu hóa chi phí, tiếp cận đúng đối tượng mục tiêu và tăng tỷ lệ chuyển đổi."
-                                ]
-                            },
-                            {
-                                "title": "2. Giá & Nguồn Gốc Sản Phẩm",
-                                "description": [
-                                    "Sử dụng cơ chế \"Giá bí mật\" và \"Giá giảm không giới hạn\" để người dùng có thể quyết định giá họ muốn mua cho một sản phẩm mà họ mong muốn."
-                                ]
-                            },
-                            {
-                                "title": "3. Phương thức thanh toán",
-                                "description": [
-                                    "Thanh toán đa phương tiện: từ thanh toán tích hợp đến thanh toán điện tử với hệ thống bảo mật cao giúp tạo ra môi trường thanh toán an toàn, từ đó bảo vệ quyền lợi của người dùng."
-                                ]
-                            },
-                            {
-                                "title": "4. Cơ hội & Cam kết",
-                                "description": [
-                                    "- Dành cho khách hàng: Cơ hội mua những món hàng chất lượng với giá tốt nhất trên thị trường.",
-                                    "- Dành cho đại lý: Cơ hội đầu tư, kiếm tiền dành cho các đại lý affiliate.",
-                                    "- Dành cho đối tác cung ứng: Cơ hội phát triển xuyên quốc gia trong tương lai"
-                                ]
-                            }
-                        ],
-                        "information": {
-                            "tokenInfo": {
-                                "symbol": "SHOD",
-                                "tokenPrice": "0.075 BUSD",
-                                "totalRaise": "$16,250.00",
-                                "swapAmount": "216,666.666 SHOD",
-                                "tokenNetwork": "BSC",
-                                "acceptedCurrency": "BUSD",
-                                "vestingSchedule": "Mở khoá 100%"
-                            },
-                            "poolTimeline": {
-                                "idoStart": "21h00 17/10/2022 UTC+7",
-                                "idoEnd": "23h00 17/10/2022 UTC+7",
-                                "listingOn": "16h00 18/10/2022 UTC+7",
-                                "claim": "17h00 18/10/2022 UTC+7"
-                            }
-                        },
-                        "teamAndPartner": {
-                            "teams": [
-                                {
-                                    "title": "Đỗ Bích Diệp (Đồng sáng lập & Tổng giám đốc)",
-                                    "description": "Với hơn 12 năm kinh nghiệm tích lũy trong quá trình làm việc tại các tập đoàn lớn như Trung Nguyên Group, SPC Group Hàn Quốc, cùng khả năng đàm phán, giải quyết vấn đề, hiểu biết về luật kinh doanh Việt Nam, kết hợp với kiến ​​thức vững vàng về kế toán, tài chính và tiếp thị, v.v. hiện nay Bà Diệp đang giữ chức vụ Giám đốc Điều hành của Shopdi."
-                                },
-                                {
-                                    "title": "Nguyễn Hải Linh (Đồng sáng lập & Giám đốc Công nghệ)",
-                                    "description": "Hơn 20 năm kinh nghiệm trong phát triển công nghệ. Ông Linh từng là Quán quân Robocon Châu Á Thái Bình Dương năm 2004, Top 2 Nhân tài Đất Việt năm 2006 và nhiều giải thưởng khoa học khác. Anh từng làm việc tại Mỹ và Singapore cho các công ty nằm trong danh sách Forbes 500, đồng thời giữ vị trí CTO của nhiều công ty như: GoTrust, AI Dynamix… và hiện tại ông đang làm việc tại Shopdi với vị trí Giám đốc Công nghệ."
-                                },
-                                {
-                                    "title": "Bùi Linh Chi (Giám đốc Marketing)",
-                                    "description": "Bà Chi Bùi đã có nhiều năm làm việc trong lĩnh vực tiếp thị kỹ thuật số. Bà từng đảm nhận các vai trò hỗ trợ như Giám đốc Công ty TNHH Đầu tư và Quảng cáo Thắng Lợi, Giám sát Tiếp thị của Best Express Việt Nam và Trưởng phòng tiếp thị Công ty Cổ phần Tiki. Bà Chi Bùi hiện là Giám đốc Tiếp thị của Shopdi."
-                                },
-                                {
-                                    "title": "Đặng Vũ Quỳnh Giao (Giám đốc Tài chính)",
-                                    "description": "Với kinh nghiệm gần 20 năm làm kế toán & tài chính cho các tập đoàn FDI cũng như các tập đoàn thiết bị y tế Hoa Kỳ, bà Giao đã từng làm việc cho Jonhson & Johnson, Estee Lauder, v.v. và hiện bà đang làm việc tại Shopdi với vai trò Giám đốc Tài chính."
-                                },
-                                {
-                                    "title": "Đặng Trí Thanh (Trưởng phòng Sản phẩm)",
-                                    "description": "Ông Thành là lập trình viên, từng làm việc về phần mềm trong nhiều lĩnh vực như gia công phần mềm, ngân hàng, giáo dục, FMCG và cũng từng đảm nhiệm vị trí Giám đốc CNTT tại Hướng Nghiệp Á  u, Bibica Group. Với 16 năm kinh nghiệm trong lĩnh vực phát triển công nghệ, ông Thanh làm việc tại Shopdi với vai trò Trường phòng Sản phẩm."
-                                },
-                                {
-                                    "title": "Nguyễn Tường Vi (Trưởng phòng Marketing)",
-                                    "description": "Là diễn giả danh dự tại Digital Summit SEA và là giảng viên Marketing trong lĩnh vực F&B, với hơn 10 năm kinh nghiệm hoạt động trong lĩnh vực tư vấn marketing và triển khai các chiến dịch quảng bá cho các thương hiệu lớn như Hennessy, Thaco, Oppo,…Bà Vi hiện đang đảm nhiệm vị trí Trưởng phòng Marketing của Shopdi."
-                                },
-                                {
-                                    "title": "Huỳnh Lê Nhật Quang (Marketing Manager)",
-                                    "description": "Với kinh nghiệm hơn 6 năm trong lĩnh vực Sales và 5 năm trong ngành Marketing, cùng chuyên môn dày dặn về tâm lý học và phân tích insight khách hàng, tối ưu hóa các chi phí quảng cáo, data analytics. Ông Quang đã nắm giữ các vị trí liên quan Marketing, cố vấn về chiến lược kinh doanh và xử lý khủng hoảng truyền thông. Ông Quang biết cách đào tạo, tối ưu hóa nguồn lực nhân sự và lan tỏa năng lượng tích cực khi làm việc cùng nhân viên. Ngoài ra, ông có nhiều kiến thức về quản lý nhân sự, Sales, pháp lý, spa, F&B và tiền điện tử. Ông Quang Huỳnh hiện tại giữ vị trí quản lý Marketing tại Shopdi."
-                                },
-                                {
-                                    "title": "Quách Mai Trâm (Trưởng phòng Pháp lý)",
-                                    "description": "Luật sư Quách Mai Trâm là thành viên của Luật Đại Việt và bà đã từng làm việc tại Luật Đại Việt, PGT Group, Hiệp hội Vận tải hàng hóa, hiện nay luật sư Trâm làm việc tại Shopdi với vị trí Trưởng phòng Pháp lý."
-                                },
-                                {
-                                    "title": "Phạm Cao Sang (Trưởng phòng Kỹ thuật)",
-                                    "description": "Ông Sang đã cống hiến cho lĩnh vực phân tích dữ liệu và ngành công nghệ hơn 10 năm. Là “đầu não” của mọi dự án mình tham gia, ông Sang có kỹ năng lập trình tuyệt vời và kiến ​​thức chuyên ngành vững vàng liên quan đến công nghệ và nền tảng giao diện người dùng. Từng đảm nhiệm vị trí PHP Developer (Recess Lazada Việt Nam), Giám đốc dự án (Rivercrane Việt Nam) và Trưởng bộ phận Magento Backend (Công ty Phần mềm Bluebolt), chúng tôi tin rằng ông Phạm Cao Sang sẽ giúp dự án phát triển các tính năng cho ứng dụng và trang web một cách tốt nhất với vị trí Trưởng bộ phận kỹ thuật của Shopdi."
-                                },
-                                {
-                                    "title": "Nguyễn Thị Mỹ Trang (Trưởng phòng TMĐT)",
-                                    "description": "Với hơn 20 năm làm việc trong lĩnh vực bán lẻ, bà Trang quen thuộc với vai trò quản lý kinh doanh. Bà từng đảm nhiệm các vị trí quan trọng liên quan đến quản lý chuỗi cung ứng như Fashion Merchandiser của Emart Vietnam, Senior Merchandiser của AEON Vietnam và E-commerce Product Manager của Shark Market. Shopdi tự hào có bà Nguyễn Thị Mỹ Trang làm trưởng phòng Thương mại điện tử của với mục tiêu nâng cao sự hài lòng của khách hàng liên quan đến sản phẩm và trải nghiệm mua sắm."
-                                }
-                            ],
-                            "partners": [
-                                {
-                                    "title": "Ông. Trần Bằng Việt",
-                                    "description": "Là chuyên gia tư vấn hàng đầu về chiến lược doanh nghiệp và tái cấu trúc tổ chức tại Việt Nam, Ông là người sáng lập và Chủ tịch Đông A Solutions, nguyên Tổng Giám đốc Mai Linh Taxi, Phó Tổng Giám đốc Le & Associates và Giám đốc cấp cao TMA Solutions. Ông cũng tham gia dẫn dắt nhiều hội đoàn doanh nhân và chương trình phát triển lãnh đạo. Ông là cố vấn về Kinh doanh & Vận hành cho Shopdi."
-                                },
-                                {
-                                    "title": "Ông. Dương Vi Khoa",
-                                    "description": "Ông Dương Vi Khoa là một nhân vật nổi tiếng trong giới công nghệ thông tin của Việt Nam. Ông có bằng MCSE (Kỹ sư hệ thống của Microsoft) từ năm 19 tuổi và là người sáng lập Diễn đàn tin học Việt Nam (ddth.com), từng quy tụ 60.000 thành viên. Với kinh nghiệm quản lý hơn 20 năm trong ngành máy tính cùng kỹ năng lập kế hoạch chiến lược, chiến lược phát triển kinh doanh, quản lý khủng hoảng, truyền thông xã hội, ông Khoa đã và đang đảm nhiệm nhiều vị trí cố vấn và cộng sự của nhiều dự án, quỹ đầu tư nổi tiếng như KV Ventures, Bhodus, BHO, DHF,… Hiện tại, ông Dương Vi Khoa đang đảm nhiệm chức vụ Phó Chủ tịch VIRESA nhiệm kỳ III (2020-2024) và là nhà đồng sáng lập mạng xã hội GAPO. Shopdi rất hân hạnh khi có được sự tư vấn của ông trên hành trình phát triển cộng đồng của dự án."
-                                },
-                                {
-                                    "title": "Ông. Ngô Hoàng Đông",
-                                    "description": "Ông Ngô Hoàng Đông hay còn được viết với tên Tony Ngô, là người sáng lập Onebit Ventures và Network Media, đồng thời cũng từng là nhà sáng lập Công ty Cổ phần Thương Mại 25 Giây. Ông chính là nhân vật truyền cảm hứng cho sự ra đời của Shopdi. Với 20 năm làm việc trong lĩnh vực tư vấn truyền thông và nhiều năm kinh nghiệm trong lĩnh vực tiền điện tử. Ông Ngô Hoàng Đông hiện đang là Cố vấn Truyền thông và Phát triển Thị trường cho dự án Shopdi."
-                                },
-                                {
-                                    "title": "Ông. Lương Tuấn Anh",
-                                    "description": "Nhà sáng lập kiêm Giám đốc Điều hành của BSC Station - nền tảng IDO phi tập trung trên BSC, nhà đầu tư của hơn 100 dự án phát triển Game trong và ngoài nước. Với bề dày kinh nghiệm trong lĩnh vực blockchain, đấu giá NFT trên Binance Smart Chain và phát triển cộng đồng cryptocurrency. Ông Lương Tuấn Anh là cố vấn phát triển cộng đồng của dự án Shopdi."
-                                }
-                            ]
-                        }
-                    }
-                },
-                "en": {
-                    "description": "Shopdi is a next-generation e-commerce platform applying blockchain technology, where the selling price is determined by the number of interested people using the Hidden Price and Unlimited Discount mechanism. Shopdi is proud to be the first platform to integrate the blockchain technology and NFT to make transaction and product information transparent, and prioritize user experience and investors interests. It's created to buil a secure community of intermediaries for buyers and sellers to conduct transactions and trade items.",
-                    "claimPolicy": "TGE unlock 100%",
-                    "tabs": {
-                        "overview": [
-                            {
-                                "title": "",
-                                "description": [
-                                    "Shopdi is a next-generation e-commerce platform applying blockchain technology, where the selling price is determined by the number of interested people using the Hidden Price and Unlimited Discount mechanism. Shopdi is proud to be the first platform to integrate the blockchain technology and NFT to make transaction and product information transparent, and prioritize user experience and investors interests. It's created to buil a secure community of intermediaries for buyers and sellers to conduct transactions and trade items.",
-                                    "Shopdi specializes in authentic, trendy, high-quality and limited-edition products. Shopdi enables members to shop on a transparent, reputable and dependable e-commerce platform while also allowing customers to choose their own prices for products without interfering with the seller's profits or brand positioning. Our business is designed to maximize value for our stakeholders."
-                                ]
-                            },
-                            {
-                                "title": "1. Platform & High Security",
-                                "description": [
-                                    "The Shopdi e-commerce platform is fully adaptable to a wide range of consumer groups and merchants with many variations in behavior, features, currency and legal regulations of different countries.",
-                                    "Making full use of Big Data through data analysis from the \"Private  Price\" mechanism and user behavior, Shopdi easily categorizes consumer groups based on many different criteria such as interests, behaviors, age, location, income. Thereby setting the appropriateness for the ad campaign to help the seller optimize costs, reach the right target audience and increase the conversion rate."
-                                ]
-                            },
-                            {
-                                "title": "2. Product Price & Origin",
-                                "description": [
-                                    "Adopt the \"Hidden Price\" and \"Unlimited Discount\" mechanism so that users can decide the price they want to buy for a product they want. Clear and transparent product origin"
-                                ]
-                            },
-                            {
-                                "title": "3. Payment method",
-                                "description": [
-                                    "Multichannel payments: from integrated payments to electronic payments with a highly secure system that creates a high-secured payment space, therefore, securing the rights and benefits of users."
-                                ]
-                            },
-                            {
-                                "title": "4. Opportunity & Commitment",
-                                "description": [
-                                    "- For customers: Opportunity to buy quality products at the best prices in the market.",
-                                    "- For agents: Investment and earning opportunities for affiliate agents.",
-                                    "- For supply partners: Opportunities for cross-border development in the future"
-                                ]
-                            }
-                        ],
-                        "information": {
-                            "tokenInfo": {
-                                "symbol": "SHOD",
-                                "tokenPrice": "0.075 BUSD",
-                                "totalRaise": "$16,250.00",
-                                "swapAmount": "216,666.666 SHOD",
-                                "tokenNetwork": "BSC",
-                                "acceptedCurrency": "BUSD",
-                                "vestingSchedule": "TGE unlock 100%"
-                            },
-                            "poolTimeline": {
-                                "idoStart": "21h00 17/10/2022 UTC+7",
-                                "idoEnd": "23h00 17/10/2022 UTC+7",
-                                "listingOn": "16h00 18/10/2022 UTC+7",
-                                "claim": "17h00 18/10/2022 UTC+7"
-                            }
-                        },
-                        "teamAndPartner": {
-                            "teams": [
-                                {
-                                    "title": "Do Bich Diep (Co-Founder & CEO)",
-                                    "description": "With more than 12 years of experience accumulated in the process of working at large corporations such as Trung Nguyen Group, SPC Group of Korea, with the ability to negotiate, solve problems, understand Vietnamese business law, combine with solid knowledge of accounting, finance and marketing etc. Ms. Diep currently holds the position of Managing Director of Shopdi."
-                                },
-                                {
-                                    "title": "Nguyen Hai Linh (CoFounder & Chief Technology Officer)",
-                                    "description": "With more than 20 years of experience in technology development. Mr. Linh was once the Asia Pacific Robocon Champion in 2004, Top 2 Vietnamese Talents in 2006 and many other scientific awards. He has worked in the US and Singapore for companies listed in the Forbes 500 list, and held the position of CTO of many companies such as: GoTrust, AI Dynamix… and now he is working at Shopdi as a Chief Technology Officer."
-                                },
-                                {
-                                    "title": "Bui Linh Chi (CMO)",
-                                    "description": "Ms Chi Bui has many years of experience in the digital marketing world. She has held supporting roles such as Director of Thang Loi Investment and Advertising Co., Ltd., Marketing Supervisor of Best Express Vietnam and Head of Marketing Department of Tiki Joint Stock Company. Ms. Chi Bui is currently the Marketing Manager of Shopdi."
-                                },
-                                {
-                                    "title": "Dang Vu Quynh Giao (CFO)",
-                                    "description": "With nearly 20 years of experience in accounting & finance for FDI corporations as well as US medical equipment corporations, Ms. Giao has worked for Johnson & Johnson, Estee Lauder, etc. and currently she is working at Shopdi as CFO."
-                                },
-                                {
-                                    "title": "Dang Tri Thanh (Product Manager)",
-                                    "description": "Mr. Thanh is a programmer, used to work in software in many fields such as software outsourcing, banking, education, FMCG and also held the position of IT Director at Huong Nghiep Asia, Bibica Group. With 16 years of experience in technology development, Mr. Thanh works at Shopdi as a Product School."
-                                },
-                                {
-                                    "title": "Nguyen Tuong Vi (Marketing Manager)",
-                                    "description": "As an honorary speaker at Digital Summit SEA and a Marketing lecturer in the field of F&B, with more than 10 years of experience working in the field of marketing consulting and implementing promotional campaigns for big brands such as Hennessy, Thaco , Oppo, etc. Ms. Vi currently holds the position of Marketing Manager of Shopdi."
-                                },
-                                {
-                                    "title": "Huynh Le Nhat Quang (Marketing Manager)",
-                                    "description": "With more than 6 years of experience in Sales and 5 years in Marketing, with extensive expertise in psychology and customer insight analysis, optimization of advertising costs, data analytics. Mr. Quang has held positions related to Marketing, consulting on business strategy and handling crisis communication. Mr. Quang knows how to train, optimize human resources and spread positive energy when working with employees. In addition, he has extensive knowledge in human resource management, Sales, legal, spa, F&B and cryptocurrency. Quang Huynh currently holds the position of Marketing Manager at Shopdi."
-                                },
-                                {
-                                    "title": "Quach Mai Tram (Legal Manager)",
-                                    "description": "Lawyer Quach Mai Tram is a member of Dai Viet Law and she used to work at Dai Viet Law, PGT Group, Freight Transport Association, now lawyer Tram works at Shopdi as Head of Legal Department."
-                                },
-                                {
-                                    "title": "Pham Cao Sang (Technical Leader)",
-                                    "description": "Mr. Sang has been devoted to data analytics and technology industry for more than 10 years. As the \"brain\"of every project he participates in, Mr. Sang has excellent programming skills and solid specialized knowledge related to user interface technology and platforms. Having held the position of PHP Developer (Recess Lazada Vietnam), Project Manager (Rivercrane Vietnam) and Head of Magento Backend Department (Bluebolt Software Company), we believe that Mr. Pham Cao Sang will help the project develop. Develop the best features for apps and websites with Shopdi Technical Lead."
-                                },
-                                {
-                                    "title": "Nguyen Thi My Trang (Ecommerce Manager)",
-                                    "description": "With more than 20 years of working in the retail sector, Ms. Trang is familiar with business management roles. She has held important positions related to supply chain management such as Fashion Merchandiser of Emart Vietnam, Senior Merchandiser of AEON Vietnam and E-commerce Product Manager of Shark Market. Shopdi is proud to have Ms. Nguyen Thi My Trang as its Head of E-Commerce Department with the goal of improving customer satisfaction related to products and shopping experience."
-                                }
-                            ],
-                            "partners": [
-                                {
-                                    "title": "Mr. Tran Bang Viet",
-                                    "description": "As a leading consultant on corporate strategy and organizational restructuring in Vietnam, he is the Founder and Chairman of Dong A Solutions, former General Director Mai Linh Taxi, Deputy General Director of Le & Associates and Le & Associates. Senior Director of TMA Solutions. He is also involved in leading many business associations and leadership development programs. Mr Viet is curently a Sales & Operations advisor for Shopdi."
-                                },
-                                {
-                                    "title": "Mr. Duong Vi Khoa",
-                                    "description": "Mr. Duong Vi Khoa is a famous figure in the information technology world of Vietnam. He holds an MCSE (Microsoft Systems Engineer) degree at the age of 19 and is the founder of the Vietnam Informatics Forum (ddth.com), which once gathered 60,000 members. With more than 20 years of management experience in the computer industry and skills in strategic planning, business development, crisis management, and social media, Mr. Khoa has held many consulting positions. and associates of many famous projects and investment funds such as KV Ventures, Bhodus, BHO, DHF, etc. Currently, Mr. Duong Vi Khoa is holding the position of Vice President of VIRESA term III (2020-2024) and is co-founder of the social network GAPO. Shopdi is very pleased to have his advice on the project's community development journey."
-                                },
-                                {
-                                    "title": "Mr. Ngo Hoang Dong",
-                                    "description": "Mr. Ngo Hoang Dong, also known as Tony Ngo, is the founder of Onebit Ventures and Network Media, and was also the founder of 25 Second Trading Joint Stock Company. He is the character that inspired the birth of Shopdi. With 20 years of working in the field of media consulting and many years of experience in the field of cryptocurrency. Mr. Ngo Hoang Dong is currently the Marketing and Communication Advisor for the Shopdi project."
-                                },
-                                {
-                                    "title": "Mr. Luong Tuan Anh",
-                                    "description": "Founder and CEO of BSC Station - a decentralized IDO platform on BSC, investor of more than 100 domestic and foreign Game development projects. With a wealth of experience in the blockchain field, NFT auction on Binance Smart Chain and development of the cryptocurrency community. Mr. Luong Tuan Anh is the community development consultant of the Shopdi project."
-                                }
-                            ]
-                        }
-                    }
-                }
-            },
-            "status": 1,
-            "startTimeUnix": 1666015200,
-            "endTimeUnix": 1666022400
-        },
-        {
-            "id": 0,
-            "social": [
-                {
-                    "type": "website",
-                    "link": "https://athena.football"
-                },
-                {
-                    "type": "facebook",
-                    "link": "https://www.facebook.com/FootballAthena"
-                },
-                {
-                    "type": "telegram",
-                    "link": "https://t.me/athenafootballchannel"
-                },
-                {
-                    "type": "twitter",
-                    "link": "https://twitter.com/footballathena"
-                },
-                {
-                    "type": "youtube",
-                    "link": "https://youtube.com/user/vinik55"
-                },
-                {
-                    "type": "tiktok",
-                    "link": "https://www.tiktok.com/@athena.football?_t=8WiRE5Yje9S&_r=1"
-                }
-            ],
-            "tagProject": {
-                "audit": true,
-                "kyc": true
-            },
-            "certificate": {
-                "incubate": false,
-                "potential": true,
-                "experiment": false
-            },
-            "name": "Athena Football",
-            "symbol": "ATH",
-            "decimals": "18",
-            "price": 0.0025,
-            "currencyPair": "BUSD",
-            "address": "0x525B6dC1A1965200754054D4BF548E31E26e9503",
-            "tags": [
-                "Football",
-                "IDO"
-            ],
-            "startDate": "11:00 UTC+7 04/11/2022",
-            "endDate": "11:00 UTC+7 05/11/2022",
-            "claimDate": "21:00 UTC+7 05/11/2022",
-            "idoContract": "0xcb959a3311559648CE6E4FfbAE402DE5c219e8d0",
-            "chain": "BSC",
-            "minRank": 1,
-            "logo": {
-                "large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/athenafootball.jpg",
-                "small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/athenafootball.jpg"
-            },
-            "projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/athenafootball.jpg",
-            "delFlg": false,
-            "language": {
-                "vi": {
-                    "description": "Một nền tảng bóng đá Web3 ngay trong mùa World Cup. Theo như chúng tôi biết, không có dự án nào đồng hành cùng các sự kiện thể thao lớn và đưa người hâm mộ đến với một cộng đồng gốc khổng lồ. Có những nền tảng cá cược thể thao tiền điện tử tuy nhiên không quá tin tưởng và quá tập trung vào cá cược.",
-                    "claimPolicy": "Mở khoá 20%",
-                    "tabs": {
-                        "overview": [
-                            {
-                                "title": "Athena Football",
-                                "description": [
-                                    "Hệ sinh thái bóng đá phi tập trung có tên Athena Football được phát triển để hỗ trợ các dịp thể thao như World Cup tiếp theo vào năm 2022. Nó được tạo ra để mang đến cho người dùng trải nghiệm thú vị hơn khi xem các sự kiện thể thao. Chúng tôi đã chọn xây dựng một nền tảng nơi tất cả người hâm mộ có thể ủng hộ đội tuyển quốc gia yêu thích của họ bằng cách đầu tư vào Fan Token của đội đó và có tiềm năng giành được những phần thưởng tiền điện tử tuyệt vời."
-                                ]
-                            },
-                            {
-                                "title": "Sự độc đáo",
-                                "description": [
-                                    "Một nền tảng bóng đá Web3 ngay trong mùa World Cup. Theo như chúng tôi biết, không có dự án nào đồng hành cùng các sự kiện thể thao lớn và đưa người hâm mộ đến với một cộng đồng gốc khổng lồ. Có những nền tảng cá cược thể thao tiền điện tử tuy nhiên không quá tin tưởng và quá tập trung vào cá cược."
-                                ]
-                            }
-                        ],
-                        "information": {
-                            "tokenInfo": {
-                                "symbol": "ATH",
-                                "tokenPrice": "0.0025 BUSD",
-                                "tokenNetwork": "BSC",
-                                "acceptedCurrency": "BUSD",
-                                "vestingSchedule": "20% tại TGE và trả dần trong 4 tháng, 20% mỗi tháng"
-                            },
-                            "poolTimeline": {
-                                "idoStart": "11:00 UTC+7 04/11",
-                                "idoEnd": "11:00 UTC+7 05/11",
-                                "listingOn": "20:00 UTC+7 on 5/11 PancakeSwap",
-                                "claim": "21:00 UTC+7 05/11"
-                            }
-                        },
-                        "teamAndPartner": {
-                            "teams": [
-                                {
-                                    "title": "G.B Ethan (CEO)",
-                                    "description": "Một người có tầm nhìn xa, hiểu biết về tiền điện tử và hiện là cố vấn đáng tin cậy cho các doanh nghiệp có ảnh hưởng nhất trên thế giới. 6 năm kinh nghiệm về blockchain."
-                                },
-                                {
-                                    "title": "Jonathan Damien (CMO)",
-                                    "description": "Chuyên gia Marketing với 4 năm kinh nghiệm. Chịu trách nhiệm về các chiến lược tiếp thị và quan hệ đối tác."
-                                }
-                            ]
-                        }
-                    }
-                },
-                "en": {
-                    "description": "A Web3 Football Platform right in World Cup Season. As far as we know there are no projects accompanying major sports events and bringing the fans together to a huge rooting community. There are crypto sport betting platforms however not very soffisticated and too focused on betting.",
-                    "claimPolicy": "TGE unlock 20%",
-                    "tabs": {
-                        "overview": [
-                            {
-                                "title": "Athena Football",
-                                "description": [
-                                    "A decentralized football ecosystem called Athena Football was developed to support sporting occasions like the next World Cup in 2022. It is made to give users a more thrilling experience when watching sporting events. We chose to build a platform where all fans can support their favorite national team by investing in that team's Fan Token and having the potential to win amazing crypto rewards."
-                                ]
-                            },
-                            {
-                                "title": "Unique",
-                                "description": [
-                                    "A Web3 Football Platform right in World Cup Season. As far as we know there are no projects accompanying major sports events and bringing the fans together to a huge rooting community. There are crypto sport betting platforms however not very soffisticated and too focused on betting."
-                                ]
-                            }
-                        ],
-                        "information": {
-                            "tokenInfo": {
-                                "symbol": "ATH",
-                                "tokenPrice": "0.0025 BUSD",
-                                "tokenNetwork": "BSC",
-                                "acceptedCurrency": "BUSD",
-                                "vestingSchedule": "20% at TGE, and linear vesting in 4 months; 20% a month"
-                            },
-                            "poolTimeline": {
-                                "idoStart": "11:00 UTC+7 04/11",
-                                "idoEnd": "11:00 UTC+7 05/11",
-                                "listingOn": "20:00 UTC+7 on 5/11 PancakeSwap",
-                                "claim": "21:00 UTC+7 05/11"
-                            }
-                        },
-                        "teamAndPartner": {
-                            "teams": [
-                                {
-                                    "title": "G.B Ethan (CEO)",
-                                    "description": "A crypto-savvy visionary and currently a trusted advisor to the most influential businesses in the world. 6 years of blockchain experience."
-                                },
-                                {
-                                    "title": "Jonathan Damien (CMO)",
-                                    "description": "Marketing Professional with 4 years experience. Responsible for marketing strategies and partnerships."
-                                }
-                            ]
-                        }
-                    }
-                }
-            },
-            "status": 1,
-            "startTimeUnix": 1667534400,
-            "endTimeUnix": 1667620800
-        },
-        {
-            "id": 0,
-            "social": [
-                {
-                    "type": "website",
-                    "link": "https://lstrade.io/"
-                },
-                {
-                    "type": "facebook",
-                    "link": "https://fb.com/lstrade.p2e"
-                },
-                {
-                    "type": "telegram",
-                    "link": "https://t.me/LSTRADE_channel"
-                },
-                {
-                    "type": "twitter",
-                    "link": "https://twitter.com/lstradeofficial"
-                }
-            ],
-            "tagProject": {
-                "audit": true,
-                "kyc": true
-            },
-            "certificate": {
-                "incubate": false,
-                "potential": true,
-                "experiment": false
-            },
-            "name": "LS Coin",
-            "symbol": "LSC",
-            "decimals": "18",
-            "price": 1,
-            "currencyPair": "BUSD",
-            "address": "0x293Faca2e5d6aC7A0e704eAfEda628528b3b3f0a",
-            "tags": [
-                "LSC",
-                "IDO"
-            ],
-            "startDate": "9PM, 18th April 2023 (UTC+8)",
-            "endDate": "9PM, 19th April 2023 (UTC+8)",
-            "claimDate": "12PM, 19th April 2023 (UTC+8)",
-            "idoContract": "0x2789DD0910306A83f1DC831830eC0254CabDf0a2",
-            "chain": "BSC",
-            "minRank": 1,
-            "logo": {
-                "large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/athenafootball.jpg",
-                "small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/lstrade.jpg"
-            },
-            "projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/lstradebanner.jpg",
-            "delFlg": false,
-            "language": {
-                "vi": {
-                    "description": "LS TRADE, một nền tảng giao dịch tùy chọn nhị phân phi tập trung thế hệ tiếp theo, là một sản phẩm đa tính năng kết hợp nhiều yếu tố như Predict-to-Earn (P2E), Mine-to-Earn (M2E) và Burn-to-Earn (B2E). Nền tảng LS TRADE nhằm mục đích thu hút nhiều user khác nhau, bao gồm Traders, Miners & Holders, tham gia và tận dụng nhiều cơ hội lợi nhuận hấp dẫn từ hệ sinh thái LS TRADE.",
-                    "tabs": {
-                        "overview": [
-                            {
-                                "title": "LS TRADE",
-                                "description": [
-                                    "LS TRADE, một nền tảng giao dịch tùy chọn nhị phân phi tập trung thế hệ tiếp theo, là một sản phẩm đa tính năng kết hợp nhiều yếu tố như Predict-to-Earn (P2E), Mine-to-Earn (M2E) và Burn-to-Earn (B2E). Nền tảng LS TRADE nhằm mục đích thu hút nhiều user khác nhau, bao gồm Traders, Miners & Holders, tham gia và tận dụng nhiều cơ hội lợi nhuận hấp dẫn từ hệ sinh thái LS TRADE."
-                                ]
-                            },
-                            {
-                                "title": "Trải nghiệm dễ dàng",
-                                "description": [
-                                    "Cơ chế nhập lệnh được thiết kế để được rút gọn, dễ dàng truy cập và quen thuộc với tất cả người dùng."
-                                ]
-                            },
-                            {
-                                "title": "Sự minh bạch",
-                                "description": [
-                                    "Dữ liệu giá được cung cấp bởi ChainLink Oracle, và tất cả thông tin và dữ liệu như các lệnh, phiên giao dịch, giá đóng cửa, v.v. được ghi lại và quản lý bởi các hợp đồng thông minh, có thể được kiểm tra trực tiếp trên chuỗi."
-                                ]
-                            },
-                            {
-                                "title": "Phi tập trung",
-                                "description": [
-                                    "Nền tảng không giữ bất kỳ tài sản người dùng nào. Người dùng có hoàn toàn quyền kiểm soát tài sản của họ thông qua ví Defi của mình."
-                                ]
-                            }
-                        ],
-                        "information": {
-                            "tokenInfo": {
-                                "symbol": "LSC",
-                                "tokenPrice": "1 BUSD",
-                                "tokenNetwork": "BSC",
-                                "acceptedCurrency": "BUSD",
-                                "vestingSchedule": "75% tại TGE và trả dần trong 5 tháng, 5% mỗi tháng",
-                                "swapAmount": "50,000 LSC"
-                            },
-                            "poolTimeline": {
-                                "idoStart": "9PM, 18th April 2023 (UTC+8)",
-                                "idoEnd": "9PM, 19th April 2023 (UTC+8)",
-                                "listingOn": "TBA",
-                                "claim": "After 2 hours listing"
-                            }
-                        },
-                        "teamAndPartner": {
-                            "teams": [
-                                {
-                                    "title": "3S Wallet",
-                                    "description": "Tự hào là công cụ tài chính vượt trội khi là nơi lưu trữ, chi tiêu và giao dịch đáng an toàn cho các cá nhân và tổ chức với hơn 3000 đồng tiền mã hóa khác nhau. Trang bị 2 lớp bảo mật đảm bảo an toàn tuyệt đối, giao diện thân thiện với mọi người dùng."
-                                },
-                                {
-                                    "title": "BHO Network",
-                                    "description": "BHO Network là Layer 1, cho phép xây dựng nhiều loại ứng dụng khác nhau."
-                                },
-                                {
-                                    "title": "OneBit Venture",
-                                    "description": "Onebit Ventures is an investment fund that obtains a massive community ecosystem, allowing users to gain access to the DeFi platform in the easiest, safest and most cost-effective way possible. As a licensed fund management company of innovative start-ups, we strive to obtain the fund in a transparent, reasonable and efficient manner, providing safety to our investors."
-                                },
-                                {
-                                    "title": "Verichains",
-                                    "description": "Since 2017, Verichains has been a pioneer and leading blockchain security firm in APAC, with extensive expertise in security, cryptography and core blockchain technology. More than 200 clients trust us with $50 billion assets under protection, including several high-profile clients such as BNB Chain, Klaytn, Wemix, Line Corp, Axie Infinity, Ronin Network, and Kyber Network."
-                                }
-                            ]
-                        }
-                    }
-                },
-                "en": {
-                    "description": "LS TRADE is a decentralized Futures Battle (Predict Price Move) trading platform that uses blockchain and smart contracts as the technological foundation of the application. It provides real-time Bitcoin price fluctuations based on ChainLink Oracle data. As a multi-featured product and a combination of many factors such as: Predict-to-Earn (P2E), Mine-to-Earn (M2E) and Burn-to-Earn (B2E), the LS TRADE platform aims to attract a variety of users, including: Traders, Miners & Holders, to join and take advantage of many attractive profit opportunities from the LS TRADE ecosystem.",
-                    "tabs": {
-                        "overview": [
-                            {
-                                "title": "LS TRADE",
-                                "description": [
-                                    "LS TRADE is a decentralized Futures Battle (Predict Price Move) trading platform that uses blockchain and smart contracts as the technological foundation of the application. It provides real-time Bitcoin price fluctuations based on ChainLink Oracle data. As a multi-featured product and a combination of many factors such as: Predict-to-Earn (P2E), Mine-to-Earn (M2E) and Burn-to-Earn (B2E), the LS TRADE platform aims to attract a variety of users, including: Traders, Miners & Holders, to join and take advantage of many attractive profit opportunities from the LS TRADE ecosystem."
-                                ]
-                            },
-                            {
-                                "title": "Easy experience",
-                                "description": [
-                                    "The order entry mechanism is designed to be streamlined, easily accessible, and familiar to all users."
-                                ]
-                            },
-                            {
-                                "title": "Transparency",
-                                "description": [
-                                    "Price data provided by ChainLink Oracle, and all information and data such as orders, trading sessions, closing prices, etc. are recorded and managed by smart contracts, directly auditable on-chain."
-                                ]
-                            },
-                            {
-                                "title": "Decentralization",
-                                "description": [
-                                    "The platform holds absolutely no user assets. Users take full control of their assets via their Defi wallet."
-                                ]
-                            }
-                        ],
-                        "information": {
-                            "tokenInfo": {
-                                "symbol": "LSC",
-                                "tokenPrice": "1 BUSD",
-                                "tokenNetwork": "BSC",
-                                "acceptedCurrency": "BUSD",
-                                "vestingSchedule": "75% TGE, then linear monthly vesting in 05 months",
-                                "swapAmount": "50,000 LSC"
-                            },
-                            "poolTimeline": {
-                                "idoStart": "9PM, 18th April 2023 (UTC+8)",
-                                "idoEnd": "9PM, 19th April 2023 (UTC+8)",
-                                "listingOn": "TBA",
-                                "claim": "After 2 hours listing"
-                            }
-                        },
-                        "teamAndPartner": {
-                            "teams": [
-                                {
-                                    "title": "3S Wallet",
-                                    "description": "3S Wallet is an easy-to-use platform with trusted storage, spending, and transaction features for you and your company. With over 3000+ cryptocurrencies and 2 layers of security to make it a safe and simple user-friendly interface."
-                                },
-                                {
-                                    "title": "BHO Network",
-                                    "description": "BHO Network is Layer 1 that allows many different types of applications built on."
-                                },
-                                {
-                                    "title": "OneBit Venture",
-                                    "description": "Onebit Ventures is an investment fund that obtains a massive community ecosystem, allowing users to gain access to the DeFi platform in the easiest, safest and most cost-effective way possible. As a licensed fund management company of innovative start-ups, we strive to obtain the fund in a transparent, reasonable and efficient manner, providing safety to our investors."
-                                },
-                                {
-                                    "title": "Verichains",
-                                    "description": "Since 2017, Verichains has been a pioneer and leading blockchain security firm in APAC, with extensive expertise in security, cryptography and core blockchain technology. More than 200 clients trust us with $50 billion assets under protection, including several high-profile clients such as BNB Chain, Klaytn, Wemix, Line Corp, Axie Infinity, Ronin Network, and Kyber Network."
-                                }
-                            ]
-                        }
-                    }
-                }
-            },
-            "status": 0,
-            "startTimeUnix": 1681822800,
-            "endTimeUnix": 1681909200,
-            "isWL": false
-        },
-        {
-            "id": 1,
-            "social": [
-                {
-                    "type": "website",
-                    "link": "https://lstrade.io/"
-                },
-                {
-                    "type": "facebook",
-                    "link": "https://fb.com/lstrade.p2e"
-                },
-                {
-                    "type": "telegram",
-                    "link": "https://t.me/LSTRADE_channel"
-                },
-                {
-                    "type": "twitter",
-                    "link": "https://twitter.com/lstradeofficial"
-                }
-            ],
-            "tagProject": {
-                "audit": true,
-                "kyc": true
-            },
-            "certificate": {
-                "incubate": false,
-                "potential": true,
-                "experiment": false
-            },
-            "name": "LS Coin",
-            "symbol": "LSC",
-            "decimals": "18",
-            "price": 1,
-            "currencyPair": "BUSD",
-            "address": "0x293Faca2e5d6aC7A0e704eAfEda628528b3b3f0a",
-            "tags": [
-                "LSC",
-                "IDO"
-            ],
-            "startDate": "8PM, 18th April 2023 (UTC+7)",
-            "endDate": "8PM, 19th April 2023 (UTC+7)",
-            "claimDate": "10PM, 19th April 2023 (UTC+7)",
-            "idoContract": "0x2789DD0910306A83f1DC831830eC0254CabDf0a2",
-            "chain": "BSC",
-            "minRank": 1,
-            "logo": {
-                "large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/athenafootball.jpg",
-                "small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/lstrade.jpg"
-            },
-            "projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/lstradebanner.jpg",
-            "delFlg": false,
-            "language": {
-                "vi": {
-                    "description": "LS TRADE, một nền tảng giao dịch tùy chọn nhị phân phi tập trung thế hệ tiếp theo, là một sản phẩm đa tính năng kết hợp nhiều yếu tố như Predict-to-Earn (P2E), Mine-to-Earn (M2E) và Burn-to-Earn (B2E). Nền tảng LS TRADE nhằm mục đích thu hút nhiều user khác nhau, bao gồm Traders, Miners & Holders, tham gia và tận dụng nhiều cơ hội lợi nhuận hấp dẫn từ hệ sinh thái LS TRADE.",
-                    "tabs": {
-                        "overview": [
-                            {
-                                "title": "LS TRADE",
-                                "description": [
-                                    "LS TRADE, một nền tảng giao dịch tùy chọn nhị phân phi tập trung thế hệ tiếp theo, là một sản phẩm đa tính năng kết hợp nhiều yếu tố như Predict-to-Earn (P2E), Mine-to-Earn (M2E) và Burn-to-Earn (B2E). Nền tảng LS TRADE nhằm mục đích thu hút nhiều user khác nhau, bao gồm Traders, Miners & Holders, tham gia và tận dụng nhiều cơ hội lợi nhuận hấp dẫn từ hệ sinh thái LS TRADE."
-                                ]
-                            },
-                            {
-                                "title": "Trải nghiệm dễ dàng",
-                                "description": [
-                                    "Cơ chế nhập lệnh được thiết kế để được rút gọn, dễ dàng truy cập và quen thuộc với tất cả người dùng."
-                                ]
-                            },
-                            {
-                                "title": "Sự minh bạch",
-                                "description": [
-                                    "Dữ liệu giá được cung cấp bởi ChainLink Oracle, và tất cả thông tin và dữ liệu như các lệnh, phiên giao dịch, giá đóng cửa, v.v. được ghi lại và quản lý bởi các hợp đồng thông minh, có thể được kiểm tra trực tiếp trên chuỗi."
-                                ]
-                            },
-                            {
-                                "title": "Phi tập trung",
-                                "description": [
-                                    "Nền tảng không giữ bất kỳ tài sản người dùng nào. Người dùng có hoàn toàn quyền kiểm soát tài sản của họ thông qua ví Defi của mình."
-                                ]
-                            }
-                        ],
-                        "information": {
-                            "tokenInfo": {
-                                "symbol": "LSC",
-                                "tokenPrice": "1 BUSD",
-                                "tokenNetwork": "BSC",
-                                "acceptedCurrency": "BUSD",
-                                "vestingSchedule": "75% tại TGE và trả dần trong 5 tháng, 5% mỗi tháng",
-                                "swapAmount": "50,000 LSC"
-                            },
-                            "poolTimeline": {
-                                "idoStart": "8PM, 18th April 2023 (UTC+7)",
-                                "idoEnd": "8PM, 19th April 2023 (UTC+7)",
-                                "listingOn": "TBA",
-                                "claim": "After 2 hours listing"
-                            }
-                        },
-                        "teamAndPartner": {
-                            "teams": [
-                                {
-                                    "title": "3S Wallet",
-                                    "description": "Tự hào là công cụ tài chính vượt trội khi là nơi lưu trữ, chi tiêu và giao dịch đáng an toàn cho các cá nhân và tổ chức với hơn 3000 đồng tiền mã hóa khác nhau. Trang bị 2 lớp bảo mật đảm bảo an toàn tuyệt đối, giao diện thân thiện với mọi người dùng."
-                                },
-                                {
-                                    "title": "BHO Network",
-                                    "description": "BHO Network là Layer 1, cho phép xây dựng nhiều loại ứng dụng khác nhau."
-                                },
-                                {
-                                    "title": "OneBit Venture",
-                                    "description": "Onebit Ventures is an investment fund that obtains a massive community ecosystem, allowing users to gain access to the DeFi platform in the easiest, safest and most cost-effective way possible. As a licensed fund management company of innovative start-ups, we strive to obtain the fund in a transparent, reasonable and efficient manner, providing safety to our investors."
-                                },
-                                {
-                                    "title": "Verichains",
-                                    "description": "Since 2017, Verichains has been a pioneer and leading blockchain security firm in APAC, with extensive expertise in security, cryptography and core blockchain technology. More than 200 clients trust us with $50 billion assets under protection, including several high-profile clients such as BNB Chain, Klaytn, Wemix, Line Corp, Axie Infinity, Ronin Network, and Kyber Network."
-                                }
-                            ]
-                        }
-                    }
-                },
-                "en": {
-                    "description": "LS TRADE is a decentralized Futures Battle (Predict Price Move) trading platform that uses blockchain and smart contracts as the technological foundation of the application. It provides real-time Bitcoin price fluctuations based on ChainLink Oracle data. As a multi-featured product and a combination of many factors such as: Predict-to-Earn (P2E), Mine-to-Earn (M2E) and Burn-to-Earn (B2E), the LS TRADE platform aims to attract a variety of users, including: Traders, Miners & Holders, to join and take advantage of many attractive profit opportunities from the LS TRADE ecosystem.",
-                    "tabs": {
-                        "overview": [
-                            {
-                                "title": "LS TRADE",
-                                "description": [
-                                    "LS TRADE is a decentralized Futures Battle (Predict Price Move) trading platform that uses blockchain and smart contracts as the technological foundation of the application. It provides real-time Bitcoin price fluctuations based on ChainLink Oracle data. As a multi-featured product and a combination of many factors such as: Predict-to-Earn (P2E), Mine-to-Earn (M2E) and Burn-to-Earn (B2E), the LS TRADE platform aims to attract a variety of users, including: Traders, Miners & Holders, to join and take advantage of many attractive profit opportunities from the LS TRADE ecosystem."
-                                ]
-                            },
-                            {
-                                "title": "Easy experience",
-                                "description": [
-                                    "The order entry mechanism is designed to be streamlined, easily accessible, and familiar to all users."
-                                ]
-                            },
-                            {
-                                "title": "Transparency",
-                                "description": [
-                                    "Price data provided by ChainLink Oracle, and all information and data such as orders, trading sessions, closing prices, etc. are recorded and managed by smart contracts, directly auditable on-chain."
-                                ]
-                            },
-                            {
-                                "title": "Decentralization",
-                                "description": [
-                                    "The platform holds absolutely no user assets. Users take full control of their assets via their Defi wallet."
-                                ]
-                            }
-                        ],
-                        "information": {
-                            "tokenInfo": {
-                                "symbol": "LSC",
-                                "tokenPrice": "1 BUSD",
-                                "tokenNetwork": "BSC",
-                                "acceptedCurrency": "BUSD",
-                                "vestingSchedule": "75% TGE, then linear monthly vesting in 05 months",
-                                "swapAmount": "50,000 LSC"
-                            },
-                            "poolTimeline": {
-                                "idoStart": "9PM, 18th April 2023 (UTC+8)",
-                                "idoEnd": "9PM, 19th April 2023 (UTC+8)",
-                                "listingOn": "TBA",
-                                "claim": "After 2 hours listing"
-                            }
-                        },
-                        "teamAndPartner": {
-                            "teams": [
-                                {
-                                    "title": "3S Wallet",
-                                    "description": "3S Wallet is an easy-to-use platform with trusted storage, spending, and transaction features for you and your company. With over 3000+ cryptocurrencies and 2 layers of security to make it a safe and simple user-friendly interface."
-                                },
-                                {
-                                    "title": "BHO Network",
-                                    "description": "BHO Network is Layer 1 that allows many different types of applications built on."
-                                },
-                                {
-                                    "title": "OneBit Venture",
-                                    "description": "Onebit Ventures is an investment fund that obtains a massive community ecosystem, allowing users to gain access to the DeFi platform in the easiest, safest and most cost-effective way possible. As a licensed fund management company of innovative start-ups, we strive to obtain the fund in a transparent, reasonable and efficient manner, providing safety to our investors."
-                                },
-                                {
-                                    "title": "Verichains",
-                                    "description": "Since 2017, Verichains has been a pioneer and leading blockchain security firm in APAC, with extensive expertise in security, cryptography and core blockchain technology. More than 200 clients trust us with $50 billion assets under protection, including several high-profile clients such as BNB Chain, Klaytn, Wemix, Line Corp, Axie Infinity, Ronin Network, and Kyber Network."
-                                }
-                            ]
-                        }
-                    }
-                }
-            },
-            "status": 0,
-            "startTimeUnix": 1681822800,
-            "endTimeUnix": 1681909200,
-            "isWL": true
-        }
-    ]
+	"pools": [
+		{
+			"id": 0,
+			"social": [
+				{
+					"type": "website",
+					"link": "https://www.shopdi.io"
+				},
+				{
+					"type": "facebook",
+					"link": "https://www.facebook.com/shopdi.official"
+				},
+				{
+					"type": "telegram",
+					"link": "https://t.me/ShopdiOfficial?fbclid=IwAR2ode0eyLwOLpdvNC8juGqDixhgSlVH9R45WZMr_7DYvvZqVNd4mcac2ZM"
+				},
+				{
+					"type": "twitter",
+					"link": "https://twitter.com/shopdi_official?fbclid=IwAR1h3L1pAdHwi39jLItkpGWUTsT2zK40x6mYMLKl04DzNWU93ibqzFm1WZo"
+				},
+				{
+					"type": "instagram",
+					"link": "https://www.instagram.com/shopdi.official/?igshid=YmMyMTA2M2Y%3D/"
+				},
+				{
+					"type": "youtube",
+					"link": "https://youtube.com/channel/UCUEJ-fUE4-ONf-LVdizZSTg"
+				},
+				{
+					"type": "tiktok",
+					"link": "https://www.tiktok.com/@shopdi.official"
+				},
+				{
+					"type": "telegramGroup",
+					"link": "https://t.me/ShopdiVietnamOfficalGroup"
+				}
+			],
+			"tagProject": {
+				"audit": true,
+				"kyc": true
+			},
+			"certificate": {
+				"incubate": true,
+				"potential": false,
+				"experiment": false
+			},
+			"name": "Shopdi",
+			"symbol": "SHOD",
+			"decimals": "18",
+			"price": 0.075,
+			"currencyPair": "BUSD",
+			"address": "0xA6D662dDB759F2A3C4240bca2e1cc86D383F9E71",
+			"tags": ["NFT", "IDO", "ECOMMERCE"],
+			"startDate": "21h00 17/10/2022 UTC+7",
+			"endDate": "23h00 17/10/2022 UTC+7",
+			"claimDate": "17h00 18/10/2022 UTC+7",
+			"idoContract": "0x6347E1D9EdCbF20a59c9Df1C6010f0AB4eb45d2A",
+			"chain": "BSC",
+			"minRank": 1,
+			"logo": {
+				"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/shopdi.jpg",
+				"small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/shopdi.jpg"
+			},
+			"projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/shopdi.jpg",
+			"delFlg": false,
+			"language": {
+				"vi": {
+					"description": "Shopdi là sàn thương mại điện tử thế hệ mới ứng dụng công nghệ blockchain, nơi giá bán được quyết định bởi số lượng người quan tâm với cơ chế Giá bí mật và Giá giảm không giới hạn. Tự hào là nền tảng đầu tiên sử dụng công nghệ blockchain và NFT để minh bạch hóa thông tin giao dịch và sản phẩm, đặt trải nghiệm người dùng lên hàng đầu và lợi ích của nhà đầu tư. Xây dựng cộng đồng trung gian an toàn cho người mua và người bán để thực hiện các giao dịch và trao đổi hàng hóa.",
+					"claimPolicy": "Mở khoá 100%",
+					"tabs": {
+						"overview": [
+							{
+								"title": "",
+								"description": [
+									"Shopdi là sàn thương mại điện tử thế hệ mới ứng dụng công nghệ blockchain, nơi giá bán được quyết định bởi số lượng người quan tâm với cơ chế Giá bí mật và Giá giảm không giới hạn. Tự hào là nền tảng đầu tiên sử dụng công nghệ blockchain và NFT để minh bạch hóa thông tin giao dịch và sản phẩm, đặt trải nghiệm người dùng lên hàng đầu và lợi ích của nhà đầu tư. Xây dựng cộng đồng trung gian an toàn cho người mua và người bán để thực hiện các giao dịch và trao đổi hàng hóa.",
+									"Shopdi chuyên về các mặt hàng chính hãng, thời thượng, chất lượng và phiên bản giới hạn. Shopdi giúp các thành viên mua sắm trên hệ thống thương mại điện tử minh bạch, uy tín, đáng tin cậy.Cho phép người mua quyết định giá sản phẩm mà họ muốn mua nhưng không can thiệp vào lợi nhuận và định vị thương hiệu của người bán. Hoạt động kinh doanh của chúng tôi hướng tới việc tối ưu hóa giá trị cho các bên liên quan."
+								]
+							},
+							{
+								"title": "1. Nền tảng & Bảo Mật Cao",
+								"description": [
+									"Nền tảng thương mại điện tử Shopdi hoàn toàn có thể thích ứng với nhiều nhóm người tiêu dùng và người bán với nhiều biến thể về hành vi, đặc điểm, tiền tệ và quy định pháp lý của từng quốc gia khác nhau.",
+									"Tận dụng triệt để Big Data thông qua phân tích dữ liệu từ cơ chế “Giá bí mật” và hành vi của người dùng, Shopdi dễ dàng phân loại tệp khách hàng dựa trên nhiều tiêu chí khác nhau như: sở thích, hành vi, độ tuổi, vị trí, thu nhập… từ đó thiết lập tính phù hợp cho chiến dịch quảng cáo giúp người bán tối ưu hóa chi phí, tiếp cận đúng đối tượng mục tiêu và tăng tỷ lệ chuyển đổi."
+								]
+							},
+							{
+								"title": "2. Giá & Nguồn Gốc Sản Phẩm",
+								"description": [
+									"Sử dụng cơ chế \"Giá bí mật\" và \"Giá giảm không giới hạn\" để người dùng có thể quyết định giá họ muốn mua cho một sản phẩm mà họ mong muốn."
+								]
+							},
+							{
+								"title": "3. Phương thức thanh toán",
+								"description": [
+									"Thanh toán đa phương tiện: từ thanh toán tích hợp đến thanh toán điện tử với hệ thống bảo mật cao giúp tạo ra môi trường thanh toán an toàn, từ đó bảo vệ quyền lợi của người dùng."
+								]
+							},
+							{
+								"title": "4. Cơ hội & Cam kết",
+								"description": [
+									"- Dành cho khách hàng: Cơ hội mua những món hàng chất lượng với giá tốt nhất trên thị trường.",
+									"- Dành cho đại lý: Cơ hội đầu tư, kiếm tiền dành cho các đại lý affiliate.",
+									"- Dành cho đối tác cung ứng: Cơ hội phát triển xuyên quốc gia trong tương lai"
+								]
+							}
+						],
+						"information": {
+							"tokenInfo": {
+								"symbol": "SHOD",
+								"tokenPrice": "0.075 BUSD",
+								"totalRaise": "$16,250.00",
+								"swapAmount": "216,666.666 SHOD",
+								"tokenNetwork": "BSC",
+								"acceptedCurrency": "BUSD",
+								"vestingSchedule": "Mở khoá 100%"
+							},
+							"poolTimeline": {
+								"idoStart": "21h00 17/10/2022 UTC+7",
+								"idoEnd": "23h00 17/10/2022 UTC+7",
+								"listingOn": "16h00 18/10/2022 UTC+7",
+								"claim": "17h00 18/10/2022 UTC+7"
+							}
+						},
+						"teamAndPartner": {
+							"teams": [
+								{
+									"title": "Đỗ Bích Diệp (Đồng sáng lập & Tổng giám đốc)",
+									"description": "Với hơn 12 năm kinh nghiệm tích lũy trong quá trình làm việc tại các tập đoàn lớn như Trung Nguyên Group, SPC Group Hàn Quốc, cùng khả năng đàm phán, giải quyết vấn đề, hiểu biết về luật kinh doanh Việt Nam, kết hợp với kiến ​​thức vững vàng về kế toán, tài chính và tiếp thị, v.v. hiện nay Bà Diệp đang giữ chức vụ Giám đốc Điều hành của Shopdi."
+								},
+								{
+									"title": "Nguyễn Hải Linh (Đồng sáng lập & Giám đốc Công nghệ)",
+									"description": "Hơn 20 năm kinh nghiệm trong phát triển công nghệ. Ông Linh từng là Quán quân Robocon Châu Á Thái Bình Dương năm 2004, Top 2 Nhân tài Đất Việt năm 2006 và nhiều giải thưởng khoa học khác. Anh từng làm việc tại Mỹ và Singapore cho các công ty nằm trong danh sách Forbes 500, đồng thời giữ vị trí CTO của nhiều công ty như: GoTrust, AI Dynamix… và hiện tại ông đang làm việc tại Shopdi với vị trí Giám đốc Công nghệ."
+								},
+								{
+									"title": "Bùi Linh Chi (Giám đốc Marketing)",
+									"description": "Bà Chi Bùi đã có nhiều năm làm việc trong lĩnh vực tiếp thị kỹ thuật số. Bà từng đảm nhận các vai trò hỗ trợ như Giám đốc Công ty TNHH Đầu tư và Quảng cáo Thắng Lợi, Giám sát Tiếp thị của Best Express Việt Nam và Trưởng phòng tiếp thị Công ty Cổ phần Tiki. Bà Chi Bùi hiện là Giám đốc Tiếp thị của Shopdi."
+								},
+								{
+									"title": "Đặng Vũ Quỳnh Giao (Giám đốc Tài chính)",
+									"description": "Với kinh nghiệm gần 20 năm làm kế toán & tài chính cho các tập đoàn FDI cũng như các tập đoàn thiết bị y tế Hoa Kỳ, bà Giao đã từng làm việc cho Jonhson & Johnson, Estee Lauder, v.v. và hiện bà đang làm việc tại Shopdi với vai trò Giám đốc Tài chính."
+								},
+								{
+									"title": "Đặng Trí Thanh (Trưởng phòng Sản phẩm)",
+									"description": "Ông Thành là lập trình viên, từng làm việc về phần mềm trong nhiều lĩnh vực như gia công phần mềm, ngân hàng, giáo dục, FMCG và cũng từng đảm nhiệm vị trí Giám đốc CNTT tại Hướng Nghiệp Á  u, Bibica Group. Với 16 năm kinh nghiệm trong lĩnh vực phát triển công nghệ, ông Thanh làm việc tại Shopdi với vai trò Trường phòng Sản phẩm."
+								},
+								{
+									"title": "Nguyễn Tường Vi (Trưởng phòng Marketing)",
+									"description": "Là diễn giả danh dự tại Digital Summit SEA và là giảng viên Marketing trong lĩnh vực F&B, với hơn 10 năm kinh nghiệm hoạt động trong lĩnh vực tư vấn marketing và triển khai các chiến dịch quảng bá cho các thương hiệu lớn như Hennessy, Thaco, Oppo,…Bà Vi hiện đang đảm nhiệm vị trí Trưởng phòng Marketing của Shopdi."
+								},
+								{
+									"title": "Huỳnh Lê Nhật Quang (Marketing Manager)",
+									"description": "Với kinh nghiệm hơn 6 năm trong lĩnh vực Sales và 5 năm trong ngành Marketing, cùng chuyên môn dày dặn về tâm lý học và phân tích insight khách hàng, tối ưu hóa các chi phí quảng cáo, data analytics. Ông Quang đã nắm giữ các vị trí liên quan Marketing, cố vấn về chiến lược kinh doanh và xử lý khủng hoảng truyền thông. Ông Quang biết cách đào tạo, tối ưu hóa nguồn lực nhân sự và lan tỏa năng lượng tích cực khi làm việc cùng nhân viên. Ngoài ra, ông có nhiều kiến thức về quản lý nhân sự, Sales, pháp lý, spa, F&B và tiền điện tử. Ông Quang Huỳnh hiện tại giữ vị trí quản lý Marketing tại Shopdi."
+								},
+								{
+									"title": "Quách Mai Trâm (Trưởng phòng Pháp lý)",
+									"description": "Luật sư Quách Mai Trâm là thành viên của Luật Đại Việt và bà đã từng làm việc tại Luật Đại Việt, PGT Group, Hiệp hội Vận tải hàng hóa, hiện nay luật sư Trâm làm việc tại Shopdi với vị trí Trưởng phòng Pháp lý."
+								},
+								{
+									"title": "Phạm Cao Sang (Trưởng phòng Kỹ thuật)",
+									"description": "Ông Sang đã cống hiến cho lĩnh vực phân tích dữ liệu và ngành công nghệ hơn 10 năm. Là “đầu não” của mọi dự án mình tham gia, ông Sang có kỹ năng lập trình tuyệt vời và kiến ​​thức chuyên ngành vững vàng liên quan đến công nghệ và nền tảng giao diện người dùng. Từng đảm nhiệm vị trí PHP Developer (Recess Lazada Việt Nam), Giám đốc dự án (Rivercrane Việt Nam) và Trưởng bộ phận Magento Backend (Công ty Phần mềm Bluebolt), chúng tôi tin rằng ông Phạm Cao Sang sẽ giúp dự án phát triển các tính năng cho ứng dụng và trang web một cách tốt nhất với vị trí Trưởng bộ phận kỹ thuật của Shopdi."
+								},
+								{
+									"title": "Nguyễn Thị Mỹ Trang (Trưởng phòng TMĐT)",
+									"description": "Với hơn 20 năm làm việc trong lĩnh vực bán lẻ, bà Trang quen thuộc với vai trò quản lý kinh doanh. Bà từng đảm nhiệm các vị trí quan trọng liên quan đến quản lý chuỗi cung ứng như Fashion Merchandiser của Emart Vietnam, Senior Merchandiser của AEON Vietnam và E-commerce Product Manager của Shark Market. Shopdi tự hào có bà Nguyễn Thị Mỹ Trang làm trưởng phòng Thương mại điện tử của với mục tiêu nâng cao sự hài lòng của khách hàng liên quan đến sản phẩm và trải nghiệm mua sắm."
+								}
+							],
+							"partners": [
+								{
+									"title": "Ông. Trần Bằng Việt",
+									"description": "Là chuyên gia tư vấn hàng đầu về chiến lược doanh nghiệp và tái cấu trúc tổ chức tại Việt Nam, Ông là người sáng lập và Chủ tịch Đông A Solutions, nguyên Tổng Giám đốc Mai Linh Taxi, Phó Tổng Giám đốc Le & Associates và Giám đốc cấp cao TMA Solutions. Ông cũng tham gia dẫn dắt nhiều hội đoàn doanh nhân và chương trình phát triển lãnh đạo. Ông là cố vấn về Kinh doanh & Vận hành cho Shopdi."
+								},
+								{
+									"title": "Ông. Dương Vi Khoa",
+									"description": "Ông Dương Vi Khoa là một nhân vật nổi tiếng trong giới công nghệ thông tin của Việt Nam. Ông có bằng MCSE (Kỹ sư hệ thống của Microsoft) từ năm 19 tuổi và là người sáng lập Diễn đàn tin học Việt Nam (ddth.com), từng quy tụ 60.000 thành viên. Với kinh nghiệm quản lý hơn 20 năm trong ngành máy tính cùng kỹ năng lập kế hoạch chiến lược, chiến lược phát triển kinh doanh, quản lý khủng hoảng, truyền thông xã hội, ông Khoa đã và đang đảm nhiệm nhiều vị trí cố vấn và cộng sự của nhiều dự án, quỹ đầu tư nổi tiếng như KV Ventures, Bhodus, BHO, DHF,… Hiện tại, ông Dương Vi Khoa đang đảm nhiệm chức vụ Phó Chủ tịch VIRESA nhiệm kỳ III (2020-2024) và là nhà đồng sáng lập mạng xã hội GAPO. Shopdi rất hân hạnh khi có được sự tư vấn của ông trên hành trình phát triển cộng đồng của dự án."
+								},
+								{
+									"title": "Ông. Ngô Hoàng Đông",
+									"description": "Ông Ngô Hoàng Đông hay còn được viết với tên Tony Ngô, là người sáng lập Onebit Ventures và Network Media, đồng thời cũng từng là nhà sáng lập Công ty Cổ phần Thương Mại 25 Giây. Ông chính là nhân vật truyền cảm hứng cho sự ra đời của Shopdi. Với 20 năm làm việc trong lĩnh vực tư vấn truyền thông và nhiều năm kinh nghiệm trong lĩnh vực tiền điện tử. Ông Ngô Hoàng Đông hiện đang là Cố vấn Truyền thông và Phát triển Thị trường cho dự án Shopdi."
+								},
+								{
+									"title": "Ông. Lương Tuấn Anh",
+									"description": "Nhà sáng lập kiêm Giám đốc Điều hành của BSC Station - nền tảng IDO phi tập trung trên BSC, nhà đầu tư của hơn 100 dự án phát triển Game trong và ngoài nước. Với bề dày kinh nghiệm trong lĩnh vực blockchain, đấu giá NFT trên Binance Smart Chain và phát triển cộng đồng cryptocurrency. Ông Lương Tuấn Anh là cố vấn phát triển cộng đồng của dự án Shopdi."
+								}
+							]
+						}
+					}
+				},
+				"en": {
+					"description": "Shopdi is a next-generation e-commerce platform applying blockchain technology, where the selling price is determined by the number of interested people using the Hidden Price and Unlimited Discount mechanism. Shopdi is proud to be the first platform to integrate the blockchain technology and NFT to make transaction and product information transparent, and prioritize user experience and investors interests. It's created to buil a secure community of intermediaries for buyers and sellers to conduct transactions and trade items.",
+					"claimPolicy": "TGE unlock 100%",
+					"tabs": {
+						"overview": [
+							{
+								"title": "",
+								"description": [
+									"Shopdi is a next-generation e-commerce platform applying blockchain technology, where the selling price is determined by the number of interested people using the Hidden Price and Unlimited Discount mechanism. Shopdi is proud to be the first platform to integrate the blockchain technology and NFT to make transaction and product information transparent, and prioritize user experience and investors interests. It's created to buil a secure community of intermediaries for buyers and sellers to conduct transactions and trade items.",
+									"Shopdi specializes in authentic, trendy, high-quality and limited-edition products. Shopdi enables members to shop on a transparent, reputable and dependable e-commerce platform while also allowing customers to choose their own prices for products without interfering with the seller's profits or brand positioning. Our business is designed to maximize value for our stakeholders."
+								]
+							},
+							{
+								"title": "1. Platform & High Security",
+								"description": [
+									"The Shopdi e-commerce platform is fully adaptable to a wide range of consumer groups and merchants with many variations in behavior, features, currency and legal regulations of different countries.",
+									"Making full use of Big Data through data analysis from the \"Private  Price\" mechanism and user behavior, Shopdi easily categorizes consumer groups based on many different criteria such as interests, behaviors, age, location, income. Thereby setting the appropriateness for the ad campaign to help the seller optimize costs, reach the right target audience and increase the conversion rate."
+								]
+							},
+							{
+								"title": "2. Product Price & Origin",
+								"description": [
+									"Adopt the \"Hidden Price\" and \"Unlimited Discount\" mechanism so that users can decide the price they want to buy for a product they want. Clear and transparent product origin"
+								]
+							},
+							{
+								"title": "3. Payment method",
+								"description": [
+									"Multichannel payments: from integrated payments to electronic payments with a highly secure system that creates a high-secured payment space, therefore, securing the rights and benefits of users."
+								]
+							},
+							{
+								"title": "4. Opportunity & Commitment",
+								"description": [
+									"- For customers: Opportunity to buy quality products at the best prices in the market.",
+									"- For agents: Investment and earning opportunities for affiliate agents.",
+									"- For supply partners: Opportunities for cross-border development in the future"
+								]
+							}
+						],
+						"information": {
+							"tokenInfo": {
+								"symbol": "SHOD",
+								"tokenPrice": "0.075 BUSD",
+								"totalRaise": "$16,250.00",
+								"swapAmount": "216,666.666 SHOD",
+								"tokenNetwork": "BSC",
+								"acceptedCurrency": "BUSD",
+								"vestingSchedule": "TGE unlock 100%"
+							},
+							"poolTimeline": {
+								"idoStart": "21h00 17/10/2022 UTC+7",
+								"idoEnd": "23h00 17/10/2022 UTC+7",
+								"listingOn": "16h00 18/10/2022 UTC+7",
+								"claim": "17h00 18/10/2022 UTC+7"
+							}
+						},
+						"teamAndPartner": {
+							"teams": [
+								{
+									"title": "Do Bich Diep (Co-Founder & CEO)",
+									"description": "With more than 12 years of experience accumulated in the process of working at large corporations such as Trung Nguyen Group, SPC Group of Korea, with the ability to negotiate, solve problems, understand Vietnamese business law, combine with solid knowledge of accounting, finance and marketing etc. Ms. Diep currently holds the position of Managing Director of Shopdi."
+								},
+								{
+									"title": "Nguyen Hai Linh (CoFounder & Chief Technology Officer)",
+									"description": "With more than 20 years of experience in technology development. Mr. Linh was once the Asia Pacific Robocon Champion in 2004, Top 2 Vietnamese Talents in 2006 and many other scientific awards. He has worked in the US and Singapore for companies listed in the Forbes 500 list, and held the position of CTO of many companies such as: GoTrust, AI Dynamix… and now he is working at Shopdi as a Chief Technology Officer."
+								},
+								{
+									"title": "Bui Linh Chi (CMO)",
+									"description": "Ms Chi Bui has many years of experience in the digital marketing world. She has held supporting roles such as Director of Thang Loi Investment and Advertising Co., Ltd., Marketing Supervisor of Best Express Vietnam and Head of Marketing Department of Tiki Joint Stock Company. Ms. Chi Bui is currently the Marketing Manager of Shopdi."
+								},
+								{
+									"title": "Dang Vu Quynh Giao (CFO)",
+									"description": "With nearly 20 years of experience in accounting & finance for FDI corporations as well as US medical equipment corporations, Ms. Giao has worked for Johnson & Johnson, Estee Lauder, etc. and currently she is working at Shopdi as CFO."
+								},
+								{
+									"title": "Dang Tri Thanh (Product Manager)",
+									"description": "Mr. Thanh is a programmer, used to work in software in many fields such as software outsourcing, banking, education, FMCG and also held the position of IT Director at Huong Nghiep Asia, Bibica Group. With 16 years of experience in technology development, Mr. Thanh works at Shopdi as a Product School."
+								},
+								{
+									"title": "Nguyen Tuong Vi (Marketing Manager)",
+									"description": "As an honorary speaker at Digital Summit SEA and a Marketing lecturer in the field of F&B, with more than 10 years of experience working in the field of marketing consulting and implementing promotional campaigns for big brands such as Hennessy, Thaco , Oppo, etc. Ms. Vi currently holds the position of Marketing Manager of Shopdi."
+								},
+								{
+									"title": "Huynh Le Nhat Quang (Marketing Manager)",
+									"description": "With more than 6 years of experience in Sales and 5 years in Marketing, with extensive expertise in psychology and customer insight analysis, optimization of advertising costs, data analytics. Mr. Quang has held positions related to Marketing, consulting on business strategy and handling crisis communication. Mr. Quang knows how to train, optimize human resources and spread positive energy when working with employees. In addition, he has extensive knowledge in human resource management, Sales, legal, spa, F&B and cryptocurrency. Quang Huynh currently holds the position of Marketing Manager at Shopdi."
+								},
+								{
+									"title": "Quach Mai Tram (Legal Manager)",
+									"description": "Lawyer Quach Mai Tram is a member of Dai Viet Law and she used to work at Dai Viet Law, PGT Group, Freight Transport Association, now lawyer Tram works at Shopdi as Head of Legal Department."
+								},
+								{
+									"title": "Pham Cao Sang (Technical Leader)",
+									"description": "Mr. Sang has been devoted to data analytics and technology industry for more than 10 years. As the \"brain\"of every project he participates in, Mr. Sang has excellent programming skills and solid specialized knowledge related to user interface technology and platforms. Having held the position of PHP Developer (Recess Lazada Vietnam), Project Manager (Rivercrane Vietnam) and Head of Magento Backend Department (Bluebolt Software Company), we believe that Mr. Pham Cao Sang will help the project develop. Develop the best features for apps and websites with Shopdi Technical Lead."
+								},
+								{
+									"title": "Nguyen Thi My Trang (Ecommerce Manager)",
+									"description": "With more than 20 years of working in the retail sector, Ms. Trang is familiar with business management roles. She has held important positions related to supply chain management such as Fashion Merchandiser of Emart Vietnam, Senior Merchandiser of AEON Vietnam and E-commerce Product Manager of Shark Market. Shopdi is proud to have Ms. Nguyen Thi My Trang as its Head of E-Commerce Department with the goal of improving customer satisfaction related to products and shopping experience."
+								}
+							],
+							"partners": [
+								{
+									"title": "Mr. Tran Bang Viet",
+									"description": "As a leading consultant on corporate strategy and organizational restructuring in Vietnam, he is the Founder and Chairman of Dong A Solutions, former General Director Mai Linh Taxi, Deputy General Director of Le & Associates and Le & Associates. Senior Director of TMA Solutions. He is also involved in leading many business associations and leadership development programs. Mr Viet is curently a Sales & Operations advisor for Shopdi."
+								},
+								{
+									"title": "Mr. Duong Vi Khoa",
+									"description": "Mr. Duong Vi Khoa is a famous figure in the information technology world of Vietnam. He holds an MCSE (Microsoft Systems Engineer) degree at the age of 19 and is the founder of the Vietnam Informatics Forum (ddth.com), which once gathered 60,000 members. With more than 20 years of management experience in the computer industry and skills in strategic planning, business development, crisis management, and social media, Mr. Khoa has held many consulting positions. and associates of many famous projects and investment funds such as KV Ventures, Bhodus, BHO, DHF, etc. Currently, Mr. Duong Vi Khoa is holding the position of Vice President of VIRESA term III (2020-2024) and is co-founder of the social network GAPO. Shopdi is very pleased to have his advice on the project's community development journey."
+								},
+								{
+									"title": "Mr. Ngo Hoang Dong",
+									"description": "Mr. Ngo Hoang Dong, also known as Tony Ngo, is the founder of Onebit Ventures and Network Media, and was also the founder of 25 Second Trading Joint Stock Company. He is the character that inspired the birth of Shopdi. With 20 years of working in the field of media consulting and many years of experience in the field of cryptocurrency. Mr. Ngo Hoang Dong is currently the Marketing and Communication Advisor for the Shopdi project."
+								},
+								{
+									"title": "Mr. Luong Tuan Anh",
+									"description": "Founder and CEO of BSC Station - a decentralized IDO platform on BSC, investor of more than 100 domestic and foreign Game development projects. With a wealth of experience in the blockchain field, NFT auction on Binance Smart Chain and development of the cryptocurrency community. Mr. Luong Tuan Anh is the community development consultant of the Shopdi project."
+								}
+							]
+						}
+					}
+				}
+			},
+			"status": 1,
+			"startTimeUnix": 1666015200,
+			"endTimeUnix": 1666022400
+		},
+		{
+			"id": 0,
+			"social": [
+				{
+					"type": "website",
+					"link": "https://athena.football"
+				},
+				{
+					"type": "facebook",
+					"link": "https://www.facebook.com/FootballAthena"
+				},
+				{
+					"type": "telegram",
+					"link": "https://t.me/athenafootballchannel"
+				},
+				{
+					"type": "twitter",
+					"link": "https://twitter.com/footballathena"
+				},
+				{
+					"type": "youtube",
+					"link": "https://youtube.com/user/vinik55"
+				},
+				{
+					"type": "tiktok",
+					"link": "https://www.tiktok.com/@athena.football?_t=8WiRE5Yje9S&_r=1"
+				}
+			],
+			"tagProject": {
+				"audit": true,
+				"kyc": true
+			},
+			"certificate": {
+				"incubate": false,
+				"potential": true,
+				"experiment": false
+			},
+			"name": "Athena Football",
+			"symbol": "ATH",
+			"decimals": "18",
+			"price": 0.0025,
+			"currencyPair": "BUSD",
+			"address": "0x525B6dC1A1965200754054D4BF548E31E26e9503",
+			"tags": ["Football", "IDO"],
+			"startDate": "11:00 UTC+7 04/11/2022",
+			"endDate": "11:00 UTC+7 05/11/2022",
+			"claimDate": "21:00 UTC+7 05/11/2022",
+			"idoContract": "0xcb959a3311559648CE6E4FfbAE402DE5c219e8d0",
+			"chain": "BSC",
+			"minRank": 1,
+			"logo": {
+				"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/athenafootball.jpg",
+				"small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/athenafootball.jpg"
+			},
+			"projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/athenafootball.jpg",
+			"delFlg": false,
+			"language": {
+				"vi": {
+					"description": "Một nền tảng bóng đá Web3 ngay trong mùa World Cup. Theo như chúng tôi biết, không có dự án nào đồng hành cùng các sự kiện thể thao lớn và đưa người hâm mộ đến với một cộng đồng gốc khổng lồ. Có những nền tảng cá cược thể thao tiền điện tử tuy nhiên không quá tin tưởng và quá tập trung vào cá cược.",
+					"claimPolicy": "Mở khoá 20%",
+					"tabs": {
+						"overview": [
+							{
+								"title": "Athena Football",
+								"description": [
+									"Hệ sinh thái bóng đá phi tập trung có tên Athena Football được phát triển để hỗ trợ các dịp thể thao như World Cup tiếp theo vào năm 2022. Nó được tạo ra để mang đến cho người dùng trải nghiệm thú vị hơn khi xem các sự kiện thể thao. Chúng tôi đã chọn xây dựng một nền tảng nơi tất cả người hâm mộ có thể ủng hộ đội tuyển quốc gia yêu thích của họ bằng cách đầu tư vào Fan Token của đội đó và có tiềm năng giành được những phần thưởng tiền điện tử tuyệt vời."
+								]
+							},
+							{
+								"title": "Sự độc đáo",
+								"description": [
+									"Một nền tảng bóng đá Web3 ngay trong mùa World Cup. Theo như chúng tôi biết, không có dự án nào đồng hành cùng các sự kiện thể thao lớn và đưa người hâm mộ đến với một cộng đồng gốc khổng lồ. Có những nền tảng cá cược thể thao tiền điện tử tuy nhiên không quá tin tưởng và quá tập trung vào cá cược."
+								]
+							}
+						],
+						"information": {
+							"tokenInfo": {
+								"symbol": "ATH",
+								"tokenPrice": "0.0025 BUSD",
+								"tokenNetwork": "BSC",
+								"acceptedCurrency": "BUSD",
+								"vestingSchedule": "20% tại TGE và trả dần trong 4 tháng, 20% mỗi tháng"
+							},
+							"poolTimeline": {
+								"idoStart": "11:00 UTC+7 04/11",
+								"idoEnd": "11:00 UTC+7 05/11",
+								"listingOn": "20:00 UTC+7 on 5/11 PancakeSwap",
+								"claim": "21:00 UTC+7 05/11"
+							}
+						},
+						"teamAndPartner": {
+							"teams": [
+								{
+									"title": "G.B Ethan (CEO)",
+									"description": "Một người có tầm nhìn xa, hiểu biết về tiền điện tử và hiện là cố vấn đáng tin cậy cho các doanh nghiệp có ảnh hưởng nhất trên thế giới. 6 năm kinh nghiệm về blockchain."
+								},
+								{
+									"title": "Jonathan Damien (CMO)",
+									"description": "Chuyên gia Marketing với 4 năm kinh nghiệm. Chịu trách nhiệm về các chiến lược tiếp thị và quan hệ đối tác."
+								}
+							]
+						}
+					}
+				},
+				"en": {
+					"description": "A Web3 Football Platform right in World Cup Season. As far as we know there are no projects accompanying major sports events and bringing the fans together to a huge rooting community. There are crypto sport betting platforms however not very soffisticated and too focused on betting.",
+					"claimPolicy": "TGE unlock 20%",
+					"tabs": {
+						"overview": [
+							{
+								"title": "Athena Football",
+								"description": [
+									"A decentralized football ecosystem called Athena Football was developed to support sporting occasions like the next World Cup in 2022. It is made to give users a more thrilling experience when watching sporting events. We chose to build a platform where all fans can support their favorite national team by investing in that team's Fan Token and having the potential to win amazing crypto rewards."
+								]
+							},
+							{
+								"title": "Unique",
+								"description": [
+									"A Web3 Football Platform right in World Cup Season. As far as we know there are no projects accompanying major sports events and bringing the fans together to a huge rooting community. There are crypto sport betting platforms however not very soffisticated and too focused on betting."
+								]
+							}
+						],
+						"information": {
+							"tokenInfo": {
+								"symbol": "ATH",
+								"tokenPrice": "0.0025 BUSD",
+								"tokenNetwork": "BSC",
+								"acceptedCurrency": "BUSD",
+								"vestingSchedule": "20% at TGE, and linear vesting in 4 months; 20% a month"
+							},
+							"poolTimeline": {
+								"idoStart": "11:00 UTC+7 04/11",
+								"idoEnd": "11:00 UTC+7 05/11",
+								"listingOn": "20:00 UTC+7 on 5/11 PancakeSwap",
+								"claim": "21:00 UTC+7 05/11"
+							}
+						},
+						"teamAndPartner": {
+							"teams": [
+								{
+									"title": "G.B Ethan (CEO)",
+									"description": "A crypto-savvy visionary and currently a trusted advisor to the most influential businesses in the world. 6 years of blockchain experience."
+								},
+								{
+									"title": "Jonathan Damien (CMO)",
+									"description": "Marketing Professional with 4 years experience. Responsible for marketing strategies and partnerships."
+								}
+							]
+						}
+					}
+				}
+			},
+			"status": 1,
+			"startTimeUnix": 1667534400,
+			"endTimeUnix": 1667620800
+		},
+		{
+			"id": 0,
+			"social": [
+				{
+					"type": "website",
+					"link": "https://lstrade.io/"
+				},
+				{
+					"type": "facebook",
+					"link": "https://fb.com/lstrade.p2e"
+				},
+				{
+					"type": "telegram",
+					"link": "https://t.me/LSTRADE_channel"
+				},
+				{
+					"type": "twitter",
+					"link": "https://twitter.com/lstradeofficial"
+				}
+			],
+			"tagProject": {
+				"audit": true,
+				"kyc": true
+			},
+			"certificate": {
+				"incubate": false,
+				"potential": true,
+				"experiment": false
+			},
+			"name": "LS Coin",
+			"symbol": "LSC",
+			"decimals": "18",
+			"price": 1,
+			"currencyPair": "BUSD",
+			"address": "0x293Faca2e5d6aC7A0e704eAfEda628528b3b3f0a",
+			"tags": ["LSC", "IDO"],
+			"startDate": "9PM, 18th April 2023 (UTC+8)",
+			"endDate": "9PM, 19th April 2023 (UTC+8)",
+			"claimDate": "12PM, 19th April 2023 (UTC+8)",
+			"idoContract": "0x2789DD0910306A83f1DC831830eC0254CabDf0a2",
+			"chain": "BSC",
+			"minRank": 1,
+			"logo": {
+				"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/athenafootball.jpg",
+				"small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/lstrade.jpg"
+			},
+			"projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/lstradebanner.jpg",
+			"delFlg": false,
+			"language": {
+				"vi": {
+					"description": "LS TRADE, một nền tảng giao dịch tùy chọn nhị phân phi tập trung thế hệ tiếp theo, là một sản phẩm đa tính năng kết hợp nhiều yếu tố như Predict-to-Earn (P2E), Mine-to-Earn (M2E) và Burn-to-Earn (B2E). Nền tảng LS TRADE nhằm mục đích thu hút nhiều user khác nhau, bao gồm Traders, Miners & Holders, tham gia và tận dụng nhiều cơ hội lợi nhuận hấp dẫn từ hệ sinh thái LS TRADE.",
+					"tabs": {
+						"overview": [
+							{
+								"title": "LS TRADE",
+								"description": [
+									"LS TRADE, một nền tảng giao dịch tùy chọn nhị phân phi tập trung thế hệ tiếp theo, là một sản phẩm đa tính năng kết hợp nhiều yếu tố như Predict-to-Earn (P2E), Mine-to-Earn (M2E) và Burn-to-Earn (B2E). Nền tảng LS TRADE nhằm mục đích thu hút nhiều user khác nhau, bao gồm Traders, Miners & Holders, tham gia và tận dụng nhiều cơ hội lợi nhuận hấp dẫn từ hệ sinh thái LS TRADE."
+								]
+							},
+							{
+								"title": "Trải nghiệm dễ dàng",
+								"description": [
+									"Cơ chế nhập lệnh được thiết kế để được rút gọn, dễ dàng truy cập và quen thuộc với tất cả người dùng."
+								]
+							},
+							{
+								"title": "Sự minh bạch",
+								"description": [
+									"Dữ liệu giá được cung cấp bởi ChainLink Oracle, và tất cả thông tin và dữ liệu như các lệnh, phiên giao dịch, giá đóng cửa, v.v. được ghi lại và quản lý bởi các hợp đồng thông minh, có thể được kiểm tra trực tiếp trên chuỗi."
+								]
+							},
+							{
+								"title": "Phi tập trung",
+								"description": [
+									"Nền tảng không giữ bất kỳ tài sản người dùng nào. Người dùng có hoàn toàn quyền kiểm soát tài sản của họ thông qua ví Defi của mình."
+								]
+							}
+						],
+						"information": {
+							"tokenInfo": {
+								"symbol": "LSC",
+								"tokenPrice": "1 BUSD",
+								"tokenNetwork": "BSC",
+								"acceptedCurrency": "BUSD",
+								"vestingSchedule": "75% tại TGE và trả dần trong 5 tháng, 5% mỗi tháng",
+								"swapAmount": "50,000 LSC"
+							},
+							"poolTimeline": {
+								"idoStart": "9PM, 18th April 2023 (UTC+8)",
+								"idoEnd": "9PM, 19th April 2023 (UTC+8)",
+								"listingOn": "TBA",
+								"claim": "After 2 hours listing"
+							}
+						},
+						"teamAndPartner": {
+							"teams": [
+								{
+									"title": "3S Wallet",
+									"description": "Tự hào là công cụ tài chính vượt trội khi là nơi lưu trữ, chi tiêu và giao dịch đáng an toàn cho các cá nhân và tổ chức với hơn 3000 đồng tiền mã hóa khác nhau. Trang bị 2 lớp bảo mật đảm bảo an toàn tuyệt đối, giao diện thân thiện với mọi người dùng."
+								},
+								{
+									"title": "BHO Network",
+									"description": "BHO Network là Layer 1, cho phép xây dựng nhiều loại ứng dụng khác nhau."
+								},
+								{
+									"title": "OneBit Venture",
+									"description": "Onebit Ventures is an investment fund that obtains a massive community ecosystem, allowing users to gain access to the DeFi platform in the easiest, safest and most cost-effective way possible. As a licensed fund management company of innovative start-ups, we strive to obtain the fund in a transparent, reasonable and efficient manner, providing safety to our investors."
+								},
+								{
+									"title": "Verichains",
+									"description": "Since 2017, Verichains has been a pioneer and leading blockchain security firm in APAC, with extensive expertise in security, cryptography and core blockchain technology. More than 200 clients trust us with $50 billion assets under protection, including several high-profile clients such as BNB Chain, Klaytn, Wemix, Line Corp, Axie Infinity, Ronin Network, and Kyber Network."
+								}
+							]
+						}
+					}
+				},
+				"en": {
+					"description": "LS TRADE is a decentralized Futures Battle (Predict Price Move) trading platform that uses blockchain and smart contracts as the technological foundation of the application. It provides real-time Bitcoin price fluctuations based on ChainLink Oracle data. As a multi-featured product and a combination of many factors such as: Predict-to-Earn (P2E), Mine-to-Earn (M2E) and Burn-to-Earn (B2E), the LS TRADE platform aims to attract a variety of users, including: Traders, Miners & Holders, to join and take advantage of many attractive profit opportunities from the LS TRADE ecosystem.",
+					"tabs": {
+						"overview": [
+							{
+								"title": "LS TRADE",
+								"description": [
+									"LS TRADE is a decentralized Futures Battle (Predict Price Move) trading platform that uses blockchain and smart contracts as the technological foundation of the application. It provides real-time Bitcoin price fluctuations based on ChainLink Oracle data. As a multi-featured product and a combination of many factors such as: Predict-to-Earn (P2E), Mine-to-Earn (M2E) and Burn-to-Earn (B2E), the LS TRADE platform aims to attract a variety of users, including: Traders, Miners & Holders, to join and take advantage of many attractive profit opportunities from the LS TRADE ecosystem."
+								]
+							},
+							{
+								"title": "Easy experience",
+								"description": [
+									"The order entry mechanism is designed to be streamlined, easily accessible, and familiar to all users."
+								]
+							},
+							{
+								"title": "Transparency",
+								"description": [
+									"Price data provided by ChainLink Oracle, and all information and data such as orders, trading sessions, closing prices, etc. are recorded and managed by smart contracts, directly auditable on-chain."
+								]
+							},
+							{
+								"title": "Decentralization",
+								"description": [
+									"The platform holds absolutely no user assets. Users take full control of their assets via their Defi wallet."
+								]
+							}
+						],
+						"information": {
+							"tokenInfo": {
+								"symbol": "LSC",
+								"tokenPrice": "1 BUSD",
+								"tokenNetwork": "BSC",
+								"acceptedCurrency": "BUSD",
+								"vestingSchedule": "75% TGE, then linear monthly vesting in 05 months",
+								"swapAmount": "50,000 LSC"
+							},
+							"poolTimeline": {
+								"idoStart": "9PM, 18th April 2023 (UTC+8)",
+								"idoEnd": "9PM, 19th April 2023 (UTC+8)",
+								"listingOn": "TBA",
+								"claim": "After 2 hours listing"
+							}
+						},
+						"teamAndPartner": {
+							"teams": [
+								{
+									"title": "3S Wallet",
+									"description": "3S Wallet is an easy-to-use platform with trusted storage, spending, and transaction features for you and your company. With over 3000+ cryptocurrencies and 2 layers of security to make it a safe and simple user-friendly interface."
+								},
+								{
+									"title": "BHO Network",
+									"description": "BHO Network is Layer 1 that allows many different types of applications built on."
+								},
+								{
+									"title": "OneBit Venture",
+									"description": "Onebit Ventures is an investment fund that obtains a massive community ecosystem, allowing users to gain access to the DeFi platform in the easiest, safest and most cost-effective way possible. As a licensed fund management company of innovative start-ups, we strive to obtain the fund in a transparent, reasonable and efficient manner, providing safety to our investors."
+								},
+								{
+									"title": "Verichains",
+									"description": "Since 2017, Verichains has been a pioneer and leading blockchain security firm in APAC, with extensive expertise in security, cryptography and core blockchain technology. More than 200 clients trust us with $50 billion assets under protection, including several high-profile clients such as BNB Chain, Klaytn, Wemix, Line Corp, Axie Infinity, Ronin Network, and Kyber Network."
+								}
+							]
+						}
+					}
+				}
+			},
+			"status": 1,
+			"startTimeUnix": 1681822800,
+			"endTimeUnix": 1681909200,
+			"isWL": false
+		},
+		{
+			"id": 1,
+			"social": [
+				{
+					"type": "website",
+					"link": "https://lstrade.io/"
+				},
+				{
+					"type": "facebook",
+					"link": "https://fb.com/lstrade.p2e"
+				},
+				{
+					"type": "telegram",
+					"link": "https://t.me/LSTRADE_channel"
+				},
+				{
+					"type": "twitter",
+					"link": "https://twitter.com/lstradeofficial"
+				}
+			],
+			"tagProject": {
+				"audit": true,
+				"kyc": true
+			},
+			"certificate": {
+				"incubate": false,
+				"potential": true,
+				"experiment": false
+			},
+			"name": "LS Coin",
+			"symbol": "LSC",
+			"decimals": "18",
+			"price": 1,
+			"currencyPair": "BUSD",
+			"address": "0x293Faca2e5d6aC7A0e704eAfEda628528b3b3f0a",
+			"tags": ["LSC", "IDO"],
+			"startDate": "8PM, 18th April 2023 (UTC+7)",
+			"endDate": "8PM, 19th April 2023 (UTC+7)",
+			"claimDate": "10PM, 19th April 2023 (UTC+7)",
+			"idoContract": "0x2789DD0910306A83f1DC831830eC0254CabDf0a2",
+			"chain": "BSC",
+			"minRank": 1,
+			"logo": {
+				"large": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/large/athenafootball.jpg",
+				"small": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/logo/small/lstrade.jpg"
+			},
+			"projectBanner": "https://raw.githubusercontent.com/ngoctungqhi/onebit-project/main/banner/lstradebanner.jpg",
+			"delFlg": false,
+			"language": {
+				"vi": {
+					"description": "LS TRADE, một nền tảng giao dịch tùy chọn nhị phân phi tập trung thế hệ tiếp theo, là một sản phẩm đa tính năng kết hợp nhiều yếu tố như Predict-to-Earn (P2E), Mine-to-Earn (M2E) và Burn-to-Earn (B2E). Nền tảng LS TRADE nhằm mục đích thu hút nhiều user khác nhau, bao gồm Traders, Miners & Holders, tham gia và tận dụng nhiều cơ hội lợi nhuận hấp dẫn từ hệ sinh thái LS TRADE.",
+					"tabs": {
+						"overview": [
+							{
+								"title": "LS TRADE",
+								"description": [
+									"LS TRADE, một nền tảng giao dịch tùy chọn nhị phân phi tập trung thế hệ tiếp theo, là một sản phẩm đa tính năng kết hợp nhiều yếu tố như Predict-to-Earn (P2E), Mine-to-Earn (M2E) và Burn-to-Earn (B2E). Nền tảng LS TRADE nhằm mục đích thu hút nhiều user khác nhau, bao gồm Traders, Miners & Holders, tham gia và tận dụng nhiều cơ hội lợi nhuận hấp dẫn từ hệ sinh thái LS TRADE."
+								]
+							},
+							{
+								"title": "Trải nghiệm dễ dàng",
+								"description": [
+									"Cơ chế nhập lệnh được thiết kế để được rút gọn, dễ dàng truy cập và quen thuộc với tất cả người dùng."
+								]
+							},
+							{
+								"title": "Sự minh bạch",
+								"description": [
+									"Dữ liệu giá được cung cấp bởi ChainLink Oracle, và tất cả thông tin và dữ liệu như các lệnh, phiên giao dịch, giá đóng cửa, v.v. được ghi lại và quản lý bởi các hợp đồng thông minh, có thể được kiểm tra trực tiếp trên chuỗi."
+								]
+							},
+							{
+								"title": "Phi tập trung",
+								"description": [
+									"Nền tảng không giữ bất kỳ tài sản người dùng nào. Người dùng có hoàn toàn quyền kiểm soát tài sản của họ thông qua ví Defi của mình."
+								]
+							}
+						],
+						"information": {
+							"tokenInfo": {
+								"symbol": "LSC",
+								"tokenPrice": "1 BUSD",
+								"tokenNetwork": "BSC",
+								"acceptedCurrency": "BUSD",
+								"vestingSchedule": "75% tại TGE và trả dần trong 5 tháng, 5% mỗi tháng",
+								"swapAmount": "50,000 LSC"
+							},
+							"poolTimeline": {
+								"idoStart": "8PM, 18th April 2023 (UTC+7)",
+								"idoEnd": "8PM, 19th April 2023 (UTC+7)",
+								"listingOn": "TBA",
+								"claim": "After 2 hours listing"
+							}
+						},
+						"teamAndPartner": {
+							"teams": [
+								{
+									"title": "3S Wallet",
+									"description": "Tự hào là công cụ tài chính vượt trội khi là nơi lưu trữ, chi tiêu và giao dịch đáng an toàn cho các cá nhân và tổ chức với hơn 3000 đồng tiền mã hóa khác nhau. Trang bị 2 lớp bảo mật đảm bảo an toàn tuyệt đối, giao diện thân thiện với mọi người dùng."
+								},
+								{
+									"title": "BHO Network",
+									"description": "BHO Network là Layer 1, cho phép xây dựng nhiều loại ứng dụng khác nhau."
+								},
+								{
+									"title": "OneBit Venture",
+									"description": "Onebit Ventures is an investment fund that obtains a massive community ecosystem, allowing users to gain access to the DeFi platform in the easiest, safest and most cost-effective way possible. As a licensed fund management company of innovative start-ups, we strive to obtain the fund in a transparent, reasonable and efficient manner, providing safety to our investors."
+								},
+								{
+									"title": "Verichains",
+									"description": "Since 2017, Verichains has been a pioneer and leading blockchain security firm in APAC, with extensive expertise in security, cryptography and core blockchain technology. More than 200 clients trust us with $50 billion assets under protection, including several high-profile clients such as BNB Chain, Klaytn, Wemix, Line Corp, Axie Infinity, Ronin Network, and Kyber Network."
+								}
+							]
+						}
+					}
+				},
+				"en": {
+					"description": "LS TRADE is a decentralized Futures Battle (Predict Price Move) trading platform that uses blockchain and smart contracts as the technological foundation of the application. It provides real-time Bitcoin price fluctuations based on ChainLink Oracle data. As a multi-featured product and a combination of many factors such as: Predict-to-Earn (P2E), Mine-to-Earn (M2E) and Burn-to-Earn (B2E), the LS TRADE platform aims to attract a variety of users, including: Traders, Miners & Holders, to join and take advantage of many attractive profit opportunities from the LS TRADE ecosystem.",
+					"tabs": {
+						"overview": [
+							{
+								"title": "LS TRADE",
+								"description": [
+									"LS TRADE is a decentralized Futures Battle (Predict Price Move) trading platform that uses blockchain and smart contracts as the technological foundation of the application. It provides real-time Bitcoin price fluctuations based on ChainLink Oracle data. As a multi-featured product and a combination of many factors such as: Predict-to-Earn (P2E), Mine-to-Earn (M2E) and Burn-to-Earn (B2E), the LS TRADE platform aims to attract a variety of users, including: Traders, Miners & Holders, to join and take advantage of many attractive profit opportunities from the LS TRADE ecosystem."
+								]
+							},
+							{
+								"title": "Easy experience",
+								"description": [
+									"The order entry mechanism is designed to be streamlined, easily accessible, and familiar to all users."
+								]
+							},
+							{
+								"title": "Transparency",
+								"description": [
+									"Price data provided by ChainLink Oracle, and all information and data such as orders, trading sessions, closing prices, etc. are recorded and managed by smart contracts, directly auditable on-chain."
+								]
+							},
+							{
+								"title": "Decentralization",
+								"description": [
+									"The platform holds absolutely no user assets. Users take full control of their assets via their Defi wallet."
+								]
+							}
+						],
+						"information": {
+							"tokenInfo": {
+								"symbol": "LSC",
+								"tokenPrice": "1 BUSD",
+								"tokenNetwork": "BSC",
+								"acceptedCurrency": "BUSD",
+								"vestingSchedule": "75% TGE, then linear monthly vesting in 05 months",
+								"swapAmount": "50,000 LSC"
+							},
+							"poolTimeline": {
+								"idoStart": "9PM, 18th April 2023 (UTC+8)",
+								"idoEnd": "9PM, 19th April 2023 (UTC+8)",
+								"listingOn": "TBA",
+								"claim": "After 2 hours listing"
+							}
+						},
+						"teamAndPartner": {
+							"teams": [
+								{
+									"title": "3S Wallet",
+									"description": "3S Wallet is an easy-to-use platform with trusted storage, spending, and transaction features for you and your company. With over 3000+ cryptocurrencies and 2 layers of security to make it a safe and simple user-friendly interface."
+								},
+								{
+									"title": "BHO Network",
+									"description": "BHO Network is Layer 1 that allows many different types of applications built on."
+								},
+								{
+									"title": "OneBit Venture",
+									"description": "Onebit Ventures is an investment fund that obtains a massive community ecosystem, allowing users to gain access to the DeFi platform in the easiest, safest and most cost-effective way possible. As a licensed fund management company of innovative start-ups, we strive to obtain the fund in a transparent, reasonable and efficient manner, providing safety to our investors."
+								},
+								{
+									"title": "Verichains",
+									"description": "Since 2017, Verichains has been a pioneer and leading blockchain security firm in APAC, with extensive expertise in security, cryptography and core blockchain technology. More than 200 clients trust us with $50 billion assets under protection, including several high-profile clients such as BNB Chain, Klaytn, Wemix, Line Corp, Axie Infinity, Ronin Network, and Kyber Network."
+								}
+							]
+						}
+					}
+				}
+			},
+			"status": 1,
+			"startTimeUnix": 1681822800,
+			"endTimeUnix": 1681909200,
+			"isWL": true
+		}
+	]
 }
